@@ -1,0 +1,128 @@
+#home_igl_container
+{
+
+    width: 1305px;
+    height: 382px;
+    /* border: 1px solid green; */
+}
+
+#home_igl_header_text
+{
+    position: absolute;
+    text-align: justify;
+    left: 0;
+    font-family: "gel_tablet_gothic_light",  'Trebuchet MS',  sans-serif;
+    color: #5c6264;
+    font-size: 29px;
+}
+
+
+
+#home_igl_content
+{
+    position: absolute;
+    bottom: 0;
+    width: 1305px;
+    height: 344px;
+    /* border: 1px solid green; */
+}
+
+#home_igl_bg
+{
+    position: absolute;
+    bottom: 0;
+}
+
+
+#home_igl_fob
+{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+
+#home_igl_gloss
+{
+    position: absolute;
+    top: 40px;
+}
+
+
+#home_igl_ncc_container
+{
+    position: absolute;
+    height: 275px;
+    width: 1304px;
+    top: 20px;
+}
+
+#home_igl_connecting_line
+{
+    position: absolute;
+    top: 130px;
+    right: 260px;
+}
+
+
+#home_igl_computer
+{
+    position: absolute;
+    top: 40px;
+    right: 150px;
+
+}
+
+
+
+
+#home_igl_fixture
+{
+    position: absolute;
+    left: 135px;
+    top: 55px;
+}
+
+
+#home_igl_hub
+{
+    position: absolute;
+    left: 555px;
+    bottom: 45px;
+}
+
+
+#home_igl_layer_434
+{
+    position: absolute;
+
+}
+
+#home_igl_bottom_section_wrapper
+{
+    position: absolute;
+    bottom: 0;
+    height: 66px;
+    width: 1304px;
+    /* border: 1px solid green; */
+}
+
+#home_igl_bottom_text_wrapper
+{
+    position: absolute;
+    width: 1079px;
+    height: 40px;
+    left: 36px;
+    top: 13px;
+    text-align: center;
+
+    /* border: 1px solid green; */
+
+}
+
+#home_igl_bottom_text
+{
+    font-family: "gel_tablet_gothic_light",  'Trebuchet MS',  sans-serif;
+    font-size: 18px;
+    color: white;
+}

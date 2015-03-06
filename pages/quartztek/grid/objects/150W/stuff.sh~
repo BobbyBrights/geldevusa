@@ -1,0 +1,29 @@
+#!/bin/bash
+
+VOLTAGE="150W"
+
+for i in $(ls); do
+	echo ${i}
+done
+
+if false; then
+for i in $(find .); do
+	if [[ ${i} =~ '.php' ]]; then
+		echo "replacing ${i}"
+		sed -i "s/45W/${VOLTAGE}/g" ${i}
+		sed -i "s/ceramatek/quartztek/g" ${i}
+	fi
+	if [[ ${i} =~ '.css' ]]; then
+		echo "replacing ${i}"
+		sed -i "s/45W/${VOLTAGE}/g" ${i}
+		sed -i "s/ceramatek/quartztek/g" ${i}
+	fi
+	if [[ ${i} =~ '.js' ]]; then
+		echo "replacing ${i}"
+		sed -i "s/45W/${VOLTAGE}/g" ${i}
+		sed -i "s/ceramatek/quartztek/g" ${i}
+	fi
+
+done
+
+fi

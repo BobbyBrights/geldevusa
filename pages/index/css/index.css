@@ -1,0 +1,171 @@
+*{
+    margin:0;
+    padding:0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-min-device-pixel-ratio:10000;
+    -webkit-min-device-pixel-ratio:0;
+
+}
+
+
+body
+{
+    margin:0;
+    padding:0;
+    width: 100%;
+    height: 100%;
+    min-width: 1304px;
+
+}
+
+a img
+{
+    border: none;
+}
+
+a
+{
+    color: black;
+    text-decoration: none;
+
+}
+
+a:link
+{
+  text-decoration: none;
+}
+
+a:visited
+{
+    text-decoration: none;
+}
+
+#index_body_container
+{
+    position: absolute;
+    width: 100%;
+    height: 2440px;
+    top: 900px;
+
+    /*    width: 1304px;
+          height: 2440px;
+    */
+}
+
+#index_outer_body_wrapper
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1304px;
+    height: 2440px;
+    top: 50px;
+
+}
+
+#index_inner_body_wrapper
+{
+    position: absolute ;
+    width: 1304px;
+    height: 2440px;
+    top: 0px;
+    display: none;
+}
+
+
+#index_persistent_menu_wrapper
+{
+    position: absolute;
+    width: 1304px;
+    height: 0px;
+    top: 0px;
+    display: none;
+}
+
+
+#index_body_wrapper
+{
+
+    position: absolute ;
+    width: 1304px;
+    height: 2440px;
+    top: 0px;
+    overflow: hidden;
+
+
+}
+
+#index_background_wrapper
+{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 3600px;
+    margin-top: -500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#index_hidden_background_wrapper
+{
+    position: relative;
+    width: 5168px;
+    left: 50%;
+    margin-left: -1280px;
+    height: 3600px;
+    overflow: hidden;
+}
+
+#index_products_banner_absolute_wrapper
+{
+    position: absolute;
+    width: 100%;
+    height: 296px;
+    left: 0;
+    margin-top: 0px;
+    z-index: 2;
+}
+#index_products_banner_wrapper
+{
+    position: relative;
+    width: 1304px;
+    height: 0;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+
+#index_header_wrapper
+{
+    top: 0;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 565px;
+    z-index: 2;
+}
+
+
+
+
+#index_footer_wrapper
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 527px;
+    width: 100%;
+    margin-top: -526px;
+    z-index: 2;
+}
+
+
+
+
+
+
+

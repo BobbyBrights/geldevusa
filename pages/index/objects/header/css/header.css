@@ -1,0 +1,750 @@
+#header_container
+{
+    position: relative;
+    top: 0;
+    height: 565px;
+    width: 100%;
+    max-width: 2562px;
+    min-width: 1304px;
+    background: url('/pages/index/objects/header/img/backgrounds/header_bg.png');
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#header_content_container
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1304px;
+    height: 529px;
+    min-width: 1304px;
+    /* border: 1px solid blue; */
+
+
+}
+
+#header_top_bar_container
+{
+    position: absolute;
+    top: 0;
+    width: 1304px;
+    height: 40px;
+    /* border: 1px solid blue; */
+
+
+}
+
+#header_top_bar_center_container
+{
+    position: absolute;
+    top: 0;
+    left: 273px;
+    /* border: 1px solid blue; */
+    width: 886px;
+    height: 40px;
+
+}
+
+
+#header_top_bar_right_buttons
+{
+    position: absolute;
+    right: 0;
+    width: 180px;
+    height: 40px;
+
+
+}
+
+#header_social_bg
+{
+    position: absolute;
+    top: 0px;
+    width: 78%;
+    height: 100%;
+}
+
+
+
+
+#header_social_dividers
+{
+    position: absolute;
+    left: 0;
+
+}
+
+#header_social_facebook_logo
+{
+    position: absolute;
+    top: 12px;
+    left: 18px;
+}
+
+
+#header_social_gp
+{
+    position: absolute;
+    left: 62px;
+    top: 12px;
+
+}
+
+
+#header_social_yl
+{
+    position: absolute;
+    right: 50px;
+    top: 12px;
+}
+
+
+
+#header_au_cu_gel_kids
+{
+    position: absolute;
+    top: 5px;
+    right: 0;
+    z-index: 2;
+
+}
+
+#header_top_bar_left_buttons
+{
+    position: absolute;
+    left: 0;
+    width: 270px;
+    height: 38px;
+    /* border: 1px solid blue; */
+
+}
+
+#header_au_cu_dividers
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 39px;
+
+}
+
+
+#header_faded_dividers
+{
+
+    position: absolute;
+    right: 117px;
+    top: 15px;
+}
+
+
+#header_au_cu_bg
+{
+    position: absolute;
+    left: 0;
+    height: 39px;
+    width: 100%;
+}
+
+#header_gel_kids_link
+{
+    z-index: 2;
+}
+
+
+
+
+
+#header_top_bar_left_text_container
+{
+    position: absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    left: 31px;
+    top: 15px;
+    width: 206px;
+    height: 13px;
+
+}
+
+
+.header_top_bar_left_text
+{
+
+    color: #99a1a4;
+    font-size: 14px;
+    text-decoration:none;
+    z-index: 5;
+
+}
+
+.header_top_bar_left_text:link, .header_top_bar_left_text:hover
+{
+    text-decoration:none;
+    color: #ee2f30;
+
+}
+
+
+#header_top_bar_about_us
+{
+    position: absolute;
+    left: 0;
+}
+
+
+#header_top_bar_contact_us
+{
+    position: absolute;
+    right: 0;
+}
+
+
+#header_top_bar_center_logo_container
+{
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 155px;
+}
+#header_au_cu_twitter_logo
+{
+    position: absolute;
+    left: 10px;
+}
+
+
+#header_latest_tweet
+{
+    position: absolute;
+    right: 13px;
+    top: 5px;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    color: #99a1a4;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+
+#header_top_bar_center_text_container
+{
+    position: absolute;
+    left: 160px;
+    /* border: 1px solid blue; */
+    width: 730px;
+    height: 15px;
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
+    font-size: 13px;
+    top: 14px;
+    color: #bfc9cc;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+#header_top_bar_center_text_container a:link
+{
+    color: #5ea9dd;
+}
+
+
+#header_top_bar_center_text_container a:visited
+{
+    color: #5ea9dd;
+}
+
+
+#header_quick_access_bar_wrapper
+{
+    position: absolute;
+    top: 45px;
+    width: 1304px;
+    height: 483px;
+    /* border: 1px solid blue; */
+}
+
+
+#header_quick_access_bar_top_wrapper
+{
+    position: absolute;
+    top: 0;
+    height: 107px;
+    width: 1304px;
+    /* border: 1px solid blue; */
+
+}
+
+
+#header_quick_access_bar_top_links
+{
+    position: absolute;
+    top: 8px;
+    width: 915px;
+    height: 107px;
+
+
+}
+
+#header_gel_logo
+{
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+
+
+#header_top_bar_links_text_wrapper
+{
+    position: absolute;
+    right: 0;
+    top: 40px;
+    width: 510px;
+    height: 20px;
+    /* border: 1px solid blue; */
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS",  sans-serif;
+    font-size: 18px;
+    color: #2f3337;
+    text-decoration: none;
+}
+
+
+
+
+.header_link_class:hover
+{
+    font-size: 18px;
+    color: #ee2f30;
+    text-decoration: underline;
+}
+
+#header_top_bar_links_text_wrapper:link
+{
+    text-decoration: none;
+}
+
+
+#header_products_text
+{
+    position: absolute;
+    left: 0;
+}
+
+
+#header_order_text
+{
+    position: absolute;
+    left: 140px;
+}
+
+
+#header_case_studies_text
+{
+    position: absolute;
+    right: 145px;
+
+}
+
+
+#header_resources_text
+{
+    position: absolute;
+    right: 0;
+}
+
+#header_background_wrapper
+{
+    position: relative;
+    top: 156px;
+    height: 374px;
+    width: 100%;
+    max-width: 2560px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -375px;
+    overflow:hidden;
+}
+
+#header_hidden_background_wrapper
+{
+    position: relative;
+    width: 5168px;
+    left: 50%;
+    margin-left: -1280px;
+    height: 374px;
+    overflow: hidden;
+}
+
+#header_main_image_container
+{
+    position: absolute;
+    width: 2560px;
+    overflow: hidden;
+    height: 374px;
+}
+
+#header_background_images_wrapper
+{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    max-width: 2560px;
+    height: 374px;
+    display: none;
+
+}
+
+#header_border_gradient
+{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 2;
+}
+
+#header_background_image_glare
+{
+    position: absolute;
+    top: 0;
+    z-index: 2;
+}
+
+#header_background_lower_gradient
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+}
+
+
+#header_front_image_container
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 372px;
+    top: 0;
+    width: 1304px;
+}
+
+
+#header_front_image_wrapper
+{
+    position: absolute;
+    top: 0;
+    height: 372px;
+    width: 1304px;
+}
+
+.header_front_image_wrapper
+{
+    height: 372px;
+    width: 1304px;
+    /* border: 1px solid blue; */
+
+}
+
+#header_background_text_wrapper
+{
+    position: absolute;
+    left: 45px;
+    top: 115px;
+    width: 410px;
+    height: 200px;
+    z-index: 3;
+}
+
+
+#header_energy_text
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "gel_tablet_gothic_thin", "Trebuchet MS",  sans-serif;
+    font-size: 60px;
+    color: white;
+}
+
+
+
+
+#header_efficient_text
+{
+    position: absolute;
+    top: 72px;
+    left: 65px;
+
+    font-size: 62px;
+    color: white;
+
+}
+
+
+
+
+#header_lighting_text
+{
+    position: absolute;
+
+    top: 150px;
+    left: 117px;
+    font-family: "gel_tablet_gothic_semibold", "Trebuchet MS",  sans-serif;
+    font-size: 62px;
+    color: white;
+}
+
+
+#header_image_selection_container
+{
+    position: absolute;
+    bottom: 10px;
+    right: 50px;
+    width: 117px;
+    height: 25px;
+    z-index: 3;
+
+}
+
+
+#header_su_1
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+#header_su_2
+{
+    position: absolute;
+    top: 0;
+    left: 25px;
+}
+
+
+#header_su_3
+{
+    position: absolute;
+    top: 0;
+    left: 50px;
+}
+
+
+#header_su_4
+{
+    position: absolute;
+    top: 0;
+    right: 25px;
+}
+
+
+#header_su_5
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+
+.header_front_image_nyc
+{
+    position: absolute;
+    top: 0;
+
+}
+
+#header_front_image_pdark
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 372px;
+    width: 711px;
+
+}
+
+#header_front_image_cdark
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 372px;
+    width: 711px;
+
+}
+
+#header_sub_menu_container
+{
+
+    position: absolute;
+    width: 100%;
+    min-width: 1304px;
+    height: 0;
+    top: 536px;
+    overflow: hidden;
+}
+
+
+
+
+
+#header_sub_menu_background_container
+{
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 83px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 2560px;
+    min-width: 1305px;
+
+
+
+}
+
+#header_sub_menu_background
+{
+    position: absolute;
+    width: 100%;
+    height: 84px;
+    min-width: 1304px;
+
+}
+
+#header_sub_menu_divider_container
+{
+    position: relative;
+    width: 1304px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header_sub_menu_dividers
+{
+    position: absolute;
+    top: 0;
+    width: 1304px;
+    height: 70px;
+
+}
+
+
+#header_sub_menu_products_container
+{
+
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 1px solid blue; */
+    height: 73px;
+    width: 1304px;
+    min-width: 1304px;
+    top: -83px;
+
+
+}
+
+#header_sub_menu_content
+{
+    position: absolute;
+    height: 51px;
+    width: 1304px;
+    z-index: 4;
+    top: 14px;
+}
+
+
+
+#header_sub_menu_led_solutions
+{
+    position: absolute;
+    left: 25px;
+    top: 5px;
+}
+
+#header_sub_menu_rollover_led
+{
+    position: absolute;
+    left: 2px;
+    bottom: -8px;
+    z-index: -1;
+    display: none;
+
+}
+
+
+#header_sub_menu_ceramatek
+{
+    position: absolute;
+    left: 295px;
+}
+
+#header_sub_menu_rollover_ceramatek
+{
+    position: absolute;
+    left: 260px;
+    bottom: -8px;
+    z-index: -1;
+    display: none;
+
+}
+
+
+#header_sub_menu_quartztek
+{
+    position: absolute;
+    left: 535px;
+}
+
+#header_sub_menu_rollover_quartztek
+{
+    position: absolute;
+    left: 520px;
+    bottom: -8px;
+    z-index: -1;
+    display: none;
+
+}
+
+
+#header_sub_menu_global_link
+{
+    position: absolute;
+    right: 295px;
+
+}
+
+#header_sub_menu_rollover_global_link
+{
+    position: absolute;
+    right: 268px;
+    bottom: -8px;
+    z-index: -1;
+    display: none;
+}
+
+
+
+#header_sub_menu_global_fixtures
+{
+    position: absolute;
+    right: 35px;
+    top: 0;
+}
+
+#header_sub_menu_rollover_global_fixtures
+{
+    position: absolute;
+    right: 0;
+    bottom: -8px;
+    z-index: -1;
+    width: 268px;
+    height: 71px;
+    display: none;
+}

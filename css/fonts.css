@@ -1,0 +1,57 @@
+@font-face
+{
+    font-family: gel_tablet_gothic;
+    src: url("/fonts/tablet_gothic/tablet_gothic.woff");
+    src: url('/fonts/tablet_gothic/tablet_gothic.eot');
+    src: url('/fonts/tablet_gothic/tablet_gothic.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/tablet_gothic/tablet_gothic.ttf')  format('truetype'),
+         url('/fonts/tablet_gothic/tablet_gothic.svg#svgFontName') format('svg');
+    font-weight: normal;
+}
+
+@font-face
+{
+    font-family: gel_tablet_gothic_oblique;
+    src: url("/fonts/tablet_gothic_oblique/tablet_gothic_oblique.woff");
+    src: url('/fonts/tablet_gothic_oblique/tablet_gothic_oblique.eot');
+    src: url('/fonts/tablet_gothic_oblique/tablet_gothic_oblique.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/tablet_gothic_oblique/tablet_gothic_oblique.ttf')  format('truetype'),
+    url('/fonts/tablet_gothic_oblique/tablet_gothic_oblique.svg#svgFontName') format('svg');
+    font-weight: normal;
+}
+
+
+@font-face
+{
+    font-family: gel_tablet_gothic_thin;
+    src: url("/fonts/tablet_gothic_thin/tablet_gothic_thin.woff");
+    src: url('/fonts/tablet_gothic_thin/tablet_gothic_thin.eot');
+    src: url('/fonts/tablet_gothic_thin/tablet_gothic_thin.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/tablet_gothic_thin/tablet_gothic_thin.ttf')  format('truetype'),
+    url('/fonts/tablet_gothic_thin/tablet_gothic_thin.svg#svgFontName') format('svg');
+    font-weight: normal;
+}
+
+
+@font-face
+{
+    font-family: gel_tablet_gothic_semibold;
+    src: url("/fonts/tablet_gothic_semibold/tablet_gothic_semibold.woff");
+    src: url('/fonts/tablet_gothic_semibold/tablet_gothic_semibold.eot');
+    src: url('/fonts/tablet_gothic_semibold/tablet_gothic_semibold.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/tablet_gothic_semibold/tablet_gothic_semibold.ttf')  format('truetype'),
+    url('/fonts/tablet_gothic_semibold/tablet_gothic_semibold.svg#svgFontName') format('svg');
+    font-weight: normal;
+}
+
+
+@font-face
+{
+    font-family: gel_tablet_gothic_light;
+    src: url("/fonts/tablet_gothic_light/tablet_gothic_light.woff");
+    src: url('/fonts/tablet_gothic_light/tablet_gothic_light.eot');
+    src: url('/fonts/tablet_gothic_light/tablet_gothic_light.eot?#iefix') format('embedded-opentype'),
+    url('/fonts/tablet_gothic_light/tablet_gothic_light.ttf')  format('truetype'),
+    url('/fonts/tablet_gothic_light/tablet_gothic_light.svg#svgFontName') format('svg');
+    font-weight: normal;
+}

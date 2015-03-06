@@ -1,0 +1,46 @@
+#global_fixtures_grid_gsqdl1_rollover_wrapper
+{
+    position: absolute;
+    width: 511px;
+    height: 474px;
+    top: 40px;
+    left: -512px;
+    z-index: 1;
+    display: none;
+}
+
+
+
+#global_fixtures_grid_gsqdl1_container
+{
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_grid_gsqdl1_bg
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#global_fixtures_grid_gsqdl1_product
+{
+    position: absolute;
+    left: 40px;
+    bottom: 50px;
+
+}
+
+
+
+
+#global_fixtures_grid_gsqdl1_text
+{
+    font-family: "gel_tablet_gothic", "Trebuchet MS", sans-serif;
+    color: #99a1a4;
+    font-size: 16px;
+    position: absolute;
+    bottom: 13px;
+    left: 100px;
+}

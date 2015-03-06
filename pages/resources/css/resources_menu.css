@@ -1,0 +1,92 @@
+#resources_menu_header
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 30px;
+    color: #5c6264;
+    font-weight:bold;
+
+}
+
+#resources_menu_bar_container
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1304px;
+    height: 44px;
+    top: 40px;
+}
+
+#resources_menu_bar
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+
+#resources_menu_bar_text_container
+{
+
+    position: absolute;
+    width: 700px;
+    height: 20px;
+    top: 12px;
+    z-index: 2;
+    left: 15px;
+}
+
+
+
+
+.resources_menu_bar_text
+{
+    color: #99a1a4;
+    font-size: 17px;
+}
+
+.resources_menu_bar_text a
+{
+    color: #99a1a4;
+}
+
+
+.resources_menu_bar_text:hover
+{
+    color: #2f3337;
+}
+
+
+#resources_menu_bar_results_from_text:hover
+{
+    color: #99a1a4;
+
+}
+
+#resources_menu_bar_all_text
+{
+    position: absolute;
+    left: 150px;
+}
+#resources_menu_bar_product_info_text
+{
+    position: absolute;
+    left: 207px;
+}
+
+
+#resources_menu_bar_press_articles_text
+{
+    position: absolute;
+    left: 400px;
+}
+
+
+#resource_menu_bar_support_docs_text
+{
+    position: absolute;
+    right: 0;
+}

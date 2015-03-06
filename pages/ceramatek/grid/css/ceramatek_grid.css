@@ -1,0 +1,94 @@
+#ceramatek_grid_header_text
+{
+
+    
+    color: #5c6264;
+    font-size: 30px;
+    font-weight:bold;
+    position: absolute;
+    top: 30px;
+    left: 0;
+}
+
+
+#ceramatek_grid_container
+{
+    position: relative;
+    width: 1304px;
+    height: 764px;
+    margin-right: auto;
+    margin-left: auto;
+    /* border: 1px solid blueviolet; */
+    top: 70px;
+
+}
+
+
+#ceramatek_grid_45W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 0;
+    left: 0;
+}
+
+#ceramatek_grid_60W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 0;
+    left: 337px;
+}
+
+
+#ceramatek_grid_90W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 0;
+    right: 337px;
+}
+
+
+#ceramatek_grid_140W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 0;
+    right: 0;
+}
+
+#ceramatek_grid_210W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    bottom: 0;
+    left: 165px;
+}
+
+
+#ceramatek_grid_315W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    bottom: 0;
+    left: 502px;
+
+}
+
+#ceramatek_grid_375W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    bottom: 0;
+    right: 165px;
+}
+
+

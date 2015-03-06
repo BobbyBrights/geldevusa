@@ -1,0 +1,167 @@
+#index_video_frame_container
+{
+    width: 830px;
+    height: 401px;
+    z-index: 2;
+    /* border: 1px solid green; */
+
+}
+
+#home_vfc_main_video_hd
+{
+    position: absolute;
+    width: 830px;
+    height: 356px;
+    display: none;
+
+}
+
+
+#home_vfc_main_video
+{
+    width: 830px;
+    height: 358px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}
+
+#index_video_frame_content
+{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 360px;
+    width: 387px;
+    /* border: 1px solid green; */
+
+}
+
+
+#home_vf_headline
+{
+    position: absolute;
+    left: 0;
+    font-family: "gel_tablet_gothic_light",  'Trebuchet MS',  sans-serif;
+    color: #5c6264;
+    font-size: 29px;
+
+}
+
+
+#home_vfc_bg
+{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+#home_vfc_video_bg
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+#home_vfc_left_container
+{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 442px;
+    height: 360px;
+    z-index: 2;
+}
+
+#home_vfc_vog
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+#home_vfc_play_button
+{
+    position: absolute;
+    top: 120px;
+    left: 160px;
+
+}
+
+
+
+#home_vfc_right_container
+{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 360px;
+    width: 387px;
+    z-index: 1;
+}
+
+
+
+#home_vfc_pencil
+{
+    position: absolute;
+    top: 80px;
+    left: 50px;
+}
+
+#home_vfc_right_text_container
+{
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
+    line-height: 15px;
+    position: absolute;
+    text-align: justify;
+    top: 50px;
+    left: 50px;
+    width: 296px;
+    height: 275px;
+}
+
+#video_frame_introduction
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size:23px;
+    color: #5c6264;
+}
+
+#video_frame_date
+{
+    position: absolute;
+    top: 32px;
+    left: 22px;
+    font-size: 13px;
+    color: #99a1a4;
+
+}
+
+#video_frame_first_paragraph
+{
+    position: absolute;
+    text-align: justify;
+    top: 70px;
+    left: 0;
+    color: #5c6264;
+    font-size: 14px;
+}
+
+#video_frame_second_paragraph
+{
+    position: absolute;
+    color: #99a1a4;
+    font-size: 14px;
+    bottom: 0;
+    text-align: justify;
+
+}

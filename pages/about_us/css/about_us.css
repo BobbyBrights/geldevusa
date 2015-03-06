@@ -1,0 +1,179 @@
+
+
+
+
+
+#about_us_header_text_wrapper
+{
+    height: 55px;
+    width: 450px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* border: 1px solid blue; */
+
+}
+
+#about_us_header
+{
+
+
+    font-size: 30px;
+    font-weight: bold;
+    color: #5c6264;
+
+}
+
+#about_us_header_2
+{
+    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    font-size: 25px;
+    color: #5c6264;
+}
+
+
+
+
+#about_us_content_container
+{
+    width: 1280px;
+    height: 1060px;
+    position: relative;
+    min-width: 1325px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 20px;
+    /* border: 1px solid blue; */
+
+}
+
+
+#about_us_signature_wrapper
+{
+    width: 355px;
+    height: 157px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    /* border: 1px solid blue; */
+
+}
+
+#about_us_product_picture_wrapper
+{
+    width: 839px;
+    height: 581px;
+    /* border: 1px solid blue; */
+    position: absolute;
+    top: 58px;
+    right: 0;
+}
+
+
+
+#about_us_first_paragraph
+{
+    position: absolute;
+    top: 75px;
+    z-index: 2;
+    width: 680px;
+    height: 478px;
+    /* border: 1px solid blue; */
+
+}
+
+
+#about_us_first_paragraph_text
+{
+    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    color: #5c6264;
+
+}
+
+
+
+#about_us_second_paragraph_header_wrapper
+{
+    width: 265px;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+#about_us_second_paragraph_header
+{
+
+    font-size: 30px;
+    font-weight: bold;
+    color: #5c6264;
+}
+
+
+#about_us_second_paragraph_header_2
+{
+    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    font-size: 25px;
+    color: #5c6264;
+}
+
+
+
+#about_us_second_paragraph
+{
+    position: absolute;
+    bottom: 140px;
+    width:  1280px;
+    height: 360px;
+    /* border: 1px solid blue; */
+}
+
+
+
+#about_us_second_paragraph_text
+{
+    position: absolute;
+    top: 70px;
+    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    color: #5c6264;
+}
+
+#about_us_signature_text_wrapper
+{
+    width: 200px;
+    height: 37px;
+    /* border: 1px solid blue; */
+
+}
+#about_us_signature_text_1
+{
+    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    color: #5c6264;
+}
+
+
+#about_us_signature_text_2
+{
+    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    font-size: 17px;
+    color: #5c6264;
+}
+
+
+#about_us_header_image
+{
+    position: absolute;
+    width: 100%;
+    min-width: 1304px;
+    max-width: 2560px;
+    height: 374px;
+}
+
+

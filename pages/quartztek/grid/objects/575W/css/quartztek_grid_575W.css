@@ -1,0 +1,86 @@
+#quartztek_grid_575W_rollover_wrapper
+{
+    position: absolute;
+    width: 511px;
+    height: 474px;
+    top: 40px;
+    left: -512px;
+    z-index: 1;
+    display: none;
+
+}
+
+#quartztek_grid_575W_container
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+
+}
+
+
+#quartztek_grid_575W_background
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+#quartztek_grid_575W_upper_container
+{
+    position: absolute;
+    height: 315px;
+    width: 100%;
+    top: 0;
+}
+
+#quartztek_grid_575W_product
+{
+    position: absolute;
+    top: 30px;
+}
+
+#quartztek_grid_575W_upper_text
+{
+    position: absolute;
+    color: #99a1a4;
+    font-size: 14px;
+    bottom: 10px;
+    left: 45px;
+    letter-spacing: 3px;
+}
+
+#quartztek_grid_575W_lower_container
+{
+    position: absolute;
+    height: 45px;
+    width: 100%;
+    bottom: 0;
+
+}
+
+#quartztek_grid_575W_paper
+{
+    position: absolute;
+    bottom: 8px;
+    left: 10px;
+
+}
+
+#quartztek_grid_575W_lower_text
+{
+    position: absolute;
+    color: #5c6264;
+    font-size: 16px;
+    left: 40px;
+    bottom: 15px;
+}
+
+
+
+.quartztek_grid_575W_text
+{
+
+    text-align: justify;
+}

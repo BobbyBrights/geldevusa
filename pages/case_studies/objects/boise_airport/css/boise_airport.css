@@ -1,0 +1,9 @@
+#cs_boise_airport_container
+{
+    position: absolute;
+    right: 0;
+    width: 863px;
+    height: 1607px;
+    background-color: white;
+    display:none;
+}

@@ -1,0 +1,163 @@
+#home_green_center_container
+{
+    position: absolute;
+    width: 424px;
+    height: 591px;
+}
+
+
+#home_green_gel_logo
+{
+    position: absolute;
+    left: 40px;
+}
+
+#home_green_center_bg
+{
+    position: absolute;
+    bottom:0;
+}
+
+#home_green_center_image
+{
+    position: absolute;
+    top: 140px;
+    width: 424px;
+}
+
+#home_green_center_electricity_container
+{
+    position: absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    left: 15px;
+    top: 300px;
+    width: 300px;
+    height: 24px;
+    color: white;
+    font-size: 23px;
+
+
+}
+
+
+#home_green_center_money_container
+{
+    position: absolute;
+    left: 15px;
+    top: 329px;
+    width: 320px;
+    height: 24px;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    color: white;
+    font-size: 24px;
+}
+
+
+
+#home_green_center_house_container
+{
+    position: absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    color: #5c6264;
+    font-size: 18px;
+    bottom: 177px;
+    left: 20px;
+    height: 47px;
+    width: 375px;
+
+}
+
+
+#home_green_center_house
+{
+    position: absolute;
+
+
+}
+
+#home_green_center_house_text
+{
+    position: absolute;
+    top: 15px;
+    left: 65px;
+}
+
+
+
+#home_green_center_park_bench_container
+{
+    position: absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    color: #5c6264;
+    font-size: 18px;
+    bottom: 100px;
+    left: 18px;
+    height: 55px;
+    width: 326px;
+}
+#home_green_center_park_bench
+{
+    position: absolute;
+
+}
+
+#home_green_center_park_bench_text
+{
+    position: absolute;
+    top: 15px;
+    left: 65px;
+
+}
+
+
+
+
+#home_green_center_car_container
+{
+    position: absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    color: #5c6264;
+    font-size: 18px;
+    bottom: 40px;
+    left: 20px;
+    height: 47px;
+    width: 360px;
+    /* border: 1px solid green; */
+
+}
+
+
+#home_green_center_car
+{
+    position: absolute;
+
+
+}
+
+#home_Green_center_car_text
+{
+    position: absolute;
+    top: 15px;
+    left: 65px;
+}
+
+
+#home_gc_lower_container
+{
+    position: absolute;
+    bottom: 0;
+    height: 28px;
+    width: 100%;
+}
+
+
+#home_gc_lower_text
+{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    font-size: 9px;
+    color: #5c6264;
+}

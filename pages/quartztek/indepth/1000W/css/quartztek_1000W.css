@@ -1,0 +1,399 @@
+.quartztek_1000W_header_text
+{
+    
+    color: #5c6264;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: 5px;
+}
+
+.quartztek_1000W_table_header_text
+{
+    
+    color: #ffffff;
+    font-size: 18px;
+    position: absolute;
+
+}
+
+.quartztek_1000W_table_text
+{
+    
+    color: #5c6264;
+    font-size: 14px;
+    text-align: right;
+}
+
+
+
+#quartztek_1000W_side_bar
+{
+    position: absolute;
+    top: 140px;
+    height: 1841px;
+    width: 508px;
+    /* border: 1px solid red; */
+}
+
+
+#quartztek_1000W_side_bar_product
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+
+
+#quartztek_1000W_lamp_wire_diagram_header
+{
+    top: 365px;
+}
+
+
+#quartztek_1000W_side_bar_lamp_wire_diagram
+{
+    position: absolute;
+    left: 0;
+    top: 404px;
+
+}
+
+
+
+#quartztek_1000W_ballast_wire_diagram_header
+{
+    top: 790px;
+}
+
+
+#quartztek_1000W_side_bar_ballast
+{
+    position: absolute;
+    left: 0;
+    bottom: 540px;
+}
+
+
+#quartztek_1000W_adaptors_header
+{
+    top: 1330px;
+}
+
+
+
+#quartztek_1000W_side_bar_base_adaptor
+{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+
+
+#quartztek_1000W_right_container
+{
+    position: absolute;
+    right: 0;
+    top: 140px;
+    width: 770px;
+    height: 1870px;
+}
+
+#quartztek_1000W_right_lamp_char_bg
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.quartztek_1000W_lamp_characteristics_table_1
+{
+    position: absolute;
+    top: 46px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+
+.quartztek_1000W_lamp_characteristics_table_2
+{
+    position: absolute;
+    top: 80px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+
+.quartztek_1000W_lamp_characteristics_table_3
+{
+
+    position: absolute;
+    top: 112px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+
+}
+
+.quartztek_1000W_lamp_characteristics_table_4
+{
+    position: absolute;
+    top: 144px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_5
+{
+    position: absolute;
+    top: 177px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_6
+{
+    position: absolute;
+    top: 209px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_7
+{
+    position: absolute;
+    top: 242px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_8
+{
+    position: absolute;
+    top: 275px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_9
+{
+    position: absolute;
+    top: 309px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_10
+{
+    position: absolute;
+    top: 340px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+
+
+.quartztek_1000W_lamp_characteristics_table_11
+{
+    position: absolute;
+    top:375px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_12
+{
+    position: absolute;
+    top: 408px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_13
+{
+    position: absolute;
+    top: 440px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_14
+{
+    position: absolute;
+    top: 475px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.quartztek_1000W_lamp_characteristics_table_15
+{
+    position: absolute;
+    top: 508px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+
+.quartztek_1000W_table_header_container
+{
+    position: absolute;
+    top: 9px;
+    width: 721px;
+    left: 14px;
+    height: 20px;
+    z-index: 2;
+
+}
+
+.quartztek_1000W_caracteristics_header_1
+{
+    position: absolute;
+    left: 340px;
+}
+
+.quartztek_1000W_caracteristics_header_2
+{
+    position: absolute;
+    right: 225px;
+}
+
+.quartztek_1000W_caracteristics_header_3
+{
+    position: absolute;
+    right: 185px;
+
+}
+
+.quartztek_1000W_caracteristics_header_4
+{
+    position: absolute;
+    right: 0;
+}
+
+.quartztek_1000W_table_col_1
+{
+    position: absolute;
+    left: 0;
+    width: 320px;
+    height: 18px;
+    text-align: left;
+    z-index: 2;
+    /* border: 1px solid red; */
+
+}
+.quartztek_1000W_table_col_2
+{
+    position: absolute;
+    left: 320px;
+    width: 100px;
+    height: 18px;
+    z-index: 2;
+    /* border: 1px solid red; */
+
+}
+
+.quartztek_1000W_table_col_3
+{
+    position: absolute;
+    width: 100px;
+    height: 18px;
+    right: 215px;
+    z-index: 2;
+    /* border: 1px solid red; */
+
+}
+
+.quartztek_1000W_table_col_4
+{
+    position: absolute;
+    right: 107px;
+    width: 100px;
+    height: 18px;
+    z-index: 2;
+    /* border: 1px solid red; */
+
+}
+
+.quartztek_1000W_table_col_5
+{
+    position: absolute;
+    right: 0;
+    width: 470px;
+    height: 18px;
+    z-index: 2;
+    /* border: 1px solid red; */
+}
+
+#quartztek_1000W_right_lamp_char_container
+{
+    width: 770px;
+    height: 366px;
+    position: absolute;
+    top: 0;
+    /* border: 1px solid red; */
+
+}
+
+#quartztek_1000W_right_lamp_char_graphs
+{
+    position: absolute;
+    top: 375px;
+    left: 50px;
+}
+
+
+#quartztek_1000W_right_lamp_phys_details_container
+{
+    position: absolute;
+    top: 555px;
+    left: 0;
+
+}
+
+#quartztek_1000W_right_lamp_electric_details_container
+{
+    position: absolute;
+    bottom: 675px;
+    left: 0;
+}
+
+#quartztek_1000W_right_ballast_details_container
+{
+    position: absolute;
+    bottom: 105px;
+    left: 0;
+}
+
+
+#quartztek_1000W_right_mounting_guidelines
+{
+    position: absolute;
+    height: 85px;
+    width: 100%;
+    bottom: 0;
+}
+
+
+#quartztek_1000W_right_mounting_guidelines_text
+{
+    
+    color: #5c6264;
+    font-size: 14px;
+    text-align: right;
+}

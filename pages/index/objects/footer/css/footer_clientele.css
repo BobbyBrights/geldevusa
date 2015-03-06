@@ -1,0 +1,92 @@
+#clientele_wrapper {
+    position: relative;
+    width: 1080px;
+    height: 257px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#clientele {
+    position: absolute;
+    width: 1080px;
+    height: 257px;
+    bottom: 0;
+    list-style: none;
+    display: none; /* This is here so the botique loads the images after the page loads. */
+
+}
+
+#clientele li a {
+
+    display: block;
+    text-align: center;
+}
+
+#clientele li a img {
+    position: relative;
+    display: block;
+    height: 162px;
+    width: 312px;
+}
+
+
+
+
+
+.boutique {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    z-index: 1
+}
+
+.boutique li {
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    z-index: 1;
+    display: none;
+
+}
+
+.boutique img {
+    vertical-align: middle
+
+}
+
+
+.boutique span {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: left;
+    cursor: default;
+    margin: 0;
+
+}
+
+.boutique h6 {
+    cursor: default
+}
+
+
+
+.boutique a, .boutique a:hover {
+    cursor: default;
+    text-decoration: none;
+    outline: none
+}
+
+.boutique img, .boutique li, .boutique a {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+
+}
+
+.boutique.rtl h6, .boutique.rtl span {
+    text-align: right
+}

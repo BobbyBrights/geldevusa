@@ -1,0 +1,46 @@
+#led_grid_gel100al2_rollover_wrapper
+{
+    position: absolute;
+    width: 511px;
+    height: 474px;
+    top: 40px;
+    left: -512px;
+    z-index: 1;
+    display: none;
+
+}
+
+
+#led_grid_gel100al2_container
+{
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel100al2_bg
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#led_grid_gel100al2_product
+{
+    position: absolute;
+    left: 50px;
+    bottom: 77px;
+
+}
+
+
+
+
+#led_grid_gel100al2_text
+{
+    font-family: "gel_tablet_gothic", "Trebuchet MS", sans-serif;
+    color: #99a1a4;
+    font-size: 16px;
+    position: absolute;
+    bottom: 13px;
+    left: 100px;
+}

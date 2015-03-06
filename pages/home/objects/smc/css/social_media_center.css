@@ -1,0 +1,255 @@
+#home_social_media_center_container
+{
+    /* border: 1px solid green; */
+
+    width:425px;
+    height:664px;
+}
+
+
+#home_social_media_center_content
+{
+    position: absolute;
+    width: 425px;
+    height: 622px;
+    /* border: 1px solid green; */
+    bottom: 0;
+
+}
+
+
+#home_smc_header_text
+{
+    position: absolute;
+    text-align: justify;
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
+    left: 0;
+    color: #5c6264;
+    font-size: 30px;
+}
+
+
+
+
+#home_smc_bg
+{
+    position: absolute;
+    bottom: 0;
+}
+
+
+#home_smc_dotted_lines_1
+{
+    position: absolute;
+    top: 190px
+}
+
+#home_smc_dotted_lines_2
+{
+    position: absolute;
+    bottom: 188px;
+}
+
+#home_smc_facebook_wrapper
+{
+    position: absolute;
+    height: 190px;
+    width: 100%;
+    top: 0;
+    /* border: 1px solid green; */
+}
+
+#home_smc_f_logo
+{
+    position: absolute;
+    top: 25px;
+    left: 15px;
+}
+
+
+#home_smc_google_plus_wrapper
+{
+    position: absolute;
+    height: 240px;
+    top: 190px;
+    width: 100%;
+    /* border: 1px solid green; */
+
+}
+
+#home_smc_g_logo
+{
+    position: absolute;
+    top: 25px;
+    left: 15px;
+}
+
+
+#home_smc_twitter_wrapper
+{
+    position: absolute;
+    height: 188px;
+    width: 100%;
+    bottom: 0;
+    /* border: 1px solid green; */
+}
+
+
+
+
+#home_smc_t_logo
+{
+    position: absolute;
+    top: 25px;
+    left: 15px;
+}
+
+
+#home_smc_twitter_header
+{
+    position: absolute;
+    top: 26px;
+    left: 86px;
+    width: 320px;
+    height: 59px;
+}
+
+
+#home_smc_twitter_content
+{
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    width: 391px;
+    height: 65px;
+}
+
+
+#home_scm_twitter_posted_text
+{
+    position: absolute;
+    left: 0;
+    top: 20px;
+    color: #5c6264;
+    font-size: 20px;
+}
+
+
+
+#home_smc_twitter_posted_time_text
+{
+    position: absolute;
+    left: 80px;
+    top: 20px;
+    color: #99a1a4;
+    font-size: 20px;
+}
+
+
+#home_smc_fb_header
+{
+    position: absolute;
+    top: 26px;
+    left: 86px;
+    width: 320px;
+    height: 59px;
+}
+
+
+#home_scm_fb_posted_text
+{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    color: #5c6264;
+    font-size: 13px;
+}
+
+#home_smc_fb_content
+{
+    position: absolute;
+    bottom: 26px;
+    left: 15px;
+    width: 391px;
+    height: 65px;
+}
+
+#home_smc_fb_content_text
+{
+    font-size:14px;
+    color: #99a1a4;
+    position: absolute;
+    left: 72px;
+    top: 5px;
+}
+
+#latest_fb_post_icon
+{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 60px;
+    height: 60px;
+
+}
+
+#home_smc_fb_header_text_container
+{
+    position: absolute;
+    top: -5px;
+    left: 0;
+    width: 320px;
+    height: 49px;
+    overflow: hidden;
+}
+
+#home_smc_fb_header_text
+{
+    font-weight:bold;
+    font-size:14px;
+    color: #5c6264;
+}
+
+#home_smc_fb_header_text a
+{
+    color: #5c6264;
+
+}
+#home_smc_fb_posted_time_text
+{
+    position: absolute;
+    left: 50px;
+    bottom: 0;
+    color: #99a1a4;
+    font-size: 13px;
+}
+
+
+#home_smc_twitter_header_text
+{
+    font-weight:bold;
+    font-size:14px;
+    color: #5c6264;
+}
+
+
+
+#home_smc_twitter_content_text
+{
+    font-size: 16px;
+    color: #99a1a4;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#home_smc_twitter_content_text a:link
+{
+    color: #5ea9dd;
+}
+
+
+#home_smc_twitter_content_text a:visited
+{
+    color: #5ea9dd;
+}

@@ -1,0 +1,130 @@
+
+#quartztek_grid_header_text
+{
+
+
+    color: #5c6264;
+    font-size: 30px;
+    font-weight:bold;
+    position: absolute;
+    top: 30px;
+    left: 0;
+}
+
+#quartztek_grid_retrofit_header
+{
+
+    color: #5c6264;
+    font-size: 30px;
+    font-weight:bold;
+    position: absolute;
+    bottom: 375px;
+    left: 0;
+}
+
+#quartztek_grid_container
+{
+    position: relative;
+    width: 1304px;
+    height: 1264px;
+    margin-right: auto;
+    margin-left: auto;
+    /* border: 1px solid blueviolet; */
+    top: 70px;
+
+}
+
+
+#quartztek_grid_divider
+{
+    position: absolute;
+    bottom: 415px;
+    left: 0;
+}
+
+
+#quartztek_grid_100W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 0;
+    left: 0;
+}
+
+#quartztek_grid_150W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 0;
+    left: 337px;
+}
+
+
+#quartztek_grid_200W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 0;
+    right: 337px;
+}
+
+
+#quartztek_grid_250W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 0;
+    right: 0;
+}
+
+#quartztek_grid_320W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 440px;
+    left: 0;
+}
+
+
+#quartztek_grid_400W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 440px;
+    left: 337px;
+
+}
+
+#quartztek_grid_575W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    top: 440px;
+    right: 337px;
+}
+
+
+#quartztek_grid_750W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    bottom: 0;
+    left: 0;
+}
+
+#quartztek_grid_1000W_wrapper
+{
+    position: absolute;
+    width: 288px;
+    height: 360px;
+    bottom: 0;
+    left: 337px;
+}

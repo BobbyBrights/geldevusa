@@ -1,0 +1,56 @@
+#products_quartztek_container
+{
+    height: 474px;
+    width: 407px;
+}
+
+
+#products_quartztek_top_image
+{
+    position: absolute;
+    top: 0;
+}
+#products_quartztek_upper_container
+{
+    position: absolute;
+    top: 0;
+    height: 272px;
+    width: 100%;
+}
+
+
+#products_quartztek_logo
+{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+
+#products_quartztek_lower_container
+{
+    position: absolute;
+    bottom: 0;
+    height: 197px;
+    width: 100%;
+}
+
+#products_quartztek_lower_container_text
+{
+    position: absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    color: #4a5055;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+    top: 0;
+    left: 20px;
+    height: 100%;
+    width: 360px;
+}
+
+#products_quartztek_lower_text
+{
+    position: absolute;
+    top: 20px;
+}

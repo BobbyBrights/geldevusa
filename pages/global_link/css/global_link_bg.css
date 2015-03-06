@@ -1,0 +1,98 @@
+#global_link_singapore_bg
+{
+    position: absolute;
+    width: 2560px;
+    top: 300px;
+}
+
+
+#gl_background_park_color
+{
+    position: absolute;
+    left: 591px;
+    bottom: -33px;
+    display: none;
+}
+
+#gl_background_highway_color
+{
+
+    position: absolute;
+    left: 354px;
+    bottom: -46px;
+    display: none;
+
+}
+
+
+#gl_background_street_color
+{
+    position: absolute;
+    right: 524px;
+    bottom: -70px;
+    display: none;
+}
+
+
+#gl_background_theater_color
+{
+    position: absolute;
+    left: 157px;
+    bottom: -54px;
+    display:none;
+}
+
+
+
+#gl_background_architecture_color
+{
+    position: absolute;
+    left: 115px;
+    top: 3px;
+    display: none;
+}
+
+#gl_background_dock_color
+{
+    position: absolute;
+    top: 86px;
+    left: 601px;
+    display: none;
+}
+
+#gl_background_field_color
+{
+    position: absolute;
+    right: 664px;
+    bottom: -63px;
+    display: none;
+}
+
+
+
+#gl_background_parking_color
+{
+    position: absolute;
+    right: 632px;
+    top: -92px;
+    display:none;
+}
+
+
+#global_link_background_color_images_container
+{
+    position: absolute;
+    top: 569px;
+    width: 2560px;
+    height: 1026px;
+    z-index: 4;
+}
+
+
+#gl_background_marinas_color
+{
+    position: absolute;
+    right: 137px;
+    top: 261px;
+    display: none;
+}

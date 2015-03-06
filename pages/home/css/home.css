@@ -1,0 +1,73 @@
+
+#video_frame_wrapper
+{
+    position: absolute;
+    height: 400px;
+    width: 830px;
+    top: 3px;
+    left: 0;
+
+}
+
+#latest_headlines_wrapper
+{
+    position: absolute;
+    width: 424px;
+    height: 403px;
+    float: right;
+    top: 0;
+    right: 0;
+}
+
+
+#featured_case_study_wrapper
+{
+    position: absolute;
+    height: 1265px;
+    width: 831px;
+    left: 0;
+    top: 420px;
+
+}
+
+
+
+#smc_wrapper
+{
+    position: absolute;
+    width: 425px;
+    height: 664px;
+    top: 457px;
+    right: 0;
+}
+
+
+
+
+
+#green_center_wrapper
+{
+    position: absolute;
+    right: 0;
+    width: 424px;
+    height: 591px;
+    bottom: 720px;
+
+}
+
+#igl_wrapper
+{
+    position: absolute;
+    width: 1305px;
+    height: 382px;
+    bottom: 280px;
+}
+
+
+
+#home_footer_wrapper
+{
+
+    position: relative;
+    bottom: 0;
+}

@@ -1,0 +1,167 @@
+#global_advance_header_image_container
+{
+    position: absolute;
+    top: 20px;
+    width:1182px;
+    height:222px;
+
+}
+
+#global_advance_header_image
+{
+    width:1182px;
+    height:222px;
+}
+
+#global_advance_content_left
+{
+    width: 627px;
+    height: 628px;
+    position: absolute;
+    left: 0;
+    top: 145px;
+}
+
+#global_advance_fyce
+{
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+}
+
+
+
+#global_advance_p1_container
+{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    top: 55px;
+    line-height: 150%;
+}
+
+
+
+#global_advance_p2_container
+{
+    height: 130px;
+    width: 100%;
+    position: absolute;
+    top: 195px;
+    line-height: 150%;
+}
+
+#global_advance_p3_container
+{
+    height: 130px;
+    width: 100%;
+    position: absolute;
+    top: 365px;
+    line-height: 150%;
+}
+
+#global_advance_p4_container
+{
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    line-height: 150%;
+}
+
+
+#global_advance_content_right
+{
+    position: absolute;
+    right: 0;
+    top: 145px;
+    height: 650px;
+    width: 542px;
+    background: white;
+}
+
+#global_advance_apply_now_header
+{
+    position: absolute;
+    top: 13px;
+    left: 13px;
+}
+
+
+#global_advance_apply_now
+{
+    position: absolute;
+    bottom: 190px;
+    left: 193px;
+}
+
+
+#global_advance_mail
+{
+    position: absolute;
+    bottom: 76px;
+    left: 166px;
+}
+
+#global_advance_phone
+{
+    position: absolute;
+    bottom: 32px;
+    left: 175px;
+}
+
+#global_advance_email_address
+{
+    position: absolute;
+    bottom: 81px;
+    left: 233px;
+}
+
+
+#global_advance_phone_number
+{
+    position: absolute;
+    bottom: 30px;
+    left: 233px;
+}
+
+
+#global_advance_financing_text_wrapper
+{
+    width: 450px;
+    height: 90px;
+    position: absolute;
+    top: 280px;
+    left: 50px;
+}
+#global_advance_financing_header_text
+{
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    left: 32px;
+}
+
+#global_advance_financing_lower_text
+{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+.global_advance_text
+{
+
+    font-size: 18px;
+    color: #5c6264;
+    text-align: justify;
+
+}
+
+#global_advance_contact_info_header
+{
+    position: absolute;
+    left: 101px;
+    bottom: 130px;
+}

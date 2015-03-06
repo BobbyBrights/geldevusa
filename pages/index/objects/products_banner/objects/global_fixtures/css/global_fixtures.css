@@ -1,0 +1,70 @@
+#products_banner_global_fixtures_container
+{
+    position: absolute;
+    right: 0;
+    width: 255px;
+    height: 300px;
+
+}
+
+
+#products_banner_global_fixtures_background_images
+{
+    position: absolute;
+    width: 254px;
+    height: 158px;
+    top: 0;
+
+}
+
+
+#products_banner_global_fixtures_product_bg
+{
+    position: absolute;
+    width: 267px;
+    top: 0;
+    height: 296px;
+}
+
+
+#products_banner_global_fixtures_top
+{
+    position: absolute;
+    z-index: 3;
+    left: 15px;
+    top: 5px;
+}
+
+
+#products_banner_global_fixtures_logo
+{
+    position: absolute;
+    bottom: 0;
+    left: 13px;
+}
+
+
+
+#products_banner_global_fixtures_text_wrapper
+{
+    position: absolute;
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
+    font-weight: bold;
+    line-height: 15px;
+    width: 238px;
+    top: 178px;
+    left: 9px;
+    height: 96px;
+    overflow: hidden;
+    text-align: justify;
+
+}
+
+
+#products_banner_global_fixtures_text
+{
+
+    font-size: 12px;
+    color: #99a1a4;
+
+}

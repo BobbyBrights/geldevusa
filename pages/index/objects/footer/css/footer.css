@@ -1,0 +1,321 @@
+#footer_background_repeat_container 
+{
+    bottom: 0;
+    width: 100%;
+
+}
+
+#body
+{
+    padding-bottom: 537px;
+}
+
+
+
+#footer_container
+{
+    position: relative;
+    bottom: 0;
+    height: 527px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background: url('/pages/index/objects/footer/img/content/footer_repeat.png');
+    max-width: 2562px;
+    min-width: 1304px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#footer_content
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1304px;
+    height: 268px;
+    min-width: 1304px;
+    /* border: 1px solid red; */
+
+}
+
+#footer_dividers_container
+{
+    position: absolute;
+    bottom: 0;
+    width: 1280px;
+    height: 48px;
+}
+#footer_dividers
+{
+    position: absolute;
+    bottom: 0;
+    height: 48px;
+
+
+}
+
+
+
+#footer_contact_info_container
+{
+    position: absolute;
+    width: 343px;
+    height: 158px;
+    bottom: 80px;
+    left: 477px;
+    /* border: 1px solid red; */
+
+
+}
+
+
+
+#footer_contact_info_left_text_container
+{
+    position: absolute;
+    /* border: 1px solid red; */
+
+    width: 175px;
+    height: 157px;
+}
+
+#footer_contact_info_left_text_upper_container
+{
+
+
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    /* border: 1px solid red; */
+    height: 61px;
+    width: 175px;
+}
+
+
+
+#footer_contact_info_left_text_lower_container
+{
+
+    position: absolute;
+
+    color: #707679;
+    font-size: 11px;
+    bottom: 0;
+    right: 0;
+    /* border: 1px solid red; */
+    height: 93px;
+    width:  175px;
+
+}
+
+#footer_contact_info_left_text_lower
+{
+    position: absolute;
+    top: 0;
+}
+
+
+
+
+#footer_contact_info_right_text_container
+{
+    position: absolute;
+    bottom: 14px;
+    right: 0;
+    height: 116px;
+    width: 120px;
+    /* border: 1px solid red; */
+
+}
+
+
+
+#footer_contact_info_right_text
+{
+    position: absolute;
+    top: 5px;
+
+    color: #707679;
+    font-size: 11px;
+}
+
+
+
+#footer_about_us_container
+{
+
+    position: absolute;
+    width: 401px;
+    height: 158px;
+    /* border: 1px solid red; */
+    bottom: 80px;
+    left: 25px;
+
+}
+
+#footer_about_us_top_container
+{
+    position: absolute;
+    top: 0;
+    width: 401px;
+    height: 75px;
+    /* border: 1px solid red; */
+
+}
+
+#footer_about_us_top_text
+{
+
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+
+}
+
+#footer_arrow
+{
+    position: absolute;
+    right: 0;
+    height: 48px;
+    width: 48px;
+
+}
+
+
+#footer_gel_logo
+{
+    position: absolute;
+    bottom: -13px;
+    left: 0;
+    text-decoration: none;
+}
+
+
+#footer_lower_text_container
+{
+    position: absolute;
+    width: 1232px;
+    height: 48px;
+    bottom: 0;
+    /* border: 1px solid red; */
+
+
+}
+
+#lower_text_copyright_container
+{
+    position: absolute;
+    bottom: 15px;
+    left: 25px;
+    width: 313px;
+    height: 16px;
+    /* border: 1px solid red; */
+
+    font-size: 13px;
+    color: #707679;
+}
+
+
+#footer_lower_text_links_container
+{
+    position: absolute;
+    text-decoration: none;
+
+    bottom: 15px;
+    width: 340px;
+    height: 14px;
+    /* border: 1px solid red; */
+    left: 477px;
+
+
+}
+
+.footer_lower_text_links
+{
+
+    font-size: 13px;
+    color: #707679;
+}
+
+
+.footer_lower_text_links:link
+{
+    color: #707679;
+    text-decoration: none;
+}
+
+.footer_lower_text_links:hover
+{
+    color: #ee2f30;
+
+}
+
+
+#footer_lower_text_links_order
+{
+    position: absolute;
+    left: 90px;
+}
+
+#footer_lower_text_links_cs
+{
+    position: absolute;
+    left: 152px;
+}
+
+
+#footer_lower_text_links_resources
+{
+    position: absolute;
+    left: 264px;
+}
+
+
+#footer_lower_text_rttop_container
+{
+
+    position: absolute;
+    bottom: 15px;
+    width: 154px;
+    height: 14px;
+    /* border: 1px solid red; */
+    right: 20px;
+
+    font-size: 13px;
+    color: #707679;
+    text-decoration: none;
+
+}
+
+#footer_about_us_text_container
+{
+    position: absolute;
+    line-height: 15px;
+    bottom: 0;
+    width: 401px;
+    height: 70px;
+    /* border: 1px solid red; */
+
+
+
+
+}
+
+
+#footer_about_us_text
+{
+    position: absolute;
+    top: 19px;
+
+    font-size: 12px;
+    color: #707679;
+    text-align: justify;
+
+}
+
+
+

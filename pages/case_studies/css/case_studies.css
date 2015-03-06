@@ -1,0 +1,74 @@
+#case_studies_header_wrapper
+{
+    top: 0;
+    position: relative;
+}
+
+
+
+
+
+#case_studies_background_wrapper
+{
+    position: relative;
+    z-index: -1;
+    margin-top: -3000px;
+}
+
+#case_studies_sm_container
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 419px;
+    height: 591px;
+    /* border: 1px solid red; */
+
+}
+
+#case_studies_hidden_container_0
+{
+    position: absolute;
+    width: 1308px;
+    height: 1607px;
+    right: 0;
+    top: 0;
+    display: none;
+    /* border: 1px solid red; */
+}
+
+
+#case_studies_hidden_container_1
+{
+    position: absolute;
+    width: 1308px;
+    height: 1607px;
+    right: 0;
+    top: 0;
+    display: none;
+    /* border: 1px solid red; */
+}
+
+
+#case_studies_hidden_container_2
+{
+    position: absolute;
+    width: 1308px;
+    height: 1607px;
+    right: 0;
+    top: 0;
+    display: none;
+    /* border: 1px solid red; */
+}
+
+
+#case_studies_hidden_container_3
+{
+    position: absolute;
+    width: 1308px;
+    height: 1607px;
+    right: 0;
+    top: 0;
+
+    /* border: 1px solid red; */
+}

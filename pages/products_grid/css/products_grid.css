@@ -1,0 +1,69 @@
+#products_grid_wrapper
+{
+    position: relative;
+    height: 974px;
+    width: 1304px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0;
+    z-index: 5;
+}
+
+
+#products_grid_led_solutions_wrapper
+{
+    position: absolute;
+    top: 0;
+    height: 474px;
+    width: 407px;
+}
+
+
+#products_grid_ceramatek_wrapper
+{
+    position: absolute;
+    top: 0;
+    left: 450px;
+    height: 474px;
+    width: 407px;
+}
+
+#products_grid_quartztek_wrapper
+{
+    position: absolute;
+    top: 0;
+    height: 474px;
+    width: 407px;
+    right: 0;
+}
+
+#products_grid_global_fixtures_wrapper
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 474px;
+    width: 407px;
+}
+
+
+#products_grid_global_advanced_wrapper
+{
+
+    position: absolute;
+    bottom: 0;
+    height: 474px;
+    right: 0;
+    width: 407px;
+
+
+}
+
+#products_grid_global_link_wrapper
+{
+    position: absolute;
+    bottom: 0;
+    height: 474px;
+    left: 450px;
+    width: 407px;
+}

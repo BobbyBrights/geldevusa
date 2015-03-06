@@ -1,0 +1,64 @@
+#product_banner_container
+{
+    position: absolute;
+    width: 1304px;
+    height: 296px;
+
+}
+
+#product_banner_content
+{
+    position: relative;
+    width: 1304px;
+    height: 296px;
+    margin-left: auto ;
+    margin-right: auto ;
+}
+
+
+
+#product_banner_led_solutions_wrapper
+{
+    position: absolute;
+    left: 0;
+    width: 255px;
+    height: 296px;
+    bottom: 0;
+}
+
+
+#product_banner_ceramatek_wrapper
+{
+    position: absolute;
+    left: 262px;
+    width: 255px;
+    height: 296px;
+    bottom: 0;
+}
+
+#product_banner_quartztek_wrapper
+{
+    position: absolute;
+    left: 524px;
+    width: 255px;
+    height: 296px;
+    bottom: 0;
+}
+
+#product_banner_global_fixtures_wrapper
+{
+    position: absolute;
+    right: 262px;
+    width: 255px;
+    height: 296px;
+    bottom: 0;
+}
+
+#product_banner_global_link_wrapper
+{
+    position: absolute;
+    right: 0;
+    width: 255px;
+    height: 296px;
+    bottom: 0;
+}

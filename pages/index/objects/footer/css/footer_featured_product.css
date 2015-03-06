@@ -1,0 +1,169 @@
+#featured_product_container
+{
+    position: absolute;
+    width: 398px;
+    height: 212px;
+    bottom: 50px;
+    right: 35px;
+    /* border: 1px solid white; */
+
+}
+
+
+
+#featured_product_left_container
+{
+    position: absolute;
+    left: 0;
+    width: 220px;
+    height: 210px;
+    /* border: 1px solid white; */
+
+}
+
+
+#featured_product_right_container
+{
+    position: absolute;
+
+    color: white;
+    font-size: 16px;
+    top: 20px;
+    right: 0;
+    /* border: 1px solid white; */
+    height: 135px;
+    width:  135px;
+
+}
+
+
+
+
+#featured_product_left_container_text
+{
+    position: absolute;
+    top: 0;
+    width: 220px;
+    height: 16px;
+    color: white;
+
+    font-size: 16px;
+
+}
+
+#footer_375w_cutout
+{
+    position: absolute;
+    bottom: 0;
+
+}
+
+
+
+
+#footer_purchase_now_button
+{
+    position: absolute;
+    right: 0;
+    bottom: 7px;
+
+}
+
+
+
+
+
+
+.featured_product_text_class
+{
+    position: relative;
+    display:block;
+    font-family: 'Tablet-Gothic', "Trebuchet MS",  sans-serif;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+
+
+#ceramatek_375w
+{
+    position: relative;
+    display:inline-table;
+    float: right;
+    color: #707679;
+    font-weight: normal;
+}
+
+
+
+
+#prices
+{
+    position: relative;
+    float: right;
+    font-weight: lighter;
+}
+
+
+
+
+#product_features
+{
+    font-weight: normal;
+}
+
+
+
+
+#purchase_now_button_container
+{
+    position: relative;
+    display:block;
+    left: 275px;
+    width: 130px;
+    margin-top: -60px;
+}
+
+
+
+
+#purchase_now_text
+{
+    position: relative;
+    margin-left: auto ;
+    margin-right: auto ;
+    font-size: 12px;
+    width: 130px;
+    height: 30px;
+    left: 5px;
+    bottom: 21px;
+}
+
+
+
+
+#cutout_copy
+{
+    position: relative;
+    float: left;
+    top: 20px;
+}
+
+
+
+
+#reflection_copy
+{
+    position: relative;
+}
+
+
+
+
+#purchase_now_button
+{
+    position: relative;
+    float: right;
+}

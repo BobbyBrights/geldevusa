@@ -1,0 +1,182 @@
+.led_grid_header_text
+{
+
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    color: #5c6264;
+    font-size: 30px;
+    font-weight:bold;
+}
+
+#led_grid_flood_light_text
+{
+    position:absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    top: 0;
+}
+
+#led_grid_container
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1304px;
+    height: 1284px;
+
+}
+
+#led_grid_floodlights_container
+{
+    position: absolute;
+    top: 29px;
+    left: 0;
+    width: 1304px;
+    height: 365px;
+
+}
+
+#led_grid_gel40wfl1_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+#led_grid_gel40wfl2_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel80wfl1_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel80wfl2_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_wallpacks_container
+{
+    position: absolute;
+    left: 0;
+    top: 447px;
+    width: 1304px;
+    height: 392px;
+
+}
+
+.led_grid_divider
+{
+    position: absolute;
+    left: -60px;
+    top: 0;
+}
+
+
+#led_grid_wall_pack_text
+{
+    position:absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    left: 0;
+    top: 25px;
+}
+
+#led_grid_gel150wp1_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel50wp2_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel100wp1_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel100wp2_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+#led_grid_area_lighting_container
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 1304px;
+    height: 392px;
+}
+
+
+
+#led_grid_gel150al1_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel50al2_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel100al1_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#led_grid_gel100al2_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    width: 288px;
+    height: 316px;
+}

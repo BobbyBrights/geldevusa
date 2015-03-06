@@ -1,0 +1,133 @@
+#global_fixtures_indepth_top_menu_bar
+{
+    position: absolute;
+
+    width: 1304px;
+    height: 36px;
+    top: 50px;
+    left: 0;
+    overflow: hidden;
+    z-index: 2;
+}
+
+#global_fixtures_indepth_wattage_selector
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.global_fixtures_indepth_top_menu_bar_text
+{
+
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.global_fixtures_indepth_top_menu_bar_text:hover
+{
+    color: #f12727;
+}
+
+
+
+#global_fixtures_indepth_top_wattage_bar_text
+{
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    width: 473px;
+    height: 16px;
+
+}
+
+#global_fixtures_indepth_top_menu_bar_wallpacks
+{
+    position: absolute;
+    top: 0;
+    left: 23px;
+}
+
+
+#global_fixtures_indepth_top_menu_bar_floodlights
+{
+    position: absolute;
+    top: 0;
+    left: 185px;
+
+
+}
+
+#global_fixtures_indepth_top_menu_bar_area_lighting
+{
+    position: absolute;
+    top: 0;
+    right: 7px;
+
+}
+
+
+
+#global_fixtures_indepth_top_menu_right_bar
+{
+    position: absolute;
+    width: 768px;
+    height: 100%;
+    right: 0;
+}
+
+
+#global_fixtures_indepth_place_order
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+
+#global_fixtures_indepth_dl_spec_sheet
+{
+    position: absolute;
+    left: 250px;
+    top: 0;
+}
+
+
+
+
+#global_fixtures_indepth_install_instructions
+{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#global_fixtures_indepth_top_menu_bar_place_order
+{
+    position: absolute;
+    top: 10px;
+    left: 22px;
+
+}
+
+
+#global_fixtures_indepth_top_menu_bar_spec_sheet
+{
+    position: absolute;
+    top: 10px;
+    color: black;
+    left: 278px;
+}
+
+#global_fixtures_indepth_top_menu_bar_spec_sheet:hover
+{
+    color: #f12727;
+}
+
+#global_fixtures_indepth_top_menu_bar_install_instructions
+{
+    position: absolute;
+    right: 21px;
+    top: 10px;
+}

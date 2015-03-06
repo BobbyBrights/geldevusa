@@ -1,0 +1,373 @@
+#gl_background_rollovers_container
+{
+    position: absolute;
+    width: 1304px;
+    height: 1026px;
+}
+
+.gl_info_header_text_right
+{
+    font-size: 30px;
+    color: #2f3337;
+    width: 539px;
+    height: 40px;
+    position: absolute;
+    top: 25px;
+    left: 70px;
+}
+
+.gl_info_paragraph_text_right
+{
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 70px;
+    width: 540px;
+    height: 90px;
+    color: #747a7d;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 115%;
+}
+
+
+
+.gl_info_header_text_left
+{
+    font-size: 30px;
+    color: #2f3337;
+    width: 539px;
+    height: 40px;
+    position: absolute;
+    top: 25px;
+    left: 35px;
+}
+
+.gl_info_paragraph_text_left
+{
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 35px;
+    width: 540px;
+    height: 90px;
+    color: #747a7d;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 115%;
+}
+
+
+
+#gl_background_park_dot
+{
+    position: absolute;
+    left: 478px;
+    bottom: 268px;
+}
+
+#gl_park_info_container
+{
+    position: absolute;
+    bottom: 168px;
+    left: 550px;
+    width: 639px;
+    height: 216px;
+    display:none;
+    z-index: -1;
+}
+
+
+#gl_park_info_bg
+{
+    position: absolute;
+
+}
+
+
+#gl_background_street_dot
+{
+    position: absolute;
+    right: 55px;
+    bottom: 240px;
+}
+
+
+#gl_street_info_container
+{
+    position: absolute;
+    width: 639px;
+    height: 216px;
+    bottom: 140px;
+    right: 125px;
+    display: none;
+    z-index: -1;
+}
+#gl_street_info_bg
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+#gl_background_parking_dot
+{
+    position: absolute;
+    top: 290px;
+    right: 205px;
+}
+
+
+#gl_parking_info_container
+{
+    position: absolute;
+    top: 250px;
+    right: 275px;
+    z-index: -1;
+    display: none;
+}
+
+
+
+
+
+#gl_background_highway_dot
+{
+    position: absolute;
+    left: 555px;
+    bottom: 525px;
+}
+
+
+#gl_highway_info_container
+{
+    position: absolute;
+    width: 639px;
+    height: 216px;
+    top: 385px;
+    left: 625px;
+    z-index: -1;
+    display:none;
+}
+
+
+
+
+
+#gl_background_marinas_dot
+{
+    position: absolute;
+    right: 0;
+    top: 385px;
+}
+
+
+#gl_marinas_info_container
+{
+    position: absolute;
+    width: 639px;
+    height: 216px;
+    right: 70px;
+    top: 345px;
+    display:none;
+    z-index: -1;
+}
+
+#gl_background_theater_dot
+{
+    position: absolute;
+    bottom: 355px;
+    left: 20px;
+}
+
+#gl_theater_info_container
+{
+    position: absolute;
+    width: 639px;
+    height: 216px;
+    bottom: 255px;
+    left: 90px;
+    display:none;
+    z-index: -1;
+}
+
+
+
+
+
+#gl_background_architecture_dot
+{
+    position: absolute;
+    top: 300px;
+    left: 0;
+}
+
+
+#gl_architecture_info_container
+{
+    position: absolute;
+    width: 639px;
+    height: 216px;
+    top: 260px;
+    left: 70px;
+    display:none;
+    z-index: -1;
+}
+
+
+
+#gl_background_dock_dot
+{
+    position: absolute;
+    top: 260px;
+    left: 400px;
+}
+
+#gl_dock_info_container
+{
+    position: absolute;
+    width: 639px;
+    height: 216px;
+    top: 220px;
+    left: 470px;
+    display:none;
+    z-index: -1;
+}
+
+
+
+#gl_background_field_dot
+{
+    position: absolute;
+    left: 750px;
+    bottom: 370px;
+}
+
+
+#gl_field_info_container
+{
+    position: absolute;
+    width: 639px;
+    height: 216px;
+    bottom: 268px;
+    left: 118px;
+    display:none;
+    z-index: -1;
+}
+
+#gl_overview_box_container
+{
+    position: absolute;
+    top: 960px;
+    left: 0;
+    width: 1304px;
+    height: 476px;
+
+}
+
+
+
+#global_link_overview_box_bg
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+#global_link_overview_box_logo
+{
+    position: absolute;
+    top: 50px;
+    left: 25px;
+}
+
+
+#global_link_overview_box_wallhaven
+{
+    position: absolute;
+    top: 25px;
+    right: 25px;
+}
+
+
+#gl_overview_box_text_container
+{
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS",  sans-serif;
+    color: #747a7d;
+    font-size: 18px;
+    text-align: justify;
+    position: absolute;
+    bottom: 85px;
+    left: 50px;
+    width: 639px;
+    height: 211px;
+}
+
+
+#gl_overview_box_links_container
+{
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS",  sans-serif;
+    color: #5c6264;
+    font-size: 20px;
+    position: absolute;
+    width: 1185px;
+    height: 20px;
+    bottom: 28px;
+    left: 71px;
+
+
+
+}
+
+#gl_overview_box_links_container a
+{
+    color: #5c6264;
+}
+
+#gl_overview_box_links_container:hover
+{
+    text-decoration: underline;
+}
+.gl_overview_box_link
+{
+    text-align: right;
+}
+
+.gl_overview_box_link:hover
+{
+    color: #ff7f00;
+    text-decoration: underline;
+}
+
+#gl_overview_box_links_gld
+{
+    position: absolute;
+    left: 0;
+}
+
+#gl_overview_box_links_wn
+{
+    position: absolute;
+    left: 281px;
+}
+
+
+#gl_overview_box_links_sc
+{
+    position: absolute;
+    left: 519px;
+}
+
+#gl_overview_box_links_cbc
+{
+    position: absolute;
+    right: 197px;
+}
+
+#gl_overview_box_links_gs
+{
+    position: absolute;
+    right: 0;
+}

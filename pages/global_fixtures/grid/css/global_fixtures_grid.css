@@ -1,0 +1,351 @@
+
+
+.global_fixtures_header_text
+{
+
+
+    color: #5c6264;
+    font-size: 30px;
+    font-weight:bold;
+    position: absolute;
+    top: 15px;
+}
+
+#contact_us_tb
+{
+    font-size: 30px;
+}
+
+
+.global_fixtures_divider
+{
+    position: absolute;
+    left: -60px;
+    top: 0;
+}
+
+#global_fixtures_flood_light_text
+{
+    position:absolute;
+    top: 0;
+}
+
+#global_fixtures_container
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1304px;
+    height: 2100px;
+
+}
+
+
+
+
+#global_fixtures_wallpacks_container
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1304px;
+    height: 392px;
+
+
+}
+
+#global_fixtures_gdwp1_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+#global_fixtures_gdwp2_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_glwp2_wrapper
+{
+    position:absolute;
+    top: 60px;
+    right: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_glwp3_wrapper
+{
+    position:absolute;
+    top: 60px;
+    right: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+
+#global_fixtures_gdwp4_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+#global_fixtures_gudl7_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+
+#global_fixtures_gwml_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+
+
+
+
+
+
+
+#global_fixtures_area_lighting_container
+{
+    position: absolute;
+    left: 0;
+    top: 425px;
+    width: 1304px;
+    height: 392px;
+}
+
+
+#global_fixtures_gspl_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_garl1_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+
+}
+
+#global_fixtures_garl4c_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+
+#global_fixtures_gmfl5_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+
+
+
+
+
+
+#global_fixtures_floodlights_container
+{
+    position: absolute;
+    left: 0;
+    top: 900px;
+    width: 1304px;
+    height: 392px;
+}
+
+
+#global_fixtures_gflc1_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_gflc2_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_gmfl2_wrapper
+{
+    position:absolute;
+    top: 60px;
+    right: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+
+#global_fixtures_gams_wrapper
+{
+    position:absolute;
+    top: 60px;
+    right: 0;
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_garl3_wrapper
+{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+
+
+
+
+
+
+#global_fixtures_canopy_container
+{
+    position: absolute;
+    left: 0;
+    top: 1342px;
+    width: 1304px;
+    height: 392px;
+}
+
+
+#global_fixtures_gcrdl1_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_gpgrc_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+#global_fixtures_gsqdl1_wrapper
+{
+    position:absolute;
+    top: 60px;
+    right: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+
+
+#global_fixtures_roadway_container
+{
+    position: absolute;
+    left: 0;
+    top: 1784px;
+    width: 1304px;
+    height: 392px;
+}
+
+
+
+#global_fixtures_grws1_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+#global_fixtures_grwl1_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+
+#global_fixtures_high_bay_container
+{
+    position: absolute;
+    left: 0;
+    top: 2201px;
+    width: 1304px;
+    height: 392px;
+}
+
+
+
+
+#global_fixtures_gal_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
+
+
+
+
+#global_fixtures_glbw16_wrapper
+{
+    position:absolute;
+    top: 60px;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
