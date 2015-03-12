@@ -1,10 +1,26 @@
 <link rel="stylesheet" property="stylesheet" type="text/css" href="/pages/global_link/css/global_link.css" >
 
+<!--
+<div id="gl_top_overview_container">
+    <img src="/pages/global_link/img/top_overview/fixture.png" alt="gl_top_overview_fixture"
+        id="gl_top_overview_fixture">
 
+    <img src="/pages/global_link/img/top_overview/hub.png" alt="gl_top_overview_hub"
+         id="gl_top_overview_hub">
 
+    <img src="/pages/global_link/img/top_overview/cloud.png" alt="gl_top_overview_cloud"
+         id="gl_top_overview_cloud">
+
+    <img src="/pages/global_link/img/top_overview/connecting_line.png" alt="gl_top_overview_connecting_line"
+         id="gl_top_overview_connecting_line">
+
+    <img src="/pages/global_link/img/top_overview/gradient.png" alt="gl_top_overview_gradient"
+         id="gl_top_overview_gradient">
+
+</div>
+-->
 
 <div id="gl_background_rollovers_container">
-
     <img src="/pages/global_link/img/rollovers/dot.png"
          id="gl_background_park_dot" alt="gl_background_park_dot" class="gl_background_dot">
 
@@ -203,54 +219,62 @@
 <div id="gl_overview_box_container">
     <img src="/pages/global_link/img/overview_box/background.png" id="global_link_overview_box_bg"
          alt="global_link_overview_box_bg" >
-    <img src="/pages/global_link/img/overview_box/logo.png" id="global_link_overview_box_logo"
-         alt="global_link_overview_box_logo" >
-    <img src="/pages/global_link/img/overview_box/wallhaven.png" id="global_link_overview_box_wallhaven"
-         alt="global_link_overview_box_wallhaven" >
+
+    <img src="/pages/global_link/img/overview_box/cloud.png" id="global_link_cbc_box_cloud"
+         alt="global_link_overview_box_cloud" >
+
+    <div id="global_link_cbc_header_text_container">
+        <span> CLOUD BASED </span>
+        <span style="font-weight:bold"> CONTROL </span>
+
+    </div>
+
+
+    <img src="/pages/global_link/img/overview_box/divider.png" id="global_link_overview_box_divider"
+         alt="global_link_overview_box_divider" >
 
     <div id="gl_overview_box_text_container">
         <span>
-            » GlobalLink™ combines intelligent design and logical application to achieve wireless lighting management
-            and precise system control. <br><br>
+            - GlobalLink&trade; combines intelligent design and logical application to achieve wireless lighting management and precise system control.
+            <br><br><br>
         </span>
 
         <span>
-            » Using wireless technology, GlobalLink™ transforms an ordinary lighting grid into an intelligent and
-            adaptable lighting network. <br><br>
+            - Using wireless technology, GlobalLink™ transforms an ordinary lighting grid into an intelligent and adaptable lighting network.
+            <br><br><br>
         </span>
 
         <span>
-            » By optimizing lighting efficiency through management and control, users are able to reduce operation
-            costs while maintaining quality light output and security.
+            - By optimizing lighting efficiency through management and control, users are able to reduce operation costs while maintaining quality light output and security.
         </span>
     </div>
 
     <div id="gl_overview_box_links_container">
-        <a href="#/global_link/global_link_defined">
+        <a href="#">
             <span id="gl_overview_box_links_gld" class="gl_overview_box_link">
                 GLOBAL LINK DEFINED
             </span>
         </a>
 
-        <a href="#/global_link/wireless_nodes">
+        <a href="#">
             <span id="gl_overview_box_links_wn" class="gl_overview_box_link">
                 WIRELESS NODES
             </span>
         </a>
 
-        <a href="#/global_link/site_controllers">
+        <a href="#">
             <span id="gl_overview_box_links_sc" class="gl_overview_box_link">
                 SITE CONTROLLERS
             </span>
         </a>
 
-        <a href="#/global_link/cloud_control">
+        <a href="#">
             <span id="gl_overview_box_links_cbc" class="gl_overview_box_link">
                 CLOUD BASED CONTROL
             </span>
         </a>
 
-        <a href="#/global_link/get_started">
+        <a href="#">
             <span id="gl_overview_box_links_gs" class="gl_overview_box_link">
                 GET STARTED
             </span>

@@ -7,7 +7,6 @@
     <img id="background_gradient_coverup" src="/pages/index/objects/background/img/coverup.png" alt="">
 
     <div id="background_image_container"> </div>
-
 </div>
 
 

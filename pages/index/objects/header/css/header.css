@@ -62,7 +62,7 @@
 #header_social_bg
 {
     position: absolute;
-    top: 0px;
+    top: 0;
     width: 78%;
     height: 100%;
 }
@@ -653,10 +653,10 @@
 #header_sub_menu_content
 {
     position: absolute;
-    height: 51px;
+    height: 71px;
     width: 1304px;
-    z-index: 4;
-    top: 14px;
+    z-index: 3;
+    top: 1px;
 }
 
 
@@ -665,14 +665,30 @@
 {
     position: absolute;
     left: 25px;
-    top: 5px;
+    top: 15px;
+}
+
+
+#header_sub_menu_led_link
+{
+    z-index: 5;
+
+}
+
+#header_sub_menu_led_container
+{
+    width: 258px;
+    height: 71px;
+    position: absolute;
+    left: 0;
+    z-index: 4;
 }
 
 #header_sub_menu_rollover_led
 {
     position: absolute;
     left: 2px;
-    bottom: -8px;
+    bottom: 0;
     z-index: -1;
     display: none;
 
@@ -683,13 +699,14 @@
 {
     position: absolute;
     left: 295px;
+    top: 10px;
 }
 
 #header_sub_menu_rollover_ceramatek
 {
     position: absolute;
     left: 260px;
-    bottom: -8px;
+    bottom: 0;
     z-index: -1;
     display: none;
 
@@ -700,13 +717,14 @@
 {
     position: absolute;
     left: 535px;
+    top: 10px;
 }
 
 #header_sub_menu_rollover_quartztek
 {
     position: absolute;
     left: 520px;
-    bottom: -8px;
+    bottom: 0;
     z-index: -1;
     display: none;
 
@@ -717,6 +735,7 @@
 {
     position: absolute;
     right: 295px;
+    top: 10px;
 
 }
 
@@ -724,7 +743,7 @@
 {
     position: absolute;
     right: 268px;
-    bottom: -8px;
+    bottom: 0;
     z-index: -1;
     display: none;
 }
@@ -735,14 +754,14 @@
 {
     position: absolute;
     right: 35px;
-    top: 0;
+    top: 10px;
 }
 
 #header_sub_menu_rollover_global_fixtures
 {
     position: absolute;
     right: 0;
-    bottom: -8px;
+    bottom: 0;
     z-index: -1;
     width: 268px;
     height: 71px;

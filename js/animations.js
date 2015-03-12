@@ -67,7 +67,7 @@ function show_products_banner(callback)
         container.load('/pages/index/objects/products_banner/products_banner.php', function () {
             if (split[0] !== "products") {
                 $(container).animate({
-                    height: 300
+                    height: 250
                 }, 500, function () {
                     $(container).css("overflow", "visible");
                     if (callback)
@@ -80,8 +80,9 @@ function show_products_banner(callback)
     else
     if (callback)
         callback();
-
 }
+
+
 
 
 
@@ -110,6 +111,38 @@ function hide_products_banner(callback)
 }
 
 
+function change_index_outer_height(height, callback)
+{
+    var index_outer = document.getElementById('index_outer_body_wrapper');
+    var background_lower = document.getElementById('background_lower_image_container');
+    var hidden_height = height - 2800;
+
+    $(index_outer).animate({
+        height: height
+    }, 500);
+    $(background_lower).animate({
+        height: hidden_height
+    }, 500, function() {
+            callback();
+        })
+}
+
+
+
+function change_index_inner_position(position, callback)
+{
+    var index_outer = document.getElementById('index_body_wrapper');
+
+    $(index_outer).animate({
+        top: position
+    }, 500, function(){
+        if (callback)
+        callback();
+    });
+
+}
+
+
 
 
 function show_persistent_menu(file, callback)
@@ -118,6 +151,23 @@ function show_persistent_menu(file, callback)
     if ( $(menu_wrapper).height() < 5)
     {
         $(menu_wrapper).fadeOut(250, function() {
+            $("#index_persistent_menu_wrapper").css("top", "-250");
+            $(menu_wrapper).load(file, function() {
+                $(menu_wrapper).animate({
+                    height: 36
+                }, 300, function() {
+                    $(menu_wrapper).fadeIn(500, function() {
+                        if(callback)
+                            callback();
+                    })
+                });
+            });
+        });
+    }
+    if ( $(menu_wrapper).height() > 40)
+    {
+        $(menu_wrapper).fadeOut(250, function() {
+            $("#index_persistent_menu_wrapper").css("top", "-250");
             $(menu_wrapper).load(file, function() {
                 $(menu_wrapper).animate({
                     height: 36

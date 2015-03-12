@@ -30,7 +30,8 @@ footer, header, menu, nav, section
 body
 {
     line-height: 1;
-    font-family: "gel_tablet_gothic", "Trebuchet MS",  sans-serif;
+    font-family: "gel_tablet_gothic_light", "Trebuchet MS",  sans-serif;
+    color: #5c6264;
 
 }
 

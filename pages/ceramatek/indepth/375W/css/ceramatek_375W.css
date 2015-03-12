@@ -30,7 +30,7 @@
 #ceramatek_375W_side_bar
 {
     position: absolute;
-    top: 140px;
+    top: 120px;
     height: 1841px;
     width: 508px;
     /* border: 1px solid red; */
@@ -96,7 +96,7 @@
 {
     position: absolute;
     right: 0;
-    top: 140px;
+    top: 120px;
     width: 770px;
     height: 1870px;
 }
@@ -264,7 +264,7 @@
 .ceramatek_375W_caracteristics_header_1
 {
     position: absolute;
-    left: 340px;
+    left: 349px;
 }
 
 .ceramatek_375W_caracteristics_header_2
@@ -276,7 +276,7 @@
 .ceramatek_375W_caracteristics_header_3
 {
     position: absolute;
-    right: 185px;
+    right: 109px;
 
 }
 

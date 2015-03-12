@@ -39,26 +39,10 @@ function load_page(page_info, callback) {
 
         },
         success: function () {
-                $(index_body).load(page_info.url[0], function () {
-                    if (page_info.products_banner_hide == 0)
-                    {
-                        show_products_banner(function(){
-                            $(index_body).fadeIn(500, function () {
-                                if (page_info.scroll_on_load == 1) {
-                                    $('html, body').animate({
-                                        scrollTop: $(page_info.scroll_to_div).offset().top
-                                    }, 700, function () {
-                                        $(index_body).fadeIn(500, function () {
-                                            callback();
-                                        })
-                                    });
-                                }
-                                callback();
-                            });
-                        });
-                    }
-                    else
-                    {
+            $(index_body).load(page_info.url[0], function () {
+                if (page_info.products_banner_hide == 0)
+                {
+                    show_products_banner(function(){
                         $(index_body).fadeIn(500, function () {
                             if (page_info.scroll_on_load == 1) {
                                 $('html, body').animate({
@@ -71,9 +55,25 @@ function load_page(page_info, callback) {
                             }
                             callback();
                         });
-                    }
+                    });
+                }
+                else
+                {
+                    $(index_body).fadeIn(500, function () {
+                        if (page_info.scroll_on_load == 1) {
+                            $('html, body').animate({
+                                scrollTop: $(page_info.scroll_to_div).offset().top
+                            }, 700, function () {
+                                $(index_body).fadeIn(500, function () {
+                                    callback();
+                                })
+                            });
+                        }
+                        callback();
+                    });
+                }
 
-                });
+            });
         }
     })
 }
@@ -135,6 +135,7 @@ function display_page(page_info, callback)
                         show_products_sub_menu();
                     if (page_info.persistent_menu == 1)
                         show_persistent_menu(page_info.persistent_menu_file);
+                    change_index_inner_position(page_info.index_inner_position);
                     load_page(page_info, function () {
                         callback();
                     });
@@ -145,17 +146,19 @@ function display_page(page_info, callback)
         {
             replace_header_image(page_info.header_file);
             $(index_body).fadeOut(500, function () {
-                display_background("/pages/index/objects/background/background_image.php", function () {
-                    if (page_info.sub_menu_show == 1)
-                        show_products_sub_menu();
-                    if (page_info.persistent_menu == 1)
-                        show_persistent_menu(page_info.persistent_menu_file);
-                    load_page(page_info, function () {
 
-                        callback();
+                    display_background("/pages/index/objects/background/background_image.php", function () {
+                        if (page_info.sub_menu_show == 1)
+                            show_products_sub_menu();
+                        if (page_info.persistent_menu == 1)
+                            show_persistent_menu(page_info.persistent_menu_file);
+                        change_index_inner_position(page_info.index_inner_position);
+                        change_index_outer_height(page_info.index_outer_height, function(){
+                            load_page(page_info, function () {
+                                callback();
+                            });
+                        });
                     });
-
-                });
             });
         }
     }

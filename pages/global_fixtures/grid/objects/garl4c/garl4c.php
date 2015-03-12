@@ -7,7 +7,6 @@
 </div>
 
 
-
 <a href="#/global_fixtures/garl4c" id="global_fixtures_grid_garl4c_link">
     <div id="global_fixtures_grid_garl4c_container">
         <img src="/pages/global_fixtures/grid/objects/garl4c/img/bg.png"
@@ -16,9 +15,17 @@
         <img src="/pages/global_fixtures/grid/objects/garl4c/img/product.png"
              id="global_fixtures_grid_garl4c_product" alt="global_fixtures_grid_garl4c_product">
 
-        <span id="global_fixtures_grid_garl4c_text"> garl4c </span>
+        <span id="global_fixtures_grid_garl4c_text"> Square Architectural Area Lighting  </span>
     </div>
 </a>
+
+
+
+
+
+
+
+
 
 
 <script> $(function(){ script_aload("/pages/global_fixtures/grid/objects/garl4c/js/garl4c.js"); }) </script>

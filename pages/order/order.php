@@ -7,38 +7,38 @@
         </div>
 
         <div id="order_first_name_container">
-            <label class="order_header_text" for="order_tb"> First Name: </label>
-            <textarea class="order_text_box" id="order_tb"> </textarea>
+
+            <textarea class="order_text_box" id="order_tb">First Name </textarea>
         </div>
 
         <div id="order_phone_number_container">
-            <label class="order_header_text" for="order_pnb"> Phone Number: </label>
-            <textarea class="order_text_box" id="order_pnb"></textarea>
+
+            <textarea class="order_text_box" id="order_pnb">Phone Number</textarea>
         </div>
 
         <div id="order_email_container">
-            <label class="order_header_text"  for="order_eb"> E-Mail: </label>
-            <textarea class="order_text_box" id="order_eb"></textarea>
+
+            <textarea class="order_text_box" id="order_eb">E-Mail</textarea>
         </div>
 
         <div id="order_last_name_container">
-            <label class="order_header_text" for="order_lnb"> Last Name: </label>
-            <textarea class="order_text_box" id="order_lnb"></textarea>
+
+            <textarea class="order_text_box" id="order_lnb">Last Name</textarea>
         </div>
 
         <div id="order_company_name_container">
-            <label class="order_header_text" for="order_cnb"> Company Name: </label>
-            <textarea class="order_text_box" id="order_cnb"></textarea>
+
+            <textarea class="order_text_box" id="order_cnb">Company Name</textarea>
         </div>
 
         <div id="order_website_address_container">
-            <label class="order_header_text" for="order_wab"> Product: </label>
-            <textarea class="order_text_box" id="order_wab"></textarea>
+
+            <textarea class="order_text_box" id="order_wab">Product</textarea>
         </div>
 
         <div id="order_bottom_container">
-            <label class="order_header_text" for="order_your_message_box"> Your Message: </label>
-            <textarea id="order_your_message_box"></textarea>
+
+            <textarea id="order_your_message_box">Your Message</textarea>
             <div id="submit_button_container">
                 <img src="/pages/order/img/submit.png" id="order_submit_button" alt="order_submit">
             </div>

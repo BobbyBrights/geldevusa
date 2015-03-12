@@ -28,7 +28,5 @@
     <div id="quartztek_grid_200W_rollover_bottom_container">
         <img src="/pages/quartztek/grid/objects/200W/img/rollover/dial.png"
              id="quartztek_grid_200W_rollover_dial" alt="quartztek_grid_200W_rollover_dial">
-        <img src="/pages/quartztek/grid/objects/200W/img/rollover/arrows.png"
-             id="quartztek_grid_200W_rollover_arrows" alt="quartztek_grid_200W_rollover_arrows">
     </div>
 </div>

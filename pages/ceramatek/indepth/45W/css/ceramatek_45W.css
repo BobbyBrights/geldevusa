@@ -30,7 +30,7 @@
 #ceramatek_45W_side_bar
 {
     position: absolute;
-    top: 140px;
+    top: 120px;
     height: 1841px;
     width: 508px;
     /* border: 1px solid red; */
@@ -96,7 +96,7 @@
 {
     position: absolute;
     right: 0;
-    top: 140px;
+    top: 120px;
     width: 770px;
     height: 1870px;
 }
@@ -264,13 +264,13 @@
 .ceramatek_45W_caracteristics_header_1
 {
     position: absolute;
-    left: 340px;
+    left: 354px;
 }
 
 .ceramatek_45W_caracteristics_header_2
 {
     position: absolute;
-    right: 225px;
+    right: 198px;
 }
 
 .ceramatek_45W_caracteristics_header_3
@@ -357,6 +357,17 @@
     left: 50px;
 }
 
+#ceramatek_45W_physicaldetails_header_1
+{
+    position: absolute;
+    left: 196px;
+}
+
+#ceramatek_45W_physicaldetails_header_2
+{
+    position: absolute;
+    right: 0px;
+}
 
 #ceramatek_45W_right_lamp_phys_details_container
 {

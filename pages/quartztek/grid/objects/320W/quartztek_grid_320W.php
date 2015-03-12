@@ -14,7 +14,7 @@
             <img src="/pages/quartztek/grid/objects/320W/img/product.png"
                  id="quartztek_grid_320W_product" alt="quartztek_grid_320W_product">
             <span class="quartztek_grid_320W_text" id="quartztek_grid_320W_upper_text">
-                REPLACES UP TO 600W
+                REPLACES UP TO 700W
             </span>
         </div>
         <div id="quartztek_grid_320W_lower_container">

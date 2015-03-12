@@ -9,27 +9,27 @@
 <div id="clientele_wrapper">
     <ol id="clientele">
         <li>
-            <a class="no-ajaxy" href="http://www.hersheys.com/" title="Hershey's">
+            <a class="no-ajaxy" href="http://www.hersheys.com/" title="Hershey's" target="_blank">
                 <img src="/pages/index/objects/footer/img/clientele/hershey.png" alt="" id="footer_partners_hershey"/>
             </a>
         </li>
         <li>
-            <a class="no-ajaxy" href="http://www.aosmith.com/" title="A. O. Smith">
+            <a class="no-ajaxy" href="http://www.aosmith.com/" title="A. O. Smith" target="_blank">
                 <img src="/pages/index/objects/footer/img/clientele/ao_smith.png" alt="" id="footer_partners_aosmith"/>
             </a>
         <li>
-            <a class="no-ajaxy" href="http://www.fedex.com/" title="FedEx">
+            <a class="no-ajaxy" href="http://www.fedex.com/" title="FedEx" target="_blank">
                 <img src="/pages/index/objects/footer/img/clientele/fedex.png" alt="" id="footer_partners_fedex"/>
             </a>
             </li>
 
         <li>
-            <a class="no-ajaxy" href="http://www.lockheedmartin.com/" title="Lockheed">
+            <a class="no-ajaxy" href="http://www.lockheedmartin.com/" title="Lockheed" target="_blank">
                 <img src="/pages/index/objects/footer/img/clientele/lockheed.png" alt="" id="footer_partners_lockheed"/>
             </a>
         </li>
         <li>
-            <a class="no-ajaxy" href="http://www.lexus.com/" title="Lexus">
+            <a class="no-ajaxy" href="http://www.lexus.com/" title="Lexus" target="_blank">
                 <img src="/pages/index/objects/footer/img/clientele/lexus.png" alt="" id="footer_partners_lexus"/>
             </a>
         </li>

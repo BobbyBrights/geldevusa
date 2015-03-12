@@ -43,5 +43,7 @@
     font-size: 16px;
     position: absolute;
     bottom: 13px;
-    left: 100px;
+    left: 0px;
+    width: 287px;
+    text-align: center;
 }

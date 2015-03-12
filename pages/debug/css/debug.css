@@ -1,0 +1,53 @@
+#debug_div1
+{
+    border: 1px solid blue;
+    position: relative;
+    width: 2560px;
+    left: 50%;
+    margin-left: -1304px;
+    height:793px;
+    top:112px;
+    overflow: hidden;
+}
+
+#debug_container
+{
+    border: 1px solid tomato;
+    position: absolute;
+    width: 1304px;
+    left: 652px;
+    height: 793px;
+    top: 0;
+    overflow: hidden;
+}
+
+#debug_c1
+{
+    position: relative;
+    float: left;
+}
+
+#debug_c2
+{
+    position: relative;
+    float: right;
+}
+#debug_div2
+{
+    border: 1px solid red;
+    position: relative;
+    top: 0;
+    width: 796px;
+    height: 793px;
+    display: inline-block;
+    left: 0px;
+}
+
+#debug_div3
+{
+    border: 1px solid green;
+    position: relative;
+    width: 793px;
+    height: 793px;
+    display: inline-block;
+}

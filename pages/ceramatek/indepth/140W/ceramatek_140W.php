@@ -38,47 +38,47 @@
              id="ceramatek_140W_right_lamp_char_bg" alt="ceramatek_140W_right_lamp_char_bg" >
         <div class="ceramatek_140W_table_header_text ceramatek_140W_table_header_container">
             <span> Lamp Characteristics </span>
-            <span class="ceramatek_140W_caracteristics_header_1"> 942 P </span>
-            <span class="ceramatek_140W_caracteristics_header_2"> 942  </span>
+            <span class="ceramatek_140W_caracteristics_header_1"> 942 </span>
+            <span class="ceramatek_140W_caracteristics_header_2">  </span>
             <span class="ceramatek_140W_caracteristics_header_3">   </span>
-            <span class="ceramatek_140W_caracteristics_header_4">728 </span>
+            <span class="ceramatek_140W_caracteristics_header_4"> 728 </span>
         </div>
 
 
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_1">
                 <span class="ceramatek_140W_table_col_1"> Initial Lumens </span>
-                <span class="ceramatek_140W_table_col_2"> 9,150 Lm </span>
-                <span class="ceramatek_140W_table_col_3"> 9,750 Lm </span>
+                <span class="ceramatek_140W_table_col_2"> 15,000 Lm </span>
+                <span class="ceramatek_140W_table_col_3"> </span>
                 <span class="ceramatek_140W_table_col_4"> </span>
-                <span class="ceramatek_140W_table_col_5"> 10,450 Lm </span>
+                <span class="ceramatek_140W_table_col_5"> 16,500 Lm </span>
         </div>
 
 
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_2">
             <span class="ceramatek_140W_table_col_1"> Design Mean Lumens </span>
-            <span class="ceramatek_140W_table_col_2"> 8,693 Lm </span>
-            <span class="ceramatek_140W_table_col_3"> 9,263 Lm </span>
+            <span class="ceramatek_140W_table_col_2"> 14,250 Lm </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
-            <span class="ceramatek_140W_table_col_5"> 9,927 Lm </span>
+            <span class="ceramatek_140W_table_col_5"> 15,675 Lm </span>
         </div>
 
 
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_3">
             <span class="ceramatek_140W_table_col_1"> Luminous Efficiency  </span>
-            <span class="ceramatek_140W_table_col_2"> 101 Lm/W </span>
-            <span class="ceramatek_140W_table_col_3"> 108 Lm/W </span>
+            <span class="ceramatek_140W_table_col_2"> 107 Lm/W </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
-            <span class="ceramatek_140W_table_col_5"> 116 Lm /W </span>
+            <span class="ceramatek_140W_table_col_5"> 118 Lm /W </span>
         </div>
 
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_4">
             <span class="ceramatek_140W_table_col_1"> Rated Average Life Hours  </span>
             <span class="ceramatek_140W_table_col_2"> 40,000 </span>
-            <span class="ceramatek_140W_table_col_3"> 40,000 </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
             <span class="ceramatek_140W_table_col_5"> 50,000 </span>
         </div>
@@ -86,49 +86,49 @@
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_5">
             <span class="ceramatek_140W_table_col_1"> Correlated Color Temperature (CCT)  </span>
             <span class="ceramatek_140W_table_col_2"> 4200k </span>
-            <span class="ceramatek_140W_table_col_3"> 4200k </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
             <span class="ceramatek_140W_table_col_5"> 2800k </span>
         </div>
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_6">
             <span class="ceramatek_140W_table_col_1"> Color Rendering Index (CRI)  </span>
-            <span class="ceramatek_140W_table_col_2"> 92 </span>
-            <span class="ceramatek_140W_table_col_3"> 91 </span>
+            <span class="ceramatek_140W_table_col_2"> 93 </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
             <span class="ceramatek_140W_table_col_5"> 66 </span>
         </div>
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_7">
             <span class="ceramatek_140W_table_col_1"> CIE Chromaticity Approximation  </span>
-            <span class="ceramatek_140W_table_col_2"> x.379,y.370 </span>
-            <span class="ceramatek_140W_table_col_3"> x.375,y.371 </span>
+            <span class="ceramatek_140W_table_col_2"> x.372,y.373 </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
-            <span class="ceramatek_140W_table_col_5"> x.545,y.406 </span>
+            <span class="ceramatek_140W_table_col_5"> x.444,y.401 </span>
         </div>
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_8">
             <span class="ceramatek_140W_table_col_1"> Operating Position  </span>
-            <span class="ceramatek_140W_table_col_2"> universal </span>
-            <span class="ceramatek_140W_table_col_3"> universal </span>
+            <span class="ceramatek_140W_table_col_2"> Universal </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
-            <span class="ceramatek_140W_table_col_5"> universal </span>
+            <span class="ceramatek_140W_table_col_5"> Universal </span>
         </div>
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_9">
             <span class="ceramatek_140W_table_col_1"> Lumen Retention @ 10% Life  </span>
             <span class="ceramatek_140W_table_col_2"> (4k Hrs) 98% </span>
-            <span class="ceramatek_140W_table_col_3"> (4k Hrs) 98% </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
-            <span class="ceramatek_140W_table_col_5"> (4k Hrs) 98% </span>
+            <span class="ceramatek_140W_table_col_5"> (5k Hrs) 98% </span>
         </div>
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_10">
             <span class="ceramatek_140W_table_col_1"> Lumen Retention @ 40% Life  </span>
             <span class="ceramatek_140W_table_col_2"> (16k Hrs)95% </span>
-            <span class="ceramatek_140W_table_col_3"> (16k Hrs)95% </span>
+            <span class="ceramatek_140W_table_col_3"> </span>
             <span class="ceramatek_140W_table_col_4"> </span>
-            <span class="ceramatek_140W_table_col_5"> (16k Hrs)95% </span>
+            <span class="ceramatek_140W_table_col_5"> (20k Hrs)95% </span>
         </div>
     </div>
     <img src="/pages/ceramatek/indepth/140W/img/right_container/lamp_char_graphs.png"
@@ -149,14 +149,14 @@
         <div class="ceramatek_140W_table_header_text ceramatek_140W_table_header_container">
             <span> Lamp Physical Details </span>
             <span class="ceramatek_140W_caracteristics_header_2"> 942  </span>
-            <span class="ceramatek_140W_caracteristics_header_4">728 </span>
+            <span class="ceramatek_140W_caracteristics_header_4"> 728 </span>
         </div>
 
 
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_1">
             <span class="ceramatek_140W_table_col_1"> Bulb Size </span>
-            <span class="ceramatek_140W_table_col_3"> ED17 - Medium </span>
+            <span class="ceramatek_140W_table_col_3"> ET23.5 - Mogul </span>
             <span class="ceramatek_140W_table_col_5"> T6 - PGZ12  </span>
         </div>
 
@@ -164,7 +164,7 @@
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_2">
             <span class="ceramatek_140W_table_col_1"> Overall Length (MOL) </span>
-            <span class="ceramatek_140W_table_col_3"> 138mm (5.44in) </span>
+            <span class="ceramatek_140W_table_col_3"> 211mm (8.3in) </span>
             <span class="ceramatek_140W_table_col_5"> 132mm (5.19in) </span>
         </div>
 
@@ -172,15 +172,15 @@
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_3">
             <span class="ceramatek_140W_table_col_1"> Diameter  </span>
-            <span class="ceramatek_140W_table_col_3"> 54mm (2.13in) </span>
+            <span class="ceramatek_140W_table_col_3"> 75mm (2.95in) </span>
             <span class="ceramatek_140W_table_col_5"> 19mm (.75in) </span>
         </div>
 
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_4">
             <span class="ceramatek_140W_table_col_1"> Light Center Length (LCL)  </span>
-            <span class="ceramatek_140W_table_col_3"> 87mm (3.44in) </span>
-            <span class="ceramatek_140W_table_col_5"> 59mm(2.3in) </span>
+            <span class="ceramatek_140W_table_col_3"> 127mm (5in) </span>
+            <span class="ceramatek_140W_table_col_5"> 59mm (2.3in) </span>
         </div>
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_5">
@@ -203,7 +203,7 @@
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_8">
             <span class="ceramatek_140W_table_col_1"> Base / Collar Temperature  </span>
-            <span class="ceramatek_140W_table_col_3"> 190&deg; (max) </span>
+            <span class="ceramatek_140W_table_col_3"> 210&deg; (max) </span>
             <span class="ceramatek_140W_table_col_5"> 300&deg; (max) </span>
         </div>
     </div>
@@ -226,32 +226,32 @@
     <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_1">
         <span class="ceramatek_140W_table_col_1"> Watts (nominal) </span>
 
-        <span class="ceramatek_140W_table_col_5"> 90 watts  </span>
+        <span class="ceramatek_140W_table_col_5"> 140 watts  </span>
     </div>
 
 
 
     <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_2">
         <span class="ceramatek_140W_table_col_1"> System Wattage (w/Ballast) </span>
-        <span class="ceramatek_140W_table_col_5"> 99.8 Watts </span>
+        <span class="ceramatek_140W_table_col_5"> 154 Watts </span>
     </div>
 
 
 
     <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_3">
         <span class="ceramatek_140W_table_col_1"> Lamp Voltage (nominal)  </span>
-        <span class="ceramatek_140W_table_col_5"> 92 Volts </span>
+        <span class="ceramatek_140W_table_col_5"> 99 Volts </span>
     </div>
 
 
     <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_4">
         <span class="ceramatek_140W_table_col_1"> Lamp Current (rms)  </span>
-        <span class="ceramatek_140W_table_col_5"> .97 Amps </span>
+        <span class="ceramatek_140W_table_col_5"> 1.414 Amps </span>
     </div>
 
     <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_5">
         <span class="ceramatek_140W_table_col_1"> Lamp Current Run-up  </span>
-        <span class="ceramatek_140W_table_col_5"> 1.47 Amps </span>
+        <span class="ceramatek_140W_table_col_5"> 2.23 Amps </span>
     </div>
 
     <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_6">
@@ -286,14 +286,14 @@
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_1">
             <span class="ceramatek_140W_table_col_1"> Dimensions </span>
-            <span class="ceramatek_140W_table_col_5">  158 x 98.5 x 61mm </span>
+            <span class="ceramatek_140W_table_col_5">  181 x 98.5 x 61mm </span>
         </div>
 
 
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_2">
             <span class="ceramatek_140W_table_col_1"> Weight </span>
-            <span class="ceramatek_140W_table_col_5"> 0.8kg/1.76lbs </span>
+            <span class="ceramatek_140W_table_col_5"> 0.9kg / 1.98lbs </span>
         </div>
 
 
@@ -306,7 +306,7 @@
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_4">
             <span class="ceramatek_140W_table_col_1">  Remote Mounting </span>
-            <span class="ceramatek_140W_table_col_5">  Yes, in na appropriate weatherproof enclosure. </span>
+            <span class="ceramatek_140W_table_col_5">  Yes, in an appropriate weatherproof enclosure. </span>
         </div>
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_5">
@@ -316,7 +316,7 @@
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_6">
             <span class="ceramatek_140W_table_col_1"> Rated Voltage </span>
-            <span class="ceramatek_140W_table_col_5"> 120-227 Volts </span>
+            <span class="ceramatek_140W_table_col_5"> 120-277 Volts </span>
         </div>
 
         <div class="ceramatek_140W_table_text ceramatek_140W_lamp_characteristics_table_7">
@@ -372,7 +372,7 @@
         <span id="ceramatek_140W_right_mounting_guidelines_text">
             <span style="font-weight:bold">Mounting Guidelines: </span> When mounting in an enclosed luminaire.
             The ballast should be mounted as far as possible from the lamp compartment. The ballast must be affixed
-            to all available mount points to enable proper heat transfer from the ballst to the body of the luminaire.
+            to all available mount points to enable proper heat transfer from the ballast to the body of the luminaire.
             <br><br>
             Global’s standard terms and conditions of sale and warranty are available at
             <a href="#/resources">

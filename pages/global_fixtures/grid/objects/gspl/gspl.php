@@ -7,7 +7,6 @@
 </div>
 
 
-
 <a href="#/global_fixtures/gspl" id="global_fixtures_grid_gspl_link">
     <div id="global_fixtures_grid_gspl_container">
         <img src="/pages/global_fixtures/grid/objects/gspl/img/bg.png"
@@ -16,9 +15,17 @@
         <img src="/pages/global_fixtures/grid/objects/gspl/img/product.png"
              id="global_fixtures_grid_gspl_product" alt="global_fixtures_grid_gspl_product">
 
-        <span id="global_fixtures_grid_gspl_text"> gspl </span>
+        <span id="global_fixtures_grid_gspl_text"> Sports Area Lighting  </span>
     </div>
 </a>
+
+
+
+
+
+
+
+
 
 
 <script> $(function(){ script_aload("/pages/global_fixtures/grid/objects/gspl/js/gspl.js"); }) </script>

@@ -38,40 +38,40 @@
              id="ceramatek_60W_right_lamp_char_bg" alt="ceramatek_60W_right_lamp_char_bg" >
         <div class="ceramatek_60W_table_header_text ceramatek_60W_table_header_container">
             <span> Lamp Characteristics </span>
-            <span class="ceramatek_60W_caracteristics_header_1"> 942 P </span>
-            <span class="ceramatek_60W_caracteristics_header_2"> 942  </span>
+            <span class="ceramatek_60W_caracteristics_header_1"> 940 P </span>
+            <span class="ceramatek_60W_caracteristics_header_2"> 842  </span>
             <span class="ceramatek_60W_caracteristics_header_3">   </span>
-            <span class="ceramatek_60W_caracteristics_header_4">728 </span>
+            <span class="ceramatek_60W_caracteristics_header_4"> 728 </span>
         </div>
 
 
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_1">
                 <span class="ceramatek_60W_table_col_1"> Initial Lumens </span>
-                <span class="ceramatek_60W_table_col_2"> 9,150 Lm </span>
-                <span class="ceramatek_60W_table_col_3"> 9,750 Lm </span>
+                <span class="ceramatek_60W_table_col_2"> 6,500 Lm </span>
+                <span class="ceramatek_60W_table_col_3"> 6,800 Lm </span>
                 <span class="ceramatek_60W_table_col_4"> </span>
-                <span class="ceramatek_60W_table_col_5"> 10,450 Lm </span>
+                <span class="ceramatek_60W_table_col_5"> 7,200 Lm </span>
         </div>
 
 
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_2">
             <span class="ceramatek_60W_table_col_1"> Design Mean Lumens </span>
-            <span class="ceramatek_60W_table_col_2"> 8,693 Lm </span>
-            <span class="ceramatek_60W_table_col_3"> 9,263 Lm </span>
+            <span class="ceramatek_60W_table_col_2"> 6,175 Lm </span>
+            <span class="ceramatek_60W_table_col_3"> 6,460 Lm </span>
             <span class="ceramatek_60W_table_col_4"> </span>
-            <span class="ceramatek_60W_table_col_5"> 9,927 Lm </span>
+            <span class="ceramatek_60W_table_col_5"> 6,840 Lm </span>
         </div>
 
 
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_3">
             <span class="ceramatek_60W_table_col_1"> Luminous Efficiency  </span>
-            <span class="ceramatek_60W_table_col_2"> 101 Lm/W </span>
-            <span class="ceramatek_60W_table_col_3"> 108 Lm/W </span>
+            <span class="ceramatek_60W_table_col_2"> 108 Lm/W </span>
+            <span class="ceramatek_60W_table_col_3"> 113 Lm/W </span>
             <span class="ceramatek_60W_table_col_4"> </span>
-            <span class="ceramatek_60W_table_col_5"> 116 Lm /W </span>
+            <span class="ceramatek_60W_table_col_5"> 120 Lm /W </span>
         </div>
 
 
@@ -85,7 +85,7 @@
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_5">
             <span class="ceramatek_60W_table_col_1"> Correlated Color Temperature (CCT)  </span>
-            <span class="ceramatek_60W_table_col_2"> 4200k </span>
+            <span class="ceramatek_60W_table_col_2"> 4000k </span>
             <span class="ceramatek_60W_table_col_3"> 4200k </span>
             <span class="ceramatek_60W_table_col_4"> </span>
             <span class="ceramatek_60W_table_col_5"> 2800k </span>
@@ -93,26 +93,26 @@
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_6">
             <span class="ceramatek_60W_table_col_1"> Color Rendering Index (CRI)  </span>
-            <span class="ceramatek_60W_table_col_2"> 92 </span>
-            <span class="ceramatek_60W_table_col_3"> 91 </span>
+            <span class="ceramatek_60W_table_col_2"> 90 </span>
+            <span class="ceramatek_60W_table_col_3"> 88 </span>
             <span class="ceramatek_60W_table_col_4"> </span>
-            <span class="ceramatek_60W_table_col_5"> 66 </span>
+            <span class="ceramatek_60W_table_col_5"> 73 </span>
         </div>
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_7">
             <span class="ceramatek_60W_table_col_1"> CIE Chromaticity Approximation  </span>
-            <span class="ceramatek_60W_table_col_2"> x.379,y.370 </span>
-            <span class="ceramatek_60W_table_col_3"> x.375,y.371 </span>
+            <span class="ceramatek_60W_table_col_2"> x.441,y.392 </span>
+            <span class="ceramatek_60W_table_col_3"> x.370,y.360 </span>
             <span class="ceramatek_60W_table_col_4"> </span>
-            <span class="ceramatek_60W_table_col_5"> x.545,y.406 </span>
+            <span class="ceramatek_60W_table_col_5"> x.453,y.405 </span>
         </div>
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_8">
             <span class="ceramatek_60W_table_col_1"> Operating Position  </span>
-            <span class="ceramatek_60W_table_col_2"> universal </span>
-            <span class="ceramatek_60W_table_col_3"> universal </span>
+            <span class="ceramatek_60W_table_col_2"> Universal </span>
+            <span class="ceramatek_60W_table_col_3"> Universal </span>
             <span class="ceramatek_60W_table_col_4"> </span>
-            <span class="ceramatek_60W_table_col_5"> universal </span>
+            <span class="ceramatek_60W_table_col_5"> Universal </span>
         </div>
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_9">
@@ -120,7 +120,7 @@
             <span class="ceramatek_60W_table_col_2"> (4k Hrs) 98% </span>
             <span class="ceramatek_60W_table_col_3"> (4k Hrs) 98% </span>
             <span class="ceramatek_60W_table_col_4"> </span>
-            <span class="ceramatek_60W_table_col_5"> (4k Hrs) 98% </span>
+            <span class="ceramatek_60W_table_col_5"> (5k Hrs) 98% </span>
         </div>
 
         <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_10">
@@ -128,7 +128,7 @@
             <span class="ceramatek_60W_table_col_2"> (16k Hrs)95% </span>
             <span class="ceramatek_60W_table_col_3"> (16k Hrs)95% </span>
             <span class="ceramatek_60W_table_col_4"> </span>
-            <span class="ceramatek_60W_table_col_5"> (16k Hrs)95% </span>
+            <span class="ceramatek_60W_table_col_5"> (20k Hrs)95% </span>
         </div>
     </div>
     <img src="/pages/ceramatek/indepth/60W/img/right_container/lamp_char_graphs.png"
@@ -149,7 +149,7 @@
         <div class="ceramatek_60W_table_header_text ceramatek_60W_table_header_container">
             <span> Lamp Physical Details </span>
             <span class="ceramatek_60W_caracteristics_header_2"> 942  </span>
-            <span class="ceramatek_60W_caracteristics_header_4">728 </span>
+            <span class="ceramatek_60W_caracteristics_header_4"> 728 </span>
         </div>
 
 
@@ -226,14 +226,14 @@
     <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_1">
         <span class="ceramatek_60W_table_col_1"> Watts (nominal) </span>
 
-        <span class="ceramatek_60W_table_col_5"> 90 watts  </span>
+        <span class="ceramatek_60W_table_col_5"> 60 watts  </span>
     </div>
 
 
 
     <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_2">
         <span class="ceramatek_60W_table_col_1"> System Wattage (w/Ballast) </span>
-        <span class="ceramatek_60W_table_col_5"> 99.8 Watts </span>
+        <span class="ceramatek_60W_table_col_5"> 67.1 Watts </span>
     </div>
 
 
@@ -246,12 +246,12 @@
 
     <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_4">
         <span class="ceramatek_60W_table_col_1"> Lamp Current (rms)  </span>
-        <span class="ceramatek_60W_table_col_5"> .97 Amps </span>
+        <span class="ceramatek_60W_table_col_5"> .65 Amps </span>
     </div>
 
     <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_5">
         <span class="ceramatek_60W_table_col_1"> Lamp Current Run-up  </span>
-        <span class="ceramatek_60W_table_col_5"> 1.47 Amps </span>
+        <span class="ceramatek_60W_table_col_5"> 0.98 Amps </span>
     </div>
 
     <div class="ceramatek_60W_table_text ceramatek_60W_lamp_characteristics_table_6">

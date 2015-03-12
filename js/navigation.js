@@ -141,7 +141,11 @@ function Service_Root(bookmark, callback)
         "background_file": "/pages/index/objects/background/background_image.php",
         "change_bg": 0,
         "scroll_on_load": 0,
-        "scroll_to_div": ""
+        "scroll_to_div": "",
+        "index_outer_height": 2800,
+        "index_inner_position": -250
+
+
     };
 
 
@@ -177,6 +181,7 @@ function Service_Root(bookmark, callback)
                 page_info.products_banner_hide = 1;
                 page_info.persistent_menu_div = "#led_indepth_top_menu_bar";
                 page_info.persistent_menu_file = "/pages/led/indepth/led_indepth.php";
+
                 if (service_array.length > 1)
                     process_product_subdomain("led", page_info, service_array);
                 break;
@@ -188,10 +193,11 @@ function Service_Root(bookmark, callback)
                 page_info.products_banner_hide = 1;
                 page_info.persistent_menu_div = "#global_fixtures_indepth_top_menu_bar";
                 page_info.persistent_menu_file = "/pages/global_fixtures/indepth/global_fixtures_indepth.php";
+                page_info.index_outer_height = 4000;
+
                 if (service_array.length > 1)
                     process_product_subdomain("global_fixtures", page_info, service_array);
                 break;
-
 
 
 
@@ -202,7 +208,6 @@ function Service_Root(bookmark, callback)
                 page_info.persistent_menu_file = "/pages/resources/resources_menu.php";
                 page_info.persistent_menu = 1;
                 page_info.url[0] = "/pages/resources/resources.php";
-
                 break;
 
 
@@ -216,10 +221,6 @@ function Service_Root(bookmark, callback)
                 break;
 
 
-
-
-
-
             case "global_advance":
                 page_info.url[0] = "/pages/global_advance/global_advance.php";
                 page_info.sub_menu_show = 1;
@@ -227,20 +228,25 @@ function Service_Root(bookmark, callback)
                 break;
 
 
-
             case "products":
 
                 page_info.url[0] = "/pages/products_grid/products_grid.php";
                 page_info.products_banner_hide = 1;
+                page_info.index_inner_position = -300;
                 page_info.sub_menu_show = 0;
-
                 break;
-
 
 
             case "home":
                 page_info.url[0] = "/pages/home/home.php";
+                page_info.change_index_height = 0;
                 break;
+
+            case "debug":
+                page_info.products_banner_hide = 1;
+                page_info.url[0] = "/pages/debug/debug.php";
+                break;
+
 
             case "about_us":
                 page_info.header_file = "/pages/about_us/about_us_header.php";

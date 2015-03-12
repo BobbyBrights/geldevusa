@@ -26,7 +26,7 @@
     </div>
 
     <div id="ceramatek_grid_90W_rollover_bottom_container">
-        <img src="/pages/ceramatek/grid/objects/90W/img/rollover/15GEL_03_05_RetrofitDial_90W.png"
+        <img src="/pages/ceramatek/grid/objects/90W/img/rollover/dial.png"
              id="ceramatek_grid_90W_rollover_dial" alt="ceramatek_grid_90W_rollover_dial">
     </div>
 </div>

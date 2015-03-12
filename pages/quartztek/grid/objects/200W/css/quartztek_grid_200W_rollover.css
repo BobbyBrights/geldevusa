@@ -19,8 +19,8 @@
 #quartztek_grid_200W_rollover_dial
 {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: -16px;
+    left: -12px;
 }
 
 
@@ -33,7 +33,6 @@
 
 .quartztek_grid_200W_rollover_text
 {
-    font-family: "quartztek_grid_200W_tablet-gothic", "Trebuchet MS",  sans-serif;
     text-align: justify;
 }
 

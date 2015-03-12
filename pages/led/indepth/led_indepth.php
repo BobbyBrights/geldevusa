@@ -1,23 +1,14 @@
 <link rel="stylesheet" property="stylesheet" type="text/css" href="/pages/led/indepth/css/led_indepth.css" >
-
+<?php define('S_ROOT', $_SERVER['DOCUMENT_ROOT']); ?>
 
 <div id="led_indepth_top_menu_bar">
 
-    <img src="/pages/led/indepth/img/wattage_selector.png"
-         id="led_indepth_wattage_selector" alt="led_indepth_wattage_selector">
 
-    <div id="led_indepth_top_wattage_bar_text">
-        <a href="#/led/wallpacks">
-            <span class="led_indepth_top_menu_bar_text" id="led_indepth_top_menu_bar_wallpacks">  WALLPACKS </span>
-        </a>
-        <a href="#/led/floodlights">
-            <span class="led_indepth_top_menu_bar_text" id="led_indepth_top_menu_bar_floodlights">  FLOODLIGHTS  </span>
-        </a>
 
-        <a href="#/led/area_lighting">
-            <span class="led_indepth_top_menu_bar_text" id="led_indepth_top_menu_bar_area_lighting">  AREA LIGHTING  </span>
-        </a>
-    </div>
+    <?php include ( S_ROOT . '/pages/led/indepth/highbay_menu.php'); ?>
+    <?php include(S_ROOT . '/pages/led/indepth/interior_menu.php'); ?>
+    <?php include(S_ROOT . '/pages/led/indepth/exterior_menu.php'); ?>
+
 
     <div id="led_indepth_top_menu_right_bar">
         <img src="/pages/led/indepth/img/place_order.png"
@@ -47,3 +38,5 @@
         </a>
     </div>
 </div>
+
+<script> $(function(){ script_aload("/pages/led/indepth/js/led_indepth.js"); }) </script>

@@ -28,7 +28,5 @@
     <div id="ceramatek_grid_315W_rollover_bottom_container">
         <img src="/pages/ceramatek/grid/objects/315W/img/rollover/dial.png"
              id="ceramatek_grid_315W_rollover_dial" alt="ceramatek_grid_315W_rollover_dial">
-        <img src="/pages/ceramatek/grid/objects/315W/img/rollover/arrows.png"
-             id="ceramatek_grid_315W_rollover_arrows" alt="ceramatek_grid_315W_rollover_arrows">
     </div>
 </div>

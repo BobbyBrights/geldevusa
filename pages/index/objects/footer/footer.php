@@ -3,6 +3,7 @@
 
 
 <div id="footer_container">
+
     <?php include ( S_ROOT . "/pages/index/objects/footer/footer_clientele.php"); ?>
 
     <div id="footer_content">
@@ -41,7 +42,7 @@
                     <span style="color:white">Fax: <br></span>
                     <span> 1.408.355.9578 <br><br> </span>
 
-                    <a class="contact_us_text_class" style="font-size:12px;color:white;text-decoration: none;" href="#/home/">
+                    <a class="contact_us_text_class" style="font-size:12px;color:white;text-decoration: none;" href="#/home" onclick="scroll_to_top()">
                         www.gel-usa.com <br>
                     </a>
                     <span>contact@gel-usa.com  <br><br> </span>
@@ -53,7 +54,7 @@
                 <span id="footer_about_us_top_text">
                     ABOUT US
                 </span>
-                <a href="#/home/" style="border: 0;;">
+                <a href="#/home" style="border: 0;;" onclick="scroll_to_top()">
                     <img src="/pages/index/objects/footer/img/logo/15GEL_03_04_WhiteLogo.png" id="footer_gel_logo" alt="footer_gel_logo">
                 </a>
             </div>
@@ -72,13 +73,13 @@
             </div>
             <div id="footer_lower_text_links_container">
                 <div class="footer_lower_text_links">
-                    <a  class="footer_lower_text_links" id="footer_lower_text_links_products" href="#/products/ceramatek">PRODUCTS </a>
+                    <a  class="footer_lower_text_links" id="footer_lower_text_links_products" href="#/products" onclick="scroll_to_top()">PRODUCTS </a>
                     &nbsp;&nbsp;&nbsp;
-                    <a  class="footer_lower_text_links" id="footer_lower_text_links_order" href="#/order/">ORDER </a>
+                    <a  class="footer_lower_text_links" id="footer_lower_text_links_order" href="#/order" onclick="scroll_to_top()">ORDER </a>
                     &nbsp;&nbsp;&nbsp;
-                    <a  class="footer_lower_text_links" id="footer_lower_text_links_cs" href="#/case-studies/">CASE STUDIES  </a>
+                    <a  class="footer_lower_text_links" id="footer_lower_text_links_cs" href="#/case_studies" onclick="scroll_to_top()">CASE STUDIES  </a>
                     &nbsp;&nbsp;&nbsp;
-                    <a  class="footer_lower_text_links" id="footer_lower_text_links_resources"  href="#/resources/">RESOURCES </a>
+                    <a  class="footer_lower_text_links" id="footer_lower_text_links_resources"  href="#/resources" onclick="scroll_to_top()">RESOURCES </a>
                 </div>
 
             </div>

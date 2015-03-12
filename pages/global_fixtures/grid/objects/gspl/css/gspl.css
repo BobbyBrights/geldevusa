@@ -1,3 +1,4 @@
+
 #global_fixtures_grid_gspl_rollover_wrapper
 {
     position: absolute;
@@ -9,7 +10,6 @@
     display: none;
 
 }
-
 
 
 #global_fixtures_grid_gspl_container
@@ -28,13 +28,10 @@
 #global_fixtures_grid_gspl_product
 {
     position: absolute;
-    left: 40px;
+    left: 50px;
     bottom: 50px;
 
 }
-
-
-
 
 #global_fixtures_grid_gspl_text
 {
@@ -43,5 +40,7 @@
     font-size: 16px;
     position: absolute;
     bottom: 13px;
-    left: 100px;
+    left: 0px;
+    width: 287px;
+    text-align: center;
 }

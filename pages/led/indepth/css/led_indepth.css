@@ -1,21 +1,56 @@
 #led_indepth_top_menu_bar
 {
     position: absolute;
-
     width: 1304px;
     height: 36px;
-    top: 50px;
+    top: 60px;
     left: 0;
     overflow: hidden;
     z-index: 2;
 }
 
-#led_indepth_wattage_selector
+#led_indepth_top_menu_left_main
+{
+    position: absolute;
+    width: 509px;
+    height: 36px;
+
+}
+
+
+
+
+
+
+.led_indepth_grid_view
+{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.led_indepth_wattage_selector
 {
     position: absolute;
     top: 0;
     left: 0;
 }
+
+
+#led_menu_divider_1
+{
+    position: absolute;
+    top: 0;
+    left: 165px;
+}
+
+#led_menu_divider_2
+{
+    position: absolute;
+    top: 0;
+    right: 165px;
+}
+
 
 .led_indepth_top_menu_bar_text
 {
@@ -31,16 +66,17 @@
 }
 
 
-
-#led_indepth_top_wattage_bar_text
+#led_indepth_top_wattage_bar_text_grid
 {
     position: absolute;
     top: 10px;
-    left: 16px;
-    width: 473px;
+    left: 20px;
+    width: 470px;
     height: 16px;
-
 }
+
+
+
 
 #led_indepth_top_menu_bar_wallpacks
 {

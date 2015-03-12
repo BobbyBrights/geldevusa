@@ -116,7 +116,6 @@
                 <img src="/pages/index/objects/header/img/sub_menu/rollover.png" id="header_sub_menu_rollover_led" alt="">
 
             </a>
-
             <a href="#/ceramatek" id="header_sub_menu_ceramatek_link">
                 <img src="/pages/index/objects/header/img/sub_menu/ceramatek.png" id="header_sub_menu_ceramatek" alt="">
                 <img src="/pages/index/objects/header/img/sub_menu/rollover.png" id="header_sub_menu_rollover_ceramatek" alt="">

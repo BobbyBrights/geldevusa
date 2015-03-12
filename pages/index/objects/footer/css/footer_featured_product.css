@@ -164,6 +164,7 @@
 
 #purchase_now_button
 {
-    position: relative;
+    position: absolute;
     float: right;
+    bottom: 0px;
 }

@@ -22,12 +22,6 @@
          id="quartztek_250W_side_bar_ballast" alt="quartztek_250W_side_bar_ballast" >
 
 
-
-    <span class="quartztek_250W_header_text" id="quartztek_250W_adaptors_header">
-       Adaptors
-    </span>
-    <img src="/pages/quartztek/indepth/250W/img/side_menu/base_adaptor.png"
-         id="quartztek_250W_side_bar_base_adaptor" alt="quartztek_250W_side_bar_base_adaptor" >
 </div>
 
 <div id="quartztek_250W_right_container">
@@ -38,97 +32,97 @@
              id="quartztek_250W_right_lamp_char_bg" alt="quartztek_250W_right_lamp_char_bg" >
         <div class="quartztek_250W_table_header_text quartztek_250W_table_header_container">
             <span> Lamp Characteristics </span>
-            <span class="quartztek_250W_caracteristics_header_1"> 942 P </span>
-            <span class="quartztek_250W_caracteristics_header_2"> 942  </span>
-            <span class="quartztek_250W_caracteristics_header_3">   </span>
-            <span class="quartztek_250W_caracteristics_header_4">728 </span>
+            <span class="quartztek_250W_caracteristics_header_1"> </span>
+            <span class="quartztek_250W_caracteristics_header_2"> </span>
+            <span class="quartztek_250W_caracteristics_header_3"> 740 HOR </span>
+            <span class="quartztek_250W_caracteristics_header_4"> 740 BUD </span>
         </div>
 
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_1">
-                <span class="quartztek_250W_table_col_1"> Initial Lumens </span>
-                <span class="quartztek_250W_table_col_2"> 9,150 Lm </span>
-                <span class="quartztek_250W_table_col_3"> 9,750 Lm </span>
-                <span class="quartztek_250W_table_col_4"> </span>
-                <span class="quartztek_250W_table_col_5"> 10,450 Lm </span>
+            <span class="quartztek_250W_table_col_1"> Initial Lumens </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> 22,000 Lm </span>
+            <span class="quartztek_250W_table_col_5"> 23,800 Lm </span>
         </div>
 
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_2">
             <span class="quartztek_250W_table_col_1"> Design Mean Lumens </span>
-            <span class="quartztek_250W_table_col_2"> 8,693 Lm </span>
-            <span class="quartztek_250W_table_col_3"> 9,263 Lm </span>
-            <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> 9,927 Lm </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> 20,900 Lm </span>
+            <span class="quartztek_250W_table_col_5"> 22,610 Lm </span>
         </div>
 
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_3">
             <span class="quartztek_250W_table_col_1"> Luminous Efficiency  </span>
-            <span class="quartztek_250W_table_col_2"> 101 Lm/W </span>
-            <span class="quartztek_250W_table_col_3"> 108 Lm/W </span>
-            <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> 116 Lm /W </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> 88 Lm/W </span>
+            <span class="quartztek_250W_table_col_5"> 95 Lm/W </span>
         </div>
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_4">
             <span class="quartztek_250W_table_col_1"> Rated Average Life Hours  </span>
-            <span class="quartztek_250W_table_col_2"> 40,000 </span>
-            <span class="quartztek_250W_table_col_3"> 40,000 </span>
-            <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> 50,000 </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> 100,000 </span>
+            <span class="quartztek_250W_table_col_5"> 100,000 </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_5">
             <span class="quartztek_250W_table_col_1"> Correlated Color Temperature (CCT)  </span>
-            <span class="quartztek_250W_table_col_2"> 4200k </span>
-            <span class="quartztek_250W_table_col_3"> 4200k </span>
-            <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> 2800k </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> 4000k </span>
+            <span class="quartztek_250W_table_col_5"> 4000k </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_6">
             <span class="quartztek_250W_table_col_1"> Color Rendering Index (CRI)  </span>
-            <span class="quartztek_250W_table_col_2"> 92 </span>
-            <span class="quartztek_250W_table_col_3"> 91 </span>
-            <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> 66 </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> 68 </span>
+            <span class="quartztek_250W_table_col_5"> 68 </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_7">
             <span class="quartztek_250W_table_col_1"> CIE Chromaticity Approximation  </span>
-            <span class="quartztek_250W_table_col_2"> x.379,y.370 </span>
-            <span class="quartztek_250W_table_col_3"> x.375,y.371 </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
             <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> x.545,y.406 </span>
+            <span class="quartztek_250W_table_col_5"> x.385,y.390 </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_8">
             <span class="quartztek_250W_table_col_1"> Operating Position  </span>
-            <span class="quartztek_250W_table_col_2"> universal </span>
-            <span class="quartztek_250W_table_col_3"> universal </span>
-            <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> universal </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> HOR ± 75° </span>
+            <span class="quartztek_250W_table_col_5"> BUD ± 15° </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_9">
             <span class="quartztek_250W_table_col_1"> Lumen Retention @ 10% Life  </span>
-            <span class="quartztek_250W_table_col_2"> (4k Hrs) 98% </span>
-            <span class="quartztek_250W_table_col_3"> (4k Hrs) 98% </span>
-            <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> (4k Hrs) 98% </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> (10k Hrs) 98% </span>
+            <span class="quartztek_250W_table_col_5"> (10k Hrs) 98% </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_10">
             <span class="quartztek_250W_table_col_1"> Lumen Retention @ 40% Life  </span>
-            <span class="quartztek_250W_table_col_2"> (16k Hrs)95% </span>
-            <span class="quartztek_250W_table_col_3"> (16k Hrs)95% </span>
-            <span class="quartztek_250W_table_col_4"> </span>
-            <span class="quartztek_250W_table_col_5"> (16k Hrs)95% </span>
+            <span class="quartztek_250W_table_col_2"> </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_4"> (40k Hrs)95% </span>
+            <span class="quartztek_250W_table_col_5"> (40k Hrs)95% </span>
         </div>
     </div>
     <img src="/pages/quartztek/indepth/250W/img/right_container/lamp_char_graphs.png"
@@ -148,63 +142,63 @@
              id="quartztek_250W_right_lamp_phys_bg" alt="quartztek_250W_right_lamp_phys_bg" >
         <div class="quartztek_250W_table_header_text quartztek_250W_table_header_container">
             <span> Lamp Physical Details </span>
-            <span class="quartztek_250W_caracteristics_header_2"> 942  </span>
-            <span class="quartztek_250W_caracteristics_header_4">728 </span>
+            <span class="quartztek_250W_caracteristics_header_2"> </span>
+            <span class="quartztek_250W_caracteristics_header_4"> 740 </span>
         </div>
 
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_1">
             <span class="quartztek_250W_table_col_1"> Bulb Size </span>
-            <span class="quartztek_250W_table_col_3"> ED17 - Medium </span>
-            <span class="quartztek_250W_table_col_5"> T6 - PGZ12  </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_5"> ED28 </span>
         </div>
 
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_2">
             <span class="quartztek_250W_table_col_1"> Overall Length (MOL) </span>
-            <span class="quartztek_250W_table_col_3"> 138mm (5.44in) </span>
-            <span class="quartztek_250W_table_col_5"> 132mm (5.19in) </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_5"> 211mm (8.3in) </span>
         </div>
 
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_3">
             <span class="quartztek_250W_table_col_1"> Diameter  </span>
-            <span class="quartztek_250W_table_col_3"> 54mm (2.13in) </span>
-            <span class="quartztek_250W_table_col_5"> 19mm (.75in) </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_5"> 90mm (3.5in) </span>
         </div>
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_4">
             <span class="quartztek_250W_table_col_1"> Light Center Length (LCL)  </span>
-            <span class="quartztek_250W_table_col_3"> 87mm (3.44in) </span>
-            <span class="quartztek_250W_table_col_5"> 59mm(2.3in) </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_5"> 127mm (5in) </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_5">
             <span class="quartztek_250W_table_col_1"> Arc Tube Material  </span>
-            <span class="quartztek_250W_table_col_3"> Ceramic (PCA) </span>
-            <span class="quartztek_250W_table_col_5"> Ceramic (PCA) </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_5"> Quartz </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_6">
             <span class="quartztek_250W_table_col_1"> Bulb Finish  </span>
-            <span class="quartztek_250W_table_col_3"> Clear </span>
+            <span class="quartztek_250W_table_col_3"> </span>
             <span class="quartztek_250W_table_col_5"> Clear </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_7">
             <span class="quartztek_250W_table_col_1"> Bulb / Shroud Temperature  </span>
-            <span class="quartztek_250W_table_col_3"> 400&deg; (max) </span>
-            <span class="quartztek_250W_table_col_5"> 550&deg; (max) </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_5"> 400&deg; C (max) </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_8">
             <span class="quartztek_250W_table_col_1"> Base / Collar Temperature  </span>
-            <span class="quartztek_250W_table_col_3"> 190&deg; (max) </span>
-            <span class="quartztek_250W_table_col_5"> 300&deg; (max) </span>
+            <span class="quartztek_250W_table_col_3"> </span>
+            <span class="quartztek_250W_table_col_5"> 210&deg; C (max) </span>
         </div>
     </div>
 
@@ -212,63 +206,63 @@
 
 
 
-<div id="quartztek_250W_right_lamp_electric_details_container">
+    <div id="quartztek_250W_right_lamp_electric_details_container">
 
 
-    <img src="/pages/quartztek/indepth/250W/img/right_container/lamp_electrical_spec_bg.png"
-         id="quartztek_250W_lamp_electrical_spec_bg" alt="quartztek_250W_right_llamp_electrical_spec_bg" >
-    <div class="quartztek_250W_table_header_text quartztek_250W_table_header_container">
-        <span> Lamp Electrical Specifications </span>
+        <img src="/pages/quartztek/indepth/250W/img/right_container/lamp_electrical_spec_bg.png"
+             id="quartztek_250W_lamp_electrical_spec_bg" alt="quartztek_250W_right_llamp_electrical_spec_bg" >
+        <div class="quartztek_250W_table_header_text quartztek_250W_table_header_container">
+            <span> Lamp Electrical Specifications </span>
+        </div>
+
+
+
+        <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_1">
+            <span class="quartztek_250W_table_col_1"> Watts (nominal) </span>
+
+            <span class="quartztek_250W_table_col_5"> 250 watts  </span>
+        </div>
+
+
+
+        <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_2">
+            <span class="quartztek_250W_table_col_1"> System Wattage (w/Ballast) </span>
+            <span class="quartztek_250W_table_col_5"> 275 Watts </span>
+        </div>
+
+
+
+        <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_3">
+            <span class="quartztek_250W_table_col_1"> Lamp Voltage (nominal)  </span>
+            <span class="quartztek_250W_table_col_5"> 133 Volts </span>
+        </div>
+
+
+        <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_4">
+            <span class="quartztek_250W_table_col_1"> Lamp Current (rms)  </span>
+            <span class="quartztek_250W_table_col_5"> 1.87 Amps </span>
+        </div>
+
+        <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_5">
+            <span class="quartztek_250W_table_col_1"> Lamp Current Run-up  </span>
+            <span class="quartztek_250W_table_col_5"> 2.81 Amps </span>
+        </div>
+
+        <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_6">
+            <span class="quartztek_250W_table_col_1"> Ignition Time  </span>
+            <span class="quartztek_250W_table_col_5"> 3 Seconds (max) </span>
+        </div>
+
+        <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_7">
+            <span class="quartztek_250W_table_col_1"> Run-up time 90%  </span>
+            <span class="quartztek_250W_table_col_5"> 1 Minute (max) </span>
+        </div>
+
+        <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_8">
+            <span class="quartztek_250W_table_col_1"> re-ignition time  </span>
+            <span class="quartztek_250W_table_col_5"> 9 Minutes (max) </span>
+        </div>
     </div>
-
-
-
-    <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_1">
-        <span class="quartztek_250W_table_col_1"> Watts (nominal) </span>
-
-        <span class="quartztek_250W_table_col_5"> 90 watts  </span>
-    </div>
-
-
-
-    <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_2">
-        <span class="quartztek_250W_table_col_1"> System Wattage (w/Ballast) </span>
-        <span class="quartztek_250W_table_col_5"> 99.8 Watts </span>
-    </div>
-
-
-
-    <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_3">
-        <span class="quartztek_250W_table_col_1"> Lamp Voltage (nominal)  </span>
-        <span class="quartztek_250W_table_col_5"> 92 Volts </span>
-    </div>
-
-
-    <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_4">
-        <span class="quartztek_250W_table_col_1"> Lamp Current (rms)  </span>
-        <span class="quartztek_250W_table_col_5"> .97 Amps </span>
-    </div>
-
-    <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_5">
-        <span class="quartztek_250W_table_col_1"> Lamp Current Run-up  </span>
-        <span class="quartztek_250W_table_col_5"> 1.47 Amps </span>
-    </div>
-
-    <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_6">
-        <span class="quartztek_250W_table_col_1"> Ignition Time  </span>
-        <span class="quartztek_250W_table_col_5"> 3 Seconds (max) </span>
-    </div>
-
-    <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_7">
-        <span class="quartztek_250W_table_col_1"> Run-up time 90%  </span>
-        <span class="quartztek_250W_table_col_5"> 1 Minute (max) </span>
-    </div>
-
-    <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_8">
-        <span class="quartztek_250W_table_col_1"> re-ignition time  </span>
-        <span class="quartztek_250W_table_col_5"> 9 Minutes (max) </span>
-    </div>
-</div>
 
 
 
@@ -286,84 +280,82 @@
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_1">
             <span class="quartztek_250W_table_col_1"> Dimensions </span>
-            <span class="quartztek_250W_table_col_5">  158 x 98.5 x 61mm </span>
+            <span class="quartztek_250W_table_col_5">  168 x 102 x 76mm </span>
         </div>
 
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_2">
-            <span class="quartztek_250W_table_col_1"> Weight </span>
-            <span class="quartztek_250W_table_col_5"> 0.8kg/1.76lbs </span>
+            <span class="quartztek_250W_table_col_1"> Input Surge Protection </span>
+            <span class="quartztek_250W_table_col_5"> IEEE 62.41 Category C (10 KV / 2 KA & 6 KV / 3 A) </span>
         </div>
 
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_3">
-            <span class="quartztek_250W_table_col_1">  Mounting Distance </span>
-            <span class="quartztek_250W_table_col_5">  Up to 16 feet (standard)</span>
+            <span class="quartztek_250W_table_col_1">  Input Protection TOV </span>
+            <span class="quartztek_250W_table_col_5">  410 Volts</span>
         </div>
 
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_4">
-            <span class="quartztek_250W_table_col_1">  Remote Mounting </span>
-            <span class="quartztek_250W_table_col_5">  Yes, in na appropriate weatherproof enclosure. </span>
+            <span class="quartztek_250W_table_col_1">  Output Protection </span>
+            <span class="quartztek_250W_table_col_5">  Full protection against arcing, wire shorts, hard switching & end of life </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_5">
-            <span class="quartztek_250W_table_col_1"> Ignition Voltage </span>
-            <span class="quartztek_250W_table_col_5"> 4kV </span>
+            <span class="quartztek_250W_table_col_1"> Mounting Distance </span>
+            <span class="quartztek_250W_table_col_5"> Up to 85 feet (must be programmed). Up to 26 feet is standard. </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_6">
-            <span class="quartztek_250W_table_col_1"> Rated Voltage </span>
-            <span class="quartztek_250W_table_col_5"> 120-227 Volts </span>
+            <span class="quartztek_250W_table_col_1"> Acoustic Operation </span>
+            <span class="quartztek_250W_table_col_5"> Smart Software control for complete resonant free operation </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_7">
-            <span class="quartztek_250W_table_col_1">  Input Current Frequency </span>
-            <span class="quartztek_250W_table_col_5">  50 / 60 Hz</span>
+            <span class="quartztek_250W_table_col_1">  Analog Dimming </span>
+            <span class="quartztek_250W_table_col_5">  Continuous to 50%. Analog (motion detector, photocell, switch)</span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_8">
-            <span class="quartztek_250W_table_col_1">  Input Surge Protection </span>
-            <span class="quartztek_250W_table_col_5">  7kA, 1.5kV </span>
+            <span class="quartztek_250W_table_col_1">  Digital Dimming </span>
+            <span class="quartztek_250W_table_col_5">  DALI Enabled </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_9">
-            <span class="quartztek_250W_table_col_1">  Power Factor </span>
-            <span class="quartztek_250W_table_col_5">  95% </span>
+            <span class="quartztek_250W_table_col_1">  Ignition Voltage </span>
+            <span class="quartztek_250W_table_col_5">  ≤ 4000 Volts </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_10">
-            <span class="quartztek_250W_table_col_1">  Efficiency </span>
-            <span class="quartztek_250W_table_col_5">  90+% </span>
+            <span class="quartztek_250W_table_col_1">  Open Circuit Voltage </span>
+            <span class="quartztek_250W_table_col_5">  ≤ 300 Volts </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_11">
-            <span class="quartztek_250W_table_col_1">  Max Case Temperature </span>
-            <span class="quartztek_250W_table_col_5">  85&deg; C</span>
+            <span class="quartztek_250W_table_col_1">  Remote Ballast </span>
+            <span class="quartztek_250W_table_col_5">  Can be mounted to exterior of fixture. IP65 Rated.</span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_12">
-            <span class="quartztek_250W_table_col_1">  Ambient Temperature </span>
-            <span class="quartztek_250W_table_col_5">  -20&deg;C... +55&deg;C</span>
+            <span class="quartztek_250W_table_col_1">  Regulation </span>
+            <span class="quartztek_250W_table_col_5">  UL1029 & UL935, Outdoor, Type 1, Recessed Use. EN61347-2-12, CE</span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_13">
-            <span class="quartztek_250W_table_col_1">  Output Protection </span>
-            <span class="quartztek_250W_table_col_5">
-                Full protection against arching, wire shorts, hard switching & end of life.
-            </span>
+            <span class="quartztek_250W_table_col_1">  Max Case Temperature </span>
+            <span class="quartztek_250W_table_col_5"> 85° C </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_14">
-            <span class="quartztek_250W_table_col_1">  Thermal Protection </span>
-            <span class="quartztek_250W_table_col_5">  Yes </span>
+            <span class="quartztek_250W_table_col_1">  Ambient Case Temperature </span>
+            <span class="quartztek_250W_table_col_5">  40° C to 65° C / -32° F to 149° F </span>
         </div>
 
         <div class="quartztek_250W_table_text quartztek_250W_lamp_characteristics_table_15">
             <span class="quartztek_250W_table_col_1">  EMC </span>
-            <span class="quartztek_250W_table_col_5">  FCC Part 18 Class A</span>
+            <span class="quartztek_250W_table_col_5">  FCC Title 47, Part 18 C - EN55015, EN61547, EN61000-3-2, EN6100-3-3</span>
         </div>
     </div>
 
@@ -382,8 +374,5 @@
     </div>
 
 
-</div>
 
-
-
-<script> $(function(){ script_aload("/pages/quartztek/indepth/250W/js/quartztek_250W.js"); }) </script>
+    <script> $(function(){ script_aload("/pages/quartztek/indepth/250W/js/quartztek_250W.js"); }) </script>

@@ -20,11 +20,10 @@
 
         <div id="products_banner_led_solutions_text_wrapper">
                 <span id="products_banner_led_solutions_text">
-                    - LED For Interior Applications <br>
-                    - LED For Exterior Applications <br>
-                    - Commercial and Industrial Retrofit Kits <br>
-                    - We Provide Full Fixtures <br>
-                    - The Last Bullet Point Here <br>
+                    Advanced LED technology provides a high-powered, energy efficient addition
+                    to any lighting portfolio. Retrofit kits, as well as full fixture replacements,
+                    are available for both interior and exterior applications.
+
                 </span>
         </div>
     </div>

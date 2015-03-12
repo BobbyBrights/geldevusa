@@ -16,7 +16,7 @@
         <img src="/pages/global_fixtures/grid/objects/gdwp2/img/product.png"
              id="global_fixtures_grid_gdwp2_product" alt="global_fixtures_grid_gdwp2_product">
 
-        <span id="global_fixtures_grid_gdwp2_text"> gdwp2 </span>
+        <span id="global_fixtures_grid_gdwp2_text"> Full Cut-off Wall Pack </span>
     </div>
 </a>
 

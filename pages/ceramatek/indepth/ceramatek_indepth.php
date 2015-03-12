@@ -32,7 +32,7 @@
     </div>
 
     <div id="ceramatek_indepth_top_menu_right_bar">
-        <img src="/pages/ceramatek/indepth/img/place_order.png"
+        <img src="/pages/ceramatek/indepth/img/place_order_bg.png"
              id="ceramatek_indepth_place_order" alt="ceramatek_indepth_place_order">
         <a href="#" id="ceramatek_indepth_place_order_link">
             <span class="ceramatek_indepth_top_menu_bar_text" id="ceramatek_indepth_top_menu_bar_place_order">
@@ -40,7 +40,7 @@
             </span>
         </a>
 
-        <img src="/pages/ceramatek/indepth/img/dl_spec_sheet.png"
+        <img src="/pages/ceramatek/indepth/img/dl_spec_sheet_bg.png"
                  id="ceramatek_indepth_dl_spec_sheet" alt="ceramatek_indepth_dl_spec_sheet">
 
         <a href="#" id="ceramatek_indepth_spec_sheet_link">
@@ -50,7 +50,7 @@
         </a>
 
 
-        <img src="/pages/ceramatek/indepth/img/install_instructions.png"
+        <img src="/pages/ceramatek/indepth/img/install_instructions_bg.png"
              id="ceramatek_indepth_install_instructions" alt="ceramatek_indepth_install_instructions">
         <a href="#" id="ceramatek_indepth_install_instructions_link">
             <span class="ceramatek_indepth_top_menu_bar_text" id="ceramatek_indepth_top_menu_bar_install_instructions">
@@ -59,3 +59,5 @@
         </a>
     </div>
 </div>
+
+<script> $(function(){ script_aload("/pages/ceramatek/indepth/js/ceramatek_indepth.js"); }) </script>

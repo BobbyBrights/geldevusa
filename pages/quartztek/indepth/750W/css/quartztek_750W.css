@@ -30,7 +30,7 @@
 #quartztek_750W_side_bar
 {
     position: absolute;
-    top: 140px;
+    top: 120px;
     height: 1841px;
     width: 508px;
     /* border: 1px solid red; */
@@ -76,27 +76,11 @@
 }
 
 
-#quartztek_750W_adaptors_header
-{
-    top: 1330px;
-}
-
-
-
-#quartztek_750W_side_bar_base_adaptor
-{
-    position: absolute;
-    left: 0;
-    bottom: 0;
-}
-
-
-
 #quartztek_750W_right_container
 {
     position: absolute;
     right: 0;
-    top: 140px;
+    top: 120px;
     width: 770px;
     height: 1870px;
 }

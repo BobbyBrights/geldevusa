@@ -1,3 +1,33 @@
+textarea
+{
+    font-size: 18px;
+    color: #5c6264;
+    text-indent: 10px;
+    border: none;
+    border-bottom: solid 2px #d9d9d9;
+    -webkit-transition: border 0.3s;
+    -moz-transition: border 0.3s;
+    -o-transition: border 0.3s;
+    transition: border 0.3s;
+    line-height: 200%;
+    outline: 0;
+
+}
+
+textarea:hover
+{
+    border: none;
+    border-bottom: solid 2px #808080;
+    line-height: 200%;
+}
+
+textarea:focus
+{
+    border: none;
+    border-bottom: solid 2px #808080;
+    line-height: 200%;
+}
+
 #order_content
 {
     position: absolute;

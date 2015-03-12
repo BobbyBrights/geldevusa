@@ -15,7 +15,7 @@
         <img src="/pages/global_fixtures/grid/objects/gdwp1/img/product.png"
              id="global_fixtures_grid_gdwp1_product" alt="global_fixtures_grid_gdwp1_product">
 
-        <span id="global_fixtures_grid_gdwp1_text"> gdwp1 </span>
+        <span id="global_fixtures_grid_gdwp1_text"> Borosilicate Glass Wall Pack  </span>
     </div>
 </a>
 

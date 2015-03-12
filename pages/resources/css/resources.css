@@ -1,12 +1,41 @@
-#resources_body_container
+#resources_hidden_body_container
 {
-    position: absolute;
-    width: 100%;
-    height: 793px;
-    top: 112px;
-    left: 0;
+    position: relative;
+    width: 2560px;
+    left: 50%;
+    margin-left: -1304px;
+    height:793px;
+    top:112px;
     overflow: hidden;
+}
 
+#resources_body_container_1
+{
+    position: relative;
+    width: 1304px;
+    height: 793px;
+    display: inline-block;
+    margin-left: 652px;
+
+}
+
+#resources_body_container_2
+{
+    position: relative;
+    width: 1304px;
+    height: 793px;
+    display: inline-block;
+
+
+}
+
+
+#resources_body_container_3
+{
+    position: relative;
+    width: 1304px;
+    height: 793px;
+    display: inline-block;
 }
 
 
@@ -92,7 +121,7 @@
 #resources_page_selector_container
 {
     position: absolute;
-    top: 54px;
+    top: 35px;
     right: 40px;
     width: 185px;
     height: 25px;

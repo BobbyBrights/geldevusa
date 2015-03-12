@@ -38,18 +38,18 @@
              id="ceramatek_90W_right_lamp_char_bg" alt="ceramatek_90W_right_lamp_char_bg" >
         <div class="ceramatek_90W_table_header_text ceramatek_90W_table_header_container">
             <span> Lamp Characteristics </span>
-            <span class="ceramatek_90W_caracteristics_header_1"> 942 P </span>
+            <span class="ceramatek_90W_caracteristics_header_1"> 940 P </span>
             <span class="ceramatek_90W_caracteristics_header_2"> 942  </span>
             <span class="ceramatek_90W_caracteristics_header_3">   </span>
-            <span class="ceramatek_90W_caracteristics_header_4">728 </span>
+            <span class="ceramatek_90W_caracteristics_header_4"> 628 </span>
         </div>
 
 
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_1">
                 <span class="ceramatek_90W_table_col_1"> Initial Lumens </span>
-                <span class="ceramatek_90W_table_col_2"> 9,150 Lm </span>
-                <span class="ceramatek_90W_table_col_3"> 9,750 Lm </span>
+                <span class="ceramatek_90W_table_col_2"> 9,400 Lm </span>
+                <span class="ceramatek_90W_table_col_3"> 10,000 Lm </span>
                 <span class="ceramatek_90W_table_col_4"> </span>
                 <span class="ceramatek_90W_table_col_5"> 10,450 Lm </span>
         </div>
@@ -58,8 +58,8 @@
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_2">
             <span class="ceramatek_90W_table_col_1"> Design Mean Lumens </span>
-            <span class="ceramatek_90W_table_col_2"> 8,693 Lm </span>
-            <span class="ceramatek_90W_table_col_3"> 9,263 Lm </span>
+            <span class="ceramatek_90W_table_col_2"> 8,930 Lm </span>
+            <span class="ceramatek_90W_table_col_3"> 9,500 Lm </span>
             <span class="ceramatek_90W_table_col_4"> </span>
             <span class="ceramatek_90W_table_col_5"> 9,927 Lm </span>
         </div>
@@ -68,8 +68,8 @@
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_3">
             <span class="ceramatek_90W_table_col_1"> Luminous Efficiency  </span>
-            <span class="ceramatek_90W_table_col_2"> 101 Lm/W </span>
-            <span class="ceramatek_90W_table_col_3"> 108 Lm/W </span>
+            <span class="ceramatek_90W_table_col_2"> 104 Lm/W </span>
+            <span class="ceramatek_90W_table_col_3"> 111 Lm/W </span>
             <span class="ceramatek_90W_table_col_4"> </span>
             <span class="ceramatek_90W_table_col_5"> 116 Lm /W </span>
         </div>
@@ -85,7 +85,7 @@
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_5">
             <span class="ceramatek_90W_table_col_1"> Correlated Color Temperature (CCT)  </span>
-            <span class="ceramatek_90W_table_col_2"> 4200k </span>
+            <span class="ceramatek_90W_table_col_2"> 4000k </span>
             <span class="ceramatek_90W_table_col_3"> 4200k </span>
             <span class="ceramatek_90W_table_col_4"> </span>
             <span class="ceramatek_90W_table_col_5"> 2800k </span>
@@ -93,26 +93,26 @@
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_6">
             <span class="ceramatek_90W_table_col_1"> Color Rendering Index (CRI)  </span>
-            <span class="ceramatek_90W_table_col_2"> 92 </span>
-            <span class="ceramatek_90W_table_col_3"> 91 </span>
+            <span class="ceramatek_90W_table_col_2"> 90 </span>
+            <span class="ceramatek_90W_table_col_3"> 90 </span>
             <span class="ceramatek_90W_table_col_4"> </span>
             <span class="ceramatek_90W_table_col_5"> 66 </span>
         </div>
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_7">
             <span class="ceramatek_90W_table_col_1"> CIE Chromaticity Approximation  </span>
-            <span class="ceramatek_90W_table_col_2"> x.379,y.370 </span>
-            <span class="ceramatek_90W_table_col_3"> x.375,y.371 </span>
+            <span class="ceramatek_90W_table_col_2"> x.382,y.371 </span>
+            <span class="ceramatek_90W_table_col_3"> x.379,y.371 </span>
             <span class="ceramatek_90W_table_col_4"> </span>
-            <span class="ceramatek_90W_table_col_5"> x.545,y.406 </span>
+            <span class="ceramatek_90W_table_col_5"> x.454,y.406 </span>
         </div>
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_8">
             <span class="ceramatek_90W_table_col_1"> Operating Position  </span>
-            <span class="ceramatek_90W_table_col_2"> universal </span>
-            <span class="ceramatek_90W_table_col_3"> universal </span>
+            <span class="ceramatek_90W_table_col_2"> Universal </span>
+            <span class="ceramatek_90W_table_col_3"> Universal </span>
             <span class="ceramatek_90W_table_col_4"> </span>
-            <span class="ceramatek_90W_table_col_5"> universal </span>
+            <span class="ceramatek_90W_table_col_5"> Universal </span>
         </div>
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_9">
@@ -120,7 +120,7 @@
             <span class="ceramatek_90W_table_col_2"> (4k Hrs) 98% </span>
             <span class="ceramatek_90W_table_col_3"> (4k Hrs) 98% </span>
             <span class="ceramatek_90W_table_col_4"> </span>
-            <span class="ceramatek_90W_table_col_5"> (4k Hrs) 98% </span>
+            <span class="ceramatek_90W_table_col_5"> (5k Hrs) 98% </span>
         </div>
 
         <div class="ceramatek_90W_table_text ceramatek_90W_lamp_characteristics_table_10">
@@ -128,7 +128,7 @@
             <span class="ceramatek_90W_table_col_2"> (16k Hrs)95% </span>
             <span class="ceramatek_90W_table_col_3"> (16k Hrs)95% </span>
             <span class="ceramatek_90W_table_col_4"> </span>
-            <span class="ceramatek_90W_table_col_5"> (16k Hrs)95% </span>
+            <span class="ceramatek_90W_table_col_5"> (20k Hrs)95% </span>
         </div>
     </div>
     <img src="/pages/ceramatek/indepth/90W/img/right_container/lamp_char_graphs.png"
@@ -149,7 +149,7 @@
         <div class="ceramatek_90W_table_header_text ceramatek_90W_table_header_container">
             <span> Lamp Physical Details </span>
             <span class="ceramatek_90W_caracteristics_header_2"> 942  </span>
-            <span class="ceramatek_90W_caracteristics_header_4">728 </span>
+            <span class="ceramatek_90W_caracteristics_header_4"> 728 </span>
         </div>
 
 

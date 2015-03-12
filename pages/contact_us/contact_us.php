@@ -9,43 +9,42 @@
 </div>
 
 <div id="contact_us_first_name_container">
-    <label class="contact_us_header_text" for="contact_us_tb"> First Name: </label>
-        <textarea class="contact_us_text_box" id="contact_us_tb">Adam</textarea>
+    
+        <textarea class="contact_us_text_box" id="contact_us_tb">First Name</textarea>
 </div>
 
 <div id="contact_us_last_name_container">
-    <label class="contact_us_header_text" for="contact_us_lnb"> Last Name: </label>
-    <textarea class="contact_us_text_box" id="contact_us_lnb">Duskett</textarea>
+
+    <textarea class="contact_us_text_box" id="contact_us_lnb">Last Name</textarea>
 </div>
 
 
-
 <div id="contact_us_phone_number_container">
-    <label class="contact_us_header_text" for="contact_us_pnb"> Phone Number: </label>
-    <textarea class="contact_us_text_box" id="contact_us_pnb">555-123-4567</textarea>
+
+    <textarea class="contact_us_text_box" id="contact_us_pnb">Phone Number</textarea>
 </div>
 
 
 <div id="contact_us_company_name_container">
-    <label class="contact_us_header_text" for="contact_us_cnb"> Company Name: </label>
-    <textarea class="contact_us_text_box" id="contact_us_cnb">My Company LLC</textarea>
+
+    <textarea class="contact_us_text_box" id="contact_us_cnb">Company Name</textarea>
 </div>
 
 
 <div id="contact_us_email_container">
-    <label class="contact_us_header_text"  for="contact_us_eb"> E-Mail: </label>
-    <textarea class="contact_us_text_box" id="contact_us_eb">Aduskett@gmail.com</textarea>
+
+    <textarea class="contact_us_text_box" id="contact_us_eb">E-Mail</textarea>
 </div>
 
 
 <div id="contact_us_website_address_container">
-    <label class="contact_us_header_text" for="contact_us_wab"> Website Address: </label>
-    <textarea class="contact_us_text_box" id="contact_us_wab">www.itsjustmemory.com</textarea>
+
+    <textarea class="contact_us_text_box" id="contact_us_wab">Website Address</textarea>
 </div>
 
 <div id="contact_us_bottom_container">
-    <label class="contact_us_header_text" for="contact_us_your_message_box"> Your Message: </label>
-    <textarea id="contact_us_your_message_box">Hello</textarea>
+
+    <textarea id="contact_us_your_message_box">Your Message Here</textarea>
     <div id="submit_button_container">
         <img src="/pages/contact_us/img/submit.png" id="contact_us_submit_button" alt="contact_us_submit" onclick="contact_us_submit()">
     </div>

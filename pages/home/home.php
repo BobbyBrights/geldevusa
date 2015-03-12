@@ -1,9 +1,7 @@
 <link rel="stylesheet" property="stylesheet" type="text/css" href="/pages/home/css/home.css">
 <?php define('S_ROOT', $_SERVER['DOCUMENT_ROOT']); ?>
 
-
-
-    <div id="featured_case_study_wrapper">
+<div id="featured_case_study_wrapper">
         <?php include ( S_ROOT . '/pages/home/objects/fcs/fcs.php'); ?>
     </div>
 

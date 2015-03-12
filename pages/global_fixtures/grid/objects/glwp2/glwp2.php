@@ -16,7 +16,7 @@
         <img src="/pages/global_fixtures/grid/objects/glwp2/img/product.png"
              id="global_fixtures_grid_glwp2_product" alt="global_fixtures_grid_glwp2_product">
 
-        <span id="global_fixtures_grid_glwp2_text"> glwp2 </span>
+        <span id="global_fixtures_grid_glwp2_text"> Borosilicate Large Wall-pack </span>
     </div>
 </a>
 

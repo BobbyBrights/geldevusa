@@ -14,7 +14,7 @@
             <img src="/pages/quartztek/grid/objects/250W/img/product.png"
                  id="quartztek_grid_250W_product" alt="quartztek_grid_250W_product">
             <span class="quartztek_grid_250W_text" id="quartztek_grid_250W_upper_text">
-                REPLACES UP TO 450W
+                REPLACES UP TO 500W
             </span>
         </div>
         <div id="quartztek_grid_250W_lower_container">

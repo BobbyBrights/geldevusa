@@ -10,11 +10,6 @@
             <?php  include( S_ROOT . '/pages/case_studies/objects/side_menu/sm.php'); ?>
         </div>
 
-
-        <div id="case_studies_hidden_container_0">
-            <?php  include( S_ROOT . '/pages/case_studies/objects/oc_infiniti/oc_infiniti.php'); ?>
-        </div>
-
         <div id="case_studies_hidden_container_1">
             <?php  include( S_ROOT . '/pages/case_studies/objects/brandon_dodge/brandon_dodge.php'); ?>
         </div>

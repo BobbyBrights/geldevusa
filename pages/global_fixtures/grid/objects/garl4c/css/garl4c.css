@@ -1,14 +1,15 @@
+
 #global_fixtures_grid_garl4c_rollover_wrapper
 {
     position: absolute;
     width: 511px;
     height: 474px;
-    top: 40px;
-    left: -512px;
+    top: 10px;
+    left: 285px;
     z-index: 1;
     display: none;
-}
 
+}
 
 
 #global_fixtures_grid_garl4c_container
@@ -27,13 +28,10 @@
 #global_fixtures_grid_garl4c_product
 {
     position: absolute;
-    left: 40px;
+    left: 50px;
     bottom: 50px;
 
 }
-
-
-
 
 #global_fixtures_grid_garl4c_text
 {
@@ -42,5 +40,7 @@
     font-size: 16px;
     position: absolute;
     bottom: 13px;
-    left: 100px;
+    left: 0px;
+    width: 287px;
+    text-align: center;
 }

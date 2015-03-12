@@ -107,7 +107,7 @@
         </div>
     </div>
 
-    <!--
+
     <div id="global_fixtures_high_bay_container">
         <img src="/pages/global_fixtures/grid/img/divider.png" class="global_fixtures_divider" alt="global_fixtures_divider">
          <span class="global_fixtures_header_text" id="global_fixtures_roadway_text">
@@ -115,13 +115,13 @@
         </span>
 
         <div id="global_fixtures_gal_wrapper">
-            <?php //include ( S_ROOT . '/pages/global_fixtures/grid/objects/gal/gal.php'); ?>
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gal/gal.php'); ?>
         </div>
         <div id="global_fixtures_glbw16_wrapper">
-            <?php //include ( S_ROOT . '/pages/global_fixtures/grid/objects/glbw16/glbw16.php'); ?>
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/glbw16/glbw16.php'); ?>
         </div>
     </div>
-    -->
+
 
 
 

@@ -2,41 +2,338 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efef6682-c322-4526-9ed5-e64aeb73ab42" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/index/objects/header/img/au_cu/dividers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/header_tweets/tweets.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/_notes/dwsync.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/callback.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/clearsessions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/config-sample.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/connect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/html.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/images/_notes/dwsync.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/images/darker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/images/lighter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/redirect.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/twitteroauth/OAuth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/twitteroauth/_notes/dwsync.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/php/smc_tweets/twitteroauth/twitteroauth/twitteroauth.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/header_tweets/twitteroauth/connect.php" afterPath="$PROJECT_DIR$/php/header_tweets/twitteroauth/connect.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/img/rollover/arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/img/._dl_spec_sheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/img/._install_instructions.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/img/._place_order.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/img/dl_spec_sheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/img/install_instructions.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/img/place_order.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/img/._wattage_selector.png" afterPath="$PROJECT_DIR$/pages/led/indepth/img/._wattage_selector.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/140W/img/15GEL_03_04_CTek140W.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/140W/img/15GEL_03_04_CTek140W.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/img/15GEL_03_04_CTek375W.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/img/15GEL_03_04_CTek375W.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/arcitecture.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/arcitecture.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/140W/img/background.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/140W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/210W/img/background.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/210W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/315W/img/background.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/315W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/img/background.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/45W/img/background.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/45W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/60W/img/background.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/60W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/90W/img/background.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/90W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/img/background.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/img/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/100W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/100W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/150W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/150W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/200W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/200W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/250W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/250W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/320W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/320W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/400W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/400W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/575W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/575W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/750W/img/side_menu/ballast.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/750W/img/side_menu/ballast.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/side_menu/base_adaptor.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/side_menu/base_adaptor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/side_menu/base_adaptor.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/side_menu/base_adaptor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/side_menu/base_adaptor.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/side_menu/base_adaptor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/side_menu/base_adaptor.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/side_menu/base_adaptor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/side_menu/base_adaptor.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/side_menu/base_adaptor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/side_menu/base_adaptor.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/side_menu/base_adaptor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp1/img/bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp1/img/bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/img/bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/img/bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/315W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/315W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/img/rollover/dial.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/img/rollover/dial.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/docks.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/docks.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/field_lighting.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/field_lighting.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/highway.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/highway.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/img/right_container/lamp_char_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/img/right_container/lamp_char_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/img/right_container/lamp_char_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/img/right_container/lamp_char_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/100W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/100W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/150W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/150W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/200W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/200W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/250W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/250W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/320W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/320W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/400W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/400W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/575W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/575W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/750W/img/right_container/lamp_char_graphs.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/750W/img/right_container/lamp_char_graphs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/img/right_container/lamp_tech_specs_bg.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/img/right_container/lamp_tech_specs_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/100W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/100W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/150W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/150W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/200W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/200W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/250W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/250W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/320W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/320W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/400W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/400W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/575W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/575W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/750W/img/side_menu/lamp_wire_diagram.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/750W/img/side_menu/lamp_wire_diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/products_banner/objects/led_solutions/img/logo.png" afterPath="$PROJECT_DIR$/pages/index/objects/products_banner/objects/led_solutions/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/products_grid/objects/led_solutions/img/logo.png" afterPath="$PROJECT_DIR$/pages/products_grid/objects/led_solutions/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/marinas.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/marinas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/background/img/newyork_city.png" afterPath="$PROJECT_DIR$/pages/index/objects/background/img/newyork_city.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contact_us/img/office_left.png" afterPath="$PROJECT_DIR$/pages/contact_us/img/office_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/order/img/office_left.png" afterPath="$PROJECT_DIR$/pages/order/img/office_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contact_us/img/office_right.png" afterPath="$PROJECT_DIR$/pages/contact_us/img/office_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/park.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/park.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/parking.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/parking.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl1/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl1/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl4c/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl4c/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp1/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp1/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc1/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc1/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc2/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc2/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp2/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp2/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl2/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl2/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl5/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl5/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gspl/img/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gspl/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/img/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/100W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/100W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/150W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/150W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/200W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/200W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/250W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/250W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/320W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/320W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/400W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/400W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/575W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/575W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/750W/img/side_menu/product.png" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/750W/img/side_menu/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/streets.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/streets.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/img/rollovers/theater.png" afterPath="$PROJECT_DIR$/pages/global_link/img/rollovers/theater.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/products_banner/objects/led_solutions/img/top.png" afterPath="$PROJECT_DIR$/pages/index/objects/products_banner/objects/led_solutions/img/top.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/products_grid/objects/led_solutions/img/top_image.png" afterPath="$PROJECT_DIR$/pages/products_grid/objects/led_solutions/img/top_image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/img/wattage_selector.png" afterPath="$PROJECT_DIR$/pages/led/indepth/img/wattage_selector.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about_us/css/about_us.css" afterPath="$PROJECT_DIR$/pages/about_us/css/about_us.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about_us/about_us.php" afterPath="$PROJECT_DIR$/pages/about_us/about_us.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/animations.js" afterPath="$PROJECT_DIR$/js/animations.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/background/css/background.css" afterPath="$PROJECT_DIR$/pages/index/objects/background/css/background.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/background/background.php" afterPath="$PROJECT_DIR$/pages/index/objects/background/background.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/case_studies/case_studies.php" afterPath="$PROJECT_DIR$/pages/case_studies/case_studies.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/css/ceramatek_140W.css" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/css/ceramatek_140W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/ceramatek_140W.php" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/140W/ceramatek_140W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/css/ceramatek_210W.css" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/css/ceramatek_210W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/ceramatek_210W.php" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/210W/ceramatek_210W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/css/ceramatek_315W.css" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/css/ceramatek_315W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/ceramatek_315W.php" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/315W/ceramatek_315W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/css/ceramatek_375W.css" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/css/ceramatek_375W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/ceramatek_375W.php" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/375W/ceramatek_375W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/css/ceramatek_45W.css" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/css/ceramatek_45W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/ceramatek_45W.php" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/45W/ceramatek_45W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/css/ceramatek_60W.css" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/css/ceramatek_60W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/ceramatek_60W.php" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/60W/ceramatek_60W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/css/ceramatek_90W.css" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/css/ceramatek_90W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/ceramatek_90W.php" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/90W/ceramatek_90W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/315W/css/ceramatek_grid_315W_rollover.css" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/315W/css/ceramatek_grid_315W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/315W/ceramatek_grid_315W_rollover.php" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/315W/ceramatek_grid_315W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/css/ceramatek_grid_375W_rollover.css" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/css/ceramatek_grid_375W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/ceramatek_grid_375W_rollover.php" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/375W/ceramatek_grid_375W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/grid/objects/90W/ceramatek_grid_90W_rollover.php" afterPath="$PROJECT_DIR$/pages/ceramatek/grid/objects/90W/ceramatek_grid_90W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/css/ceramatek_indepth.css" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/css/ceramatek_indepth.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/ceramatek/indepth/ceramatek_indepth.php" afterPath="$PROJECT_DIR$/pages/ceramatek/indepth/ceramatek_indepth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contact_us/css/contact_us.css" afterPath="$PROJECT_DIR$/pages/contact_us/css/contact_us.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contact_us/contact_us.php" afterPath="$PROJECT_DIR$/pages/contact_us/contact_us.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/default.css" afterPath="$PROJECT_DIR$/css/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/objects/fcs/css/fcs.css" afterPath="$PROJECT_DIR$/pages/home/objects/fcs/css/fcs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/footer/css/footer.css" afterPath="$PROJECT_DIR$/pages/index/objects/footer/css/footer.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/footer/footer.php" afterPath="$PROJECT_DIR$/pages/index/objects/footer/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/footer/footer_clientele.php" afterPath="$PROJECT_DIR$/pages/index/objects/footer/footer_clientele.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/footer/css/footer_featured_product.css" afterPath="$PROJECT_DIR$/pages/index/objects/footer/css/footer_featured_product.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/footer/footer_featured_product.php" afterPath="$PROJECT_DIR$/pages/index/objects/footer/footer_featured_product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl1/css/garl1.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl1/css/garl1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/css/garl1.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/css/garl1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl1/garl1.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl1/garl1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl4c/css/garl4c.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl4c/css/garl4c.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/css/garl4c.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/css/garl4c.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl4c/garl4c.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/garl4c/garl4c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp1/css/gdwp1.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp1/css/gdwp1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/css/gdwp1.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/css/gdwp1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp1/gdwp1.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp1/gdwp1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/css/gdwp2.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/css/gdwp2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/css/gdwp2.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/css/gdwp2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/gdwp2.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/gdwp2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel100al1/js/gel100al1.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel100al1/js/gel100al1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel100al2/js/gel100al2.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel100al2/js/gel100al2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel100wp1/js/gel100wp1.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel100wp1/js/gel100wp1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel100wp2/js/gel100wp2.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel100wp2/js/gel100wp2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel150al1/js/gel150al1.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel150al1/js/gel150al1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel150al2/js/gel150al2.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel150al2/js/gel150al2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel150wp1/js/gel150wp1.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel150wp1/js/gel150wp1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel150wp2/js/gel150wp2.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel150wp2/js/gel150wp2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel40wfl1/js/gel40wfl1.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel40wfl1/js/gel40wfl1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel40wfl2/js/gel40wfl2.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel40wfl2/js/gel40wfl2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel80wfl1/js/gel80wfl1.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel80wfl1/js/gel80wfl1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/gel80wfl2/js/gel80wfl2.js" afterPath="$PROJECT_DIR$/pages/led/indepth/gel80wfl2/js/gel80wfl2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc1/css/gflc1.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc1/css/gflc1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/css/gflc1.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/css/gflc1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc1/gflc1.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc1/gflc1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc2/css/gflc2.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc2/css/gflc2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/css/gflc2.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/css/gflc2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc2/gflc2.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gflc2/gflc2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_advance/css/global_advance.css" afterPath="$PROJECT_DIR$/pages/global_advance/css/global_advance.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_advance/global_advance.php" afterPath="$PROJECT_DIR$/pages/global_advance/global_advance.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/global_fixtures_garl1.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl1/global_fixtures_garl1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/global_fixtures_garl4c.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/garl4c/global_fixtures_garl4c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/global_fixtures_gdwp1.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/global_fixtures_gdwp1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/global_fixtures_gdwp2.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp2/global_fixtures_gdwp2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/global_fixtures_gflc1.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc1/global_fixtures_gflc1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/global_fixtures_gflc2.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gflc2/global_fixtures_gflc2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/global_fixtures_glwp2.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/global_fixtures_glwp2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/global_fixtures_gmfl2.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/global_fixtures_gmfl2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/global_fixtures_gmfl5.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/global_fixtures_gmfl5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/css/global_fixtures_grid.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/css/global_fixtures_grid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/global_fixtures_grid.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/global_fixtures_grid.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/global_fixtures_gspl.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/global_fixtures_gspl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/css/global_fixtures_indepth.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/css/global_fixtures_indepth.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/css/global_link.css" afterPath="$PROJECT_DIR$/pages/global_link/css/global_link.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_link/global_link.php" afterPath="$PROJECT_DIR$/pages/global_link/global_link.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp2/css/glwp2.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp2/css/glwp2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/css/glwp2.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/glwp2/css/glwp2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp2/glwp2.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp2/glwp2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp3/css/glwp3.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp3/css/glwp3.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp3/glwp3.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/glwp3/glwp3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl2/css/gmfl2.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl2/css/gmfl2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/css/gmfl2.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl2/css/gmfl2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl2/gmfl2.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl2/gmfl2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl5/css/gmfl5.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl5/css/gmfl5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/css/gmfl5.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gmfl5/css/gmfl5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl5/gmfl5.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gmfl5/gmfl5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gspl/css/gspl.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gspl/css/gspl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/css/gspl.css" afterPath="$PROJECT_DIR$/pages/global_fixtures/indepth/gspl/css/gspl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gspl/gspl.php" afterPath="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gspl/gspl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/header/css/header.css" afterPath="$PROJECT_DIR$/pages/index/objects/header/css/header.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/header/header.php" afterPath="$PROJECT_DIR$/pages/index/objects/header/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/css/home.css" afterPath="$PROJECT_DIR$/pages/home/css/home.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/header_tweets/twitteroauth/html.inc" afterPath="$PROJECT_DIR$/php/header_tweets/twitteroauth/html.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/home.php" afterPath="$PROJECT_DIR$/pages/home/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/css/index.css" afterPath="$PROJECT_DIR$/pages/index/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/index.php" afterPath="$PROJECT_DIR$/pages/index/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/launch.php" afterPath="$PROJECT_DIR$/launch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/css/led_indepth.css" afterPath="$PROJECT_DIR$/pages/led/indepth/css/led_indepth.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/led/indepth/led_indepth.php" afterPath="$PROJECT_DIR$/pages/led/indepth/led_indepth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index/objects/products_banner/objects/led_solutions/led_solutions.php" afterPath="$PROJECT_DIR$/pages/index/objects/products_banner/objects/led_solutions/led_solutions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/navigation.js" afterPath="$PROJECT_DIR$/js/navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/order/css/order.css" afterPath="$PROJECT_DIR$/pages/order/css/order.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/order/order.php" afterPath="$PROJECT_DIR$/pages/order/order.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/page_handling.js" afterPath="$PROJECT_DIR$/js/page_handling.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/quartztek_1000W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/1000W/quartztek_1000W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/100W/quartztek_100W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/100W/quartztek_100W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/150W/quartztek_150W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/150W/quartztek_150W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/200W/css/quartztek_200W.css" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/200W/css/quartztek_200W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/200W/quartztek_200W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/200W/quartztek_200W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/250W/css/quartztek_250W.css" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/250W/css/quartztek_250W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/250W/quartztek_250W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/250W/quartztek_250W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/320W/css/quartztek_320W.css" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/320W/css/quartztek_320W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/320W/quartztek_320W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/320W/quartztek_320W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/400W/css/quartztek_400W.css" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/400W/css/quartztek_400W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/400W/quartztek_400W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/400W/quartztek_400W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/575W/css/quartztek_575W.css" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/575W/css/quartztek_575W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/575W/quartztek_575W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/575W/quartztek_575W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/750W/css/quartztek_750W.css" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/750W/css/quartztek_750W.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/750W/quartztek_750W.php" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/750W/quartztek_750W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/css/quartztek_grid.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/css/quartztek_grid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/quartztek_grid.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/quartztek_grid.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/css/quartztek_grid_1000W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/css/quartztek_grid_1000W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/quartztek_grid_1000W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/1000W/quartztek_grid_1000W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/quartztek_grid_100W.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/quartztek_grid_100W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/css/quartztek_grid_100W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/css/quartztek_grid_100W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/quartztek_grid_100W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/100W/quartztek_grid_100W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/quartztek_grid_150W.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/quartztek_grid_150W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/css/quartztek_grid_150W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/css/quartztek_grid_150W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/quartztek_grid_150W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/150W/quartztek_grid_150W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/css/quartztek_grid_200W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/css/quartztek_grid_200W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/quartztek_grid_200W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/200W/quartztek_grid_200W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/quartztek_grid_250W.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/quartztek_grid_250W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/css/quartztek_grid_250W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/css/quartztek_grid_250W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/quartztek_grid_250W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/250W/quartztek_grid_250W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/quartztek_grid_320W.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/quartztek_grid_320W.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/css/quartztek_grid_320W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/css/quartztek_grid_320W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/quartztek_grid_320W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/320W/quartztek_grid_320W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/css/quartztek_grid_400W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/css/quartztek_grid_400W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/quartztek_grid_400W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/400W/quartztek_grid_400W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/css/quartztek_grid_575W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/css/quartztek_grid_575W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/quartztek_grid_575W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/575W/quartztek_grid_575W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/css/quartztek_grid_750W_rollover.css" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/css/quartztek_grid_750W_rollover.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/quartztek_grid_750W_rollover.php" afterPath="$PROJECT_DIR$/pages/quartztek/grid/objects/750W/quartztek_grid_750W_rollover.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/quartztek/indepth/css/quartztek_indepth.css" afterPath="$PROJECT_DIR$/pages/quartztek/indepth/css/quartztek_indepth.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resources/css/resources.css" afterPath="$PROJECT_DIR$/pages/resources/css/resources.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resources/js/resources.js" afterPath="$PROJECT_DIR$/pages/resources/js/resources.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/resources/resources.php" afterPath="$PROJECT_DIR$/pages/resources/resources.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/case_studies/objects/side_menu/sm.php" afterPath="$PROJECT_DIR$/pages/case_studies/objects/side_menu/sm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/objects/smc/smc.php" afterPath="$PROJECT_DIR$/pages/home/objects/smc/smc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/objects/smc/css/social_media_center.css" afterPath="$PROJECT_DIR$/pages/home/objects/smc/css/social_media_center.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/header_tweets/twitteroauth/test.php" afterPath="$PROJECT_DIR$/php/header_tweets/twitteroauth/test.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/header_tweets/tweets.php" afterPath="$PROJECT_DIR$/php/header_tweets/tweets.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/smc_tweets/tweets.php" afterPath="$PROJECT_DIR$/php/smc_tweets/tweets.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/objects/video_frame/css/video_frame.css" afterPath="$PROJECT_DIR$/pages/home/objects/video_frame/css/video_frame.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/home/objects/video_frame/video_frame.php" afterPath="$PROJECT_DIR$/pages/home/objects/video_frame/video_frame.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="public_html.iws" />
@@ -56,57 +353,117 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/pages/index/css/index.css">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.62205565" vertical-offset="1669" max-vertical-offset="3270">
+                    <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="public_html" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tweets.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/smc_tweets/tweets.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.235294" vertical-offset="2250" max-vertical-offset="3180">
-              <caret line="178" column="33" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="720">
-              <caret line="21" column="61" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="61" />
+            <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="855">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="smc.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/home/objects/smc/smc.php">
+      <file leaf-file-name="background.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/objects/background/background.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5529801" vertical-offset="294" max-vertical-offset="1245">
-              <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="300">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="launch.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/launch.php">
+      <file leaf-file-name="background.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/objects/background/css/background.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="240">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="870">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="social_media_center.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/home/objects/smc/css/social_media_center.css">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/objects/footer/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2630" max-vertical-offset="3885">
-              <caret line="122" column="17" selection-start-line="122" selection-start-column="17" selection-end-line="122" selection-end-column="17" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="60" max-vertical-offset="1530">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/navigation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.1199143" vertical-offset="1721" max-vertical-offset="5475">
+              <caret line="309" column="25" selection-start-line="309" selection-start-column="25" selection-end-line="309" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index/objects/footer/css/footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4860">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resources.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/resources/js/resources.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2400">
+              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_handling.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/page_handling.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.481482" vertical-offset="1493" max-vertical-offset="2580">
+              <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animations.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/animations.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.6296296" vertical-offset="1423" max-vertical-offset="3960">
+              <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -120,57 +477,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pages/global_fixtures/grid/js/global_fixtures_grid.js" />
-        <option value="$PROJECT_DIR$/pages/global_fixtures/grid/global_fixtures_grid.php" />
-        <option value="$PROJECT_DIR$/css/default.css" />
-        <option value="$PROJECT_DIR$/pages/global_fixtures/grid/css/global_fixtures_grid.css" />
-        <option value="$PROJECT_DIR$/pages/contact_us/css/contact_us.css" />
-        <option value="$PROJECT_DIR$/pages/global_advance/global_advance.php" />
-        <option value="$PROJECT_DIR$/pages/home/objects/igl/igl.php" />
-        <option value="$PROJECT_DIR$/js/animations.js" />
-        <option value="$PROJECT_DIR$/pages/global_link/global_link_bg.php" />
-        <option value="$PROJECT_DIR$/pages/resources/css/resources.css" />
-        <option value="$PROJECT_DIR$/pages/resources/js/resources.js" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/idoc/css/idoc.css" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/side_menu/css/sm.css" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/oc_infiniti/js/oc_infiniti.js" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/oc_infiniti/css/oc_infiinti.css" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/brandon_dodge/brandon_dodge.php" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/boise_airport/boise_airport.php" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/brandon_dodge/css/brandon_dodge.css" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/boise_airport/css/boise_airport.css" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/oc_infiniti/oc_infiniti.php" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/oc_infiniti/css/oc_infinti.css" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/idoc/js/cs_idoc.js" />
-        <option value="$PROJECT_DIR$/pages/case_studies/case_studies.php" />
-        <option value="$PROJECT_DIR$/pages/case_studies/css/case_studies.css" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/brandon_dodge/js/brandon_dodge.js" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/boise_airport/js/boise_airport.js" />
-        <option value="$PROJECT_DIR$/pages/global_link/css/global_link.css" />
-        <option value="$PROJECT_DIR$/pages/case_studies/js/case_study_functions.js" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/side_menu/js/sm_js.js" />
-        <option value="$PROJECT_DIR$/pages/index/objects/header/js/header.js" />
-        <option value="$PROJECT_DIR$/pages/ceramatek/indepth/375W/js/ceramatek_375W.js" />
-        <option value="$PROJECT_DIR$/js/page_handling.js" />
-        <option value="$PROJECT_DIR$/pages/contact_us/contact_us.php" />
-        <option value="$PROJECT_DIR$/pages/contact_us/js/contact_us.js" />
-        <option value="$PROJECT_DIR$/php/gel_mail.php" />
-        <option value="$PROJECT_DIR$/pages/products_grid/css/products_grid.css" />
-        <option value="$PROJECT_DIR$/pages/index/css/index.css" />
-        <option value="$PROJECT_DIR$/pages/index/objects/header/css/header.css" />
-        <option value="$PROJECT_DIR$/js/navigation.js" />
-        <option value="$PROJECT_DIR$/pages/global_link/js/global_link.js" />
+        <option value="$PROJECT_DIR$/pages/about_us/about_us.php" />
+        <option value="$PROJECT_DIR$/pages/index/objects/footer/footer_clientele.php" />
+        <option value="$PROJECT_DIR$/pages/index/objects/footer/footer_featured_product.php" />
         <option value="$PROJECT_DIR$/pages/global_link/global_link.php" />
-        <option value="$PROJECT_DIR$/pages/case_studies/objects/side_menu/sm.php" />
-        <option value="$PROJECT_DIR$/pages/home/objects/video_frame/video_frame.php" />
-        <option value="$PROJECT_DIR$/pages/home/objects/video_frame/css/video_frame.css" />
-        <option value="$PROJECT_DIR$/pages/home/css/home.css" />
-        <option value="$PROJECT_DIR$/pages/home/objects/video_frame/js/video_frame.js" />
-        <option value="$PROJECT_DIR$/pages/index/objects/header/header.php" />
-        <option value="$PROJECT_DIR$/pages/home/objects/smc/css/social_media_center.css" />
-        <option value="$PROJECT_DIR$/php/header_tweets/tweets.php" />
-        <option value="$PROJECT_DIR$/php/smc_tweets/tweets.php" />
-        <option value="$PROJECT_DIR$/pages/home/objects/smc/smc.php" />
+        <option value="$PROJECT_DIR$/pages/debug/js/debug.js" />
+        <option value="$PROJECT_DIR$/pages/debug/debug.php" />
+        <option value="$PROJECT_DIR$/pages/global_fixtures/grid/objects/gdwp2/gdwp2.php" />
+        <option value="$PROJECT_DIR$/pages/resources/css/resources.css" />
+        <option value="$PROJECT_DIR$/pages/debug/css/debug.css" />
+        <option value="$PROJECT_DIR$/pages/global_fixtures/indepth/gdwp1/global_fixtures_gdwp1.php" />
+        <option value="$PROJECT_DIR$/pages/resources/resources.php" />
+        <option value="$PROJECT_DIR$/pages/ceramatek/indepth/ceramatek_indepth.php" />
+        <option value="$PROJECT_DIR$/pages/ceramatek/indepth/js/ceramatek_indepth.js" />
+        <option value="$PROJECT_DIR$/pages/ceramatek/indepth/css/ceramatek_indepth.css" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel80wfl1/js/gel80wfl1.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel80wfl2/js/gel80wfl2.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/css/led_indepth.css" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/css/wall_pack_menu.css" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/wall_pack_menu.php" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/css/shoebox_menu.css" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/shoebox_menu.php" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel150al1/js/gel150al1.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel150al2/js/gel150al2.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel100al1/js/gel100al1.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel100al2/js/gel100al2.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel40wfl1/js/gel40wfl1.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/led_indepth.php" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/highbay_menu.php" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/js/led_indepth.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/css/exterior_menu.css" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/exterior_menu.php" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/interior_menu.php" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/css/highbay_menu.css" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/css/interior_menu.css" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel150wp1/js/gel150wp1.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel150wp2/js/gel150wp2.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel100wp1/js/gel100wp1.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel100wp2/js/gel100wp2.js" />
+        <option value="$PROJECT_DIR$/pages/global_fixtures/grid/global_fixtures_grid.php" />
+        <option value="$PROJECT_DIR$/pages/index/objects/footer/footer.php" />
+        <option value="$PROJECT_DIR$/pages/index/objects/background/background.php" />
+        <option value="$PROJECT_DIR$/pages/global_link/css/global_link.css" />
+        <option value="$PROJECT_DIR$/pages/index/objects/background/css/background.css" />
+        <option value="$PROJECT_DIR$/pages/resources/js/resources.js" />
+        <option value="$PROJECT_DIR$/pages/led/indepth/gel40wfl2/js/gel40wfl2.js" />
+        <option value="$PROJECT_DIR$/js/page_handling.js" />
+        <option value="$PROJECT_DIR$/pages/index/index.php" />
+        <option value="$PROJECT_DIR$/js/animations.js" />
+        <option value="$PROJECT_DIR$/pages/index/css/index.css" />
+        <option value="$PROJECT_DIR$/pages/index/objects/footer/css/footer.css" />
+        <option value="$PROJECT_DIR$/js/navigation.js" />
       </list>
     </option>
   </component>
@@ -179,10 +536,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
+    <option name="x" value="-1920" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1053" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -235,93 +592,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smc_tweets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="header_tweets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="facebook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -395,7 +666,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1920" height="1053" extended-state="6" />
+    <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -411,13 +682,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26091477" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26091477" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -438,9 +709,10 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985386" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -466,230 +738,132 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/objects/oc_infiniti/css/oc_infinti.css">
+    <entry file="file://$PROJECT_DIR$/pages/resources/css/resources.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1124197" vertical-offset="0" max-vertical-offset="934">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5967742" vertical-offset="0" max-vertical-offset="2565">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/objects/idoc/js/cs_idoc.js">
+    <entry file="file://$PROJECT_DIR$/pages/ceramatek/indepth/90W/js/ceramatek_90W.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.032119915" vertical-offset="0" max-vertical-offset="934">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/css/case_studies.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06852248" vertical-offset="191" max-vertical-offset="1185">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/objects/boise_airport/js/boise_airport.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32119915" vertical-offset="0" max-vertical-offset="934">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/objects/brandon_dodge/js/brandon_dodge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24089935" vertical-offset="0" max-vertical-offset="934">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/global_link/global_link_bg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14835165" vertical-offset="0" max-vertical-offset="910">
-          <caret line="9" column="102" selection-start-line="9" selection-start-column="83" selection-end-line="9" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/global_link/css/global_link.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10813704" vertical-offset="1759" max-vertical-offset="5685">
-          <caret line="124" column="15" selection-start-line="124" selection-start-column="15" selection-end-line="124" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/objects/idoc/idoc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6208791" vertical-offset="950" max-vertical-offset="1920">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/objects/side_menu/js/sm_js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32119915" vertical-offset="0" max-vertical-offset="934">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/case_studies.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21428572" vertical-offset="0" max-vertical-offset="910">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/objects/header/img/sub_menu/rollover.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/animations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37096775" vertical-offset="0" max-vertical-offset="3210">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ceramatek/indepth/375W/js/ceramatek_375W.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.016129032" vertical-offset="0" max-vertical-offset="930">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ceramatek/indepth/375W/ceramatek_375W.php">
+    <entry file="file://$PROJECT_DIR$/pages/ceramatek/indepth/45W/ceramatek_45W.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5925">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/resources/resources.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.884106" vertical-offset="6189" max-vertical-offset="7095">
+          <caret line="466" column="12" selection-start-line="466" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/index/objects/header/js/header.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="281" max-vertical-offset="1275">
-          <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.38709676" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ceramatek/indepth/css/ceramatek_indepth.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5" vertical-offset="1455" max-vertical-offset="2550">
+          <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel40wfl1/led_gel40wfl1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06622516" vertical-offset="0" max-vertical-offset="4980">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel80wfl2/led_gel80wfl2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4980">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel80wfl2/js/gel80wfl2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12903225" vertical-offset="0" max-vertical-offset="930">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel80wfl1/js/gel80wfl1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11290322" vertical-offset="0" max-vertical-offset="930">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/home/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
+        <state vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="510">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/launch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/css/led_indepth.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25802997" vertical-offset="899" max-vertical-offset="2610">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel100wp2/led_gel100wp2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4980">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/css/index.css">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel150al2/js/gel150al2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19354838" vertical-offset="1575" max-vertical-offset="2655">
-          <caret line="117" column="21" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/objects/products_banner/css/products_banner.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37096775" vertical-offset="0" max-vertical-offset="1035">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/products_grid/css/products_grid.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20967741" vertical-offset="0" max-vertical-offset="1110">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/objects/header/img/social_links/facebook_logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/objects/header/img/social_links/social_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/objects/header/img/au_cu/button_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/products_grid/products_grid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.096359745" vertical-offset="0" max-vertical-offset="934">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/navigation.js">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel100al1/js/gel100al1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4516129" vertical-offset="1755" max-vertical-offset="5385">
-          <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/gel_mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.049668875" vertical-offset="0" max-vertical-offset="906">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/contact_us/contact_us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6456954" vertical-offset="120" max-vertical-offset="1785">
-          <caret line="47" column="45" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.096359745" vertical-offset="0" max-vertical-offset="934">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/page_handling.js">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel100al2/js/gel100al2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="314" max-vertical-offset="2535">
-          <caret line="41" column="34" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/global_link/js/global_link.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="930">
-          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/contact_us/js/contact_us.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="960">
-          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.096359745" vertical-offset="0" max-vertical-offset="934">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/global_link/global_link.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3245033" vertical-offset="831" max-vertical-offset="4035">
-          <caret line="75" column="96" selection-start-line="75" selection-start-column="79" selection-end-line="75" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/objects/video_frame/img/bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/objects/video_frame/img/play_button.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/objects/video_frame/img/video_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/js/case_study_functions.js">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel40wfl1/js/gel40wfl1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1124197" vertical-offset="0" max-vertical-offset="934">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -697,140 +871,266 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/case_studies/objects/side_menu/sm.php">
+    <entry file="file://$PROJECT_DIR$/pages/ceramatek/indepth/js/ceramatek_indepth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9010989" vertical-offset="1760" max-vertical-offset="2670">
-          <caret line="172" column="44" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="103" />
+        <state vertical-scroll-proportion="0.14453961" vertical-offset="0" max-vertical-offset="934">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/objects/video_frame/js/video_frame.js">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/js/led_indepth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61027837" vertical-offset="0" max-vertical-offset="934">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.1124197" vertical-offset="0" max-vertical-offset="934">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/objects/video_frame/css/video_frame.css">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/led_indepth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2565">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.23076923" vertical-offset="0" max-vertical-offset="910">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/objects/video_frame/video_frame.php">
+    <entry file="file://$PROJECT_DIR$/pages/ceramatek/indepth/ceramatek_indepth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="825">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.46153846" vertical-offset="0" max-vertical-offset="1035">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/facebook/fb.php">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/exterior_menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47032475" vertical-offset="0" max-vertical-offset="893">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.15807962" vertical-offset="0" max-vertical-offset="854">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/css/home.css">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/css/exterior_menu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06451613" vertical-offset="0" max-vertical-offset="1185">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state vertical-scroll-proportion="1.4179955" vertical-offset="0" max-vertical-offset="1425">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/objects/header/header.php">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/css/interior_menu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2218543" vertical-offset="429" max-vertical-offset="2295">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.18792711" vertical-offset="0" max-vertical-offset="1425">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index/objects/header/css/header.css">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/interior_menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40430108" vertical-offset="3299" max-vertical-offset="11310">
-          <caret line="245" column="0" selection-start-line="245" selection-start-column="0" selection-end-line="254" selection-end-column="1" />
+        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="615">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/header_tweets/twitteroauth/twitteroauth/twitteroauth.php">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel150wp1/js/gel150wp1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38452786" vertical-offset="262" max-vertical-offset="3645">
-          <caret line="44" column="81" selection-start-line="44" selection-start-column="69" selection-end-line="44" selection-end-column="81" />
+        <state vertical-scroll-proportion="0.1124197" vertical-offset="0" max-vertical-offset="934">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/launch.php">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel150wp2/js/gel150wp2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="240">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.096359745" vertical-offset="0" max-vertical-offset="934">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/header_tweets/tweets.txt">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel100wp1/js/gel100wp1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="917">
+        <state vertical-scroll-proportion="0.096359745" vertical-offset="0" max-vertical-offset="934">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel100wp2/js/gel100wp2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.096359745" vertical-offset="0" max-vertical-offset="934">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel150al1/js/gel150al1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1124197" vertical-offset="0" max-vertical-offset="934">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel150al1/led_gel150al1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4980">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/header_tweets/tweets.php">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel150wp1/led_gel150wp1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.537514" vertical-offset="2010" max-vertical-offset="3045">
-          <caret line="166" column="102" selection-start-line="166" selection-start-column="102" selection-end-line="166" selection-end-column="102" />
-          <folding>
-            <element signature="e#8#1892#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/objects/smc/css/social_media_center.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1430" max-vertical-offset="3885">
-          <caret line="122" column="17" selection-start-line="122" selection-start-column="17" selection-end-line="122" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4980">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/pcre.php">
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/css/highbay_menu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77262694" vertical-offset="2720" max-vertical-offset="7575">
-          <caret line="228" column="9" selection-start-line="228" selection-start-column="9" selection-end-line="228" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.25695932" vertical-offset="150" max-vertical-offset="1425">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/highbay_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="910">
+          <caret line="0" column="98" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/global_fixtures/grid/global_fixtures_grid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.791666" vertical-offset="1085" max-vertical-offset="1995">
+          <caret line="120" column="18" selection-start-line="120" selection-start-column="18" selection-end-line="120" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/global_link/css/global_link_bg.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1545">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/global_link/css/global_link.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="6075">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel40wfl2/led_gel40wfl2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.25" vertical-offset="0" max-vertical-offset="4980">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/led/indepth/gel40wfl2/js/gel40wfl2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/resources/js/resources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2400">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33297643" vertical-offset="469" max-vertical-offset="5565">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/objects/background/css/background.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="870">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/objects/background/background.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="300">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62205565" vertical-offset="1669" max-vertical-offset="3270">
+          <caret line="150" column="0" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/index/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="720">
-          <caret line="21" column="61" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="61" />
+        <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="855">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/smc_tweets/tweets.php">
+    <entry file="file://$PROJECT_DIR$/pages/index/objects/footer/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.235294" vertical-offset="2250" max-vertical-offset="3180">
-          <caret line="178" column="33" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="33" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="60" max-vertical-offset="1530">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/home/objects/smc/smc.php">
+    <entry file="file://$PROJECT_DIR$/pages/index/objects/footer/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5529801" vertical-offset="294" max-vertical-offset="1245">
-          <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4860">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/animations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6296296" vertical-offset="1423" max-vertical-offset="3960">
+          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/page_handling.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.481482" vertical-offset="1493" max-vertical-offset="2580">
+          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.1199143" vertical-offset="1721" max-vertical-offset="5475">
+          <caret line="309" column="25" selection-start-line="309" selection-start-column="25" selection-end-line="309" selection-end-column="25" />
           <folding />
         </state>
       </provider>

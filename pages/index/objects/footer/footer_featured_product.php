@@ -7,23 +7,21 @@
                 FEATURED PRODUCT
             </span>
         </div>
-        <a href="#/products/ceramatek">
+        <a href="#/ceramatek/375W" onclick="scroll_to_top()">
             <img src="/pages/index/objects/footer/img/featured_product/375w_cutout.png" id="footer_375w_cutout" alt="footer_375w_cutout">
         </a>
     </div>
 
     <div id="featured_product_right_container">
-        <span style="color:#707679"> CeramaTek&reg; 375W <br></span>
-        <s style="color:#99a1a4">$420.00</s> &nbsp;&nbsp;
-        <span style="color:white">$199</span> <br><br>
+        <span style="color:#707679"> CeramaTek&reg; 375W <br><br></span
             <span style="color:white; font-size: 14px;">
-                >> 50,000 Hours     <br>
-                >> 125 Mean Lumens  <br>
-                >> 85 CRI           <br>
-                >> 10 Year Warranty <br>
+                » 50,000 Hours     <br>
+                » 125 Mean Lumens  <br>
+                » 85 CRI           <br>
+                » 10 Year Warranty <br>
             </span>
     </div>
-    <a href="#/purchase">
+    <a href="#/order" onclick="scroll_to_top()">
         <img src="/pages/index/objects/footer/img/featured_product/purchase_now_button.png" id="footer_purchase_now_button"
              alt="footer_purchase_now_button">
     </a>

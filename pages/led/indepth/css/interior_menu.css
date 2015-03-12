@@ -1,0 +1,89 @@
+#led_indepth_top_menu_interior
+{
+    position: absolute;
+    width: 509px;
+    height: 36px;
+    display: none;
+}
+
+
+
+
+#led_indepth_top_wattage_bar_text_interior
+{
+    position: absolute;
+    top: 10px;
+    left: 35px;
+    width: 455px;
+    height: 16px;
+
+}
+
+
+
+#led_indepth_top_menu_bar_interior_grid_view
+{
+    position: absolute;
+    left: 0;
+    top: 3px;
+}
+
+
+#led_menu_interior_divider_1
+{
+    position: absolute;
+    left: 105px;
+    top: 5px;
+}
+
+
+#led_indepth_top_menu_bar_interior_120w
+{
+    position: absolute;
+    left: 75px;
+    top: 3px;
+}
+
+#led_menu_interior_divider_2
+{
+    position: absolute;
+    left: 155px;
+    top: 5px;
+}
+
+#led_indepth_top_menu_bar_interior_150w
+{
+    position: absolute;
+    left: 125px;
+    top: 3px;
+}
+
+#led_menu_interior_divider_3
+{
+    position: absolute;
+    left: 205px;
+    top: 5px;
+}
+
+
+#led_indepth_top_menu_bar_interior_240w
+{
+    position: absolute;
+    left: 177px;
+    top: 3px;
+}
+
+#led_menu_interior_divider_4
+{
+    position: absolute;
+    left: 260px;
+    top: 5px;
+}
+
+
+#led_indepth_top_menu_bar_interior_300w
+{
+    position: absolute;
+    left: 232px;
+    top: 3px;
+}

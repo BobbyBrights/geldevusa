@@ -53,23 +53,14 @@ a:visited
     */
 }
 
-#index_outer_body_wrapper
-{
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    width: 1304px;
-    height: 2440px;
-    top: 50px;
 
-}
 
 #index_inner_body_wrapper
 {
     position: absolute ;
     width: 1304px;
     height: 2440px;
-    top: 0px;
+    top: 0;
     display: none;
 }
 
@@ -78,8 +69,8 @@ a:visited
 {
     position: absolute;
     width: 1304px;
-    height: 0px;
-    top: 0px;
+    height: 0;
+    top: -250px;
     display: none;
 }
 
@@ -90,41 +81,18 @@ a:visited
     position: absolute ;
     width: 1304px;
     height: 2440px;
-    top: 0px;
-    overflow: hidden;
-
-
-}
-
-#index_background_wrapper
-{
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    height: 3600px;
-    margin-top: -500px;
-    margin-left: auto;
-    margin-right: auto;
+    top: 0;
 }
 
 
-#index_hidden_background_wrapper
-{
-    position: relative;
-    width: 5168px;
-    left: 50%;
-    margin-left: -1280px;
-    height: 3600px;
-    overflow: hidden;
-}
 
 #index_products_banner_absolute_wrapper
 {
     position: absolute;
     width: 100%;
-    height: 296px;
+    height: 0;
     left: 0;
-    margin-top: 0px;
+    margin-top: 0;
     z-index: 2;
 }
 #index_products_banner_wrapper
@@ -149,22 +117,95 @@ a:visited
     z-index: 2;
 }
 
+#background_lower_image_container
+{
+    position: absolute;
+    width: 100%;
+    background: #dbd8e8;
+    margin-top: -893px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#index_outer_body_big_container
+{
+    width: 100%;
+    height: 100%;
+    min-width: 1304px;
+    max-width: 2560px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+#index_outer_body_wrapper
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1304px;
+    height: 2800px;
+    top: 315px;
+}
+
+
+
+
+
+
+#index_background_wrapper
+{
+    position: absolute;
+    width: 100%;
+    height: 3528px;
+    margin-left: auto;
+    margin-right: auto;
+    top: 147px;
+    z-index: -2;
+    overflow: hidden;
+}
+
+
+#index_hidden_background_wrapper
+{
+    position: relative;
+    width: 5168px;
+    left: 50%;
+    margin-left: -1280px;
+    height: 3526px;
+    overflow: hidden;
+}
+
+
+
+
 
 
 
 #index_footer_wrapper
 {
-    position: relative;
+    position: absolute;
+    width: 100%;
+    height: 527px;
     margin-left: auto;
     margin-right: auto;
-    height: 527px;
-    width: 100%;
-    margin-top: -526px;
+    bottom: 0;
     z-index: 2;
+    overflow: hidden;
 }
 
 
-
+#index_footer_hidden_wrapper
+{
+    position: relative;
+    width: 5168px;
+    left: 50%;
+    margin-left: -1280px;
+    height: 527px;
+    overflow: hidden;
+}
 
 
 

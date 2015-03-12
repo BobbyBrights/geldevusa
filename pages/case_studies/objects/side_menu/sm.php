@@ -10,7 +10,7 @@
 
     <div id="cs_sm_case_study_initial_base">
 
-        <!-- OC Infiniti Start -->
+        <!-- YMCA Start -->
         <a href="#" id="cs_sm_oc_infiniti_view_case_study" onclick="return false;">
 
             <div id="oc_infiniti_container">
@@ -44,7 +44,7 @@
                 <img src="pages/case_studies/objects/side_menu/img/dotted_lines.png" id="cs_sm_oc_infiniti_bottom_dotted_lines" alt="">
             </div>
         </a>
-        <!-- OC Infiniti End -->
+        <!-- YMCA End -->
 
 
 

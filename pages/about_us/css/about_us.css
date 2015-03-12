@@ -7,6 +7,7 @@
 {
     height: 55px;
     width: 450px;
+    line-height: 25px;
     position: absolute;
     top: 0;
     left: 0;
@@ -26,7 +27,6 @@
 
 #about_us_header_2
 {
-    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
     font-size: 25px;
     color: #5c6264;
 }
@@ -37,7 +37,7 @@
 #about_us_content_container
 {
     width: 1280px;
-    height: 1060px;
+    height: 1125px;
     position: relative;
     min-width: 1325px;
     margin-left: auto;
@@ -53,8 +53,19 @@
     width: 355px;
     height: 157px;
     position: absolute;
-    bottom: 0;
-    right: 0;
+    bottom: 0px;
+    right: 0px;
+    /* border: 1px solid blue; */
+
+}
+
+#about_us_signature_wrapper_2
+{
+    width: 541px;
+    height: 157px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
     /* border: 1px solid blue; */
 
 }
@@ -66,7 +77,7 @@
     /* border: 1px solid blue; */
     position: absolute;
     top: 58px;
-    right: 0;
+    right: -136px;
 }
 
 
@@ -85,21 +96,27 @@
 
 #about_us_first_paragraph_text
 {
-    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    line-height: 25px;
     font-size: 18px;
     text-align: justify;
     color: #5c6264;
 
 }
 
-
+#about_us_list
+{
+    line-height: 25px;
+    font-size: 18px;
+    text-indent: 50px;
+    color: #5c6264;
+}
 
 #about_us_second_paragraph_header_wrapper
 {
-    width: 265px;
+    width: 400px;
     height: 60px;
     position: absolute;
-    top: 0;
+    top: -75px;
     left: 0;
 
 }
@@ -115,7 +132,7 @@
 
 #about_us_second_paragraph_header_2
 {
-    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    line-height: 25px;
     font-size: 25px;
     color: #5c6264;
 }
@@ -136,12 +153,13 @@
 #about_us_second_paragraph_text
 {
     position: absolute;
-    top: 70px;
-    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
+    top: 0px;
+    line-height: 25px;
     font-size: 18px;
     text-align: justify;
     color: #5c6264;
 }
+
 
 #about_us_signature_text_wrapper
 {
@@ -152,8 +170,8 @@
 }
 #about_us_signature_text_1
 {
-    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
     font-size: 19px;
+    line-height: 25px;
     font-weight: bold;
     color: #5c6264;
 }
@@ -161,8 +179,8 @@
 
 #about_us_signature_text_2
 {
-    font-family: "gel_tablet_gothic_oblique", "Trebuchet MS",  sans-serif;
     font-size: 17px;
+    line-height: 25px;
     color: #5c6264;
 }
 

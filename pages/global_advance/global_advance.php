@@ -22,28 +22,28 @@
 
     <div id="global_advance_p2_container">
         <span class="global_advance_text" id="global_advance_p2">
-        <span style="font-weight:bold">The Fast Track to Finance<br></span>
-            >> Simple application-only up to $250,000<br>
-            >> Credit decision in as little as 1-2 hours<br>
-            >> Flexible options including EFAs, $1 buyouts, PUTs and FMVs<br>
-            >> Quick one-page document for small ticket transactions<br>
+        <span style="font-weight:bold" style="font-size:21px">The Fast Track to Finance<br></span>
+            » Simple application-only up to $250,000<br>
+            » Credit decision in as little as 1-2 hours<br>
+            » Flexible options including EFAs, $1 buyouts, PUTs and FMVs<br>
+            » Quick one-page document for small ticket transactions<br>
         </span>
     </div>
 
     <div id="global_advance_p3_container">
         <span class="global_advance_text" id="global_advance_p3">
         <span style="font-weight:bold">Use Global Advance® to Finance Your Energy Opportunity<br></span>
-            >> Finance nearly any project<br>
-            >> No substantial cash outlay and deferred programs available<br>
-            >> Cover all your acquisition costs with 100% financing<br>
-            >> Finance options with potential tax savings<br>
+            » Finance nearly any project<br>
+            » No substantial cash outlay and deferred programs available<br>
+            » Cover all your acquisition costs with 100% financing<br>
+            » Finance options with potential tax savings<br>
         </span>
     </div>
 
     <div id="global_advance_p4_container">
         <span class="global_advance_text" id="global_advance_p4">
-            Whether you are looking to conduct a retrofit or full scope lighting installation, we’ll establish <br>
-            a plan allowing you to take advantage of your energy savings opportunity now. Contact us today to <br>
+            Whether you are looking to conduct a retrofit or full scope lighting installation, we’ll establish
+            a plan allowing you to take advantage of your energy savings opportunity now. Contact us today to
             learn more about your opportunities with Global Advance®.<br>
         </span>
     </div>

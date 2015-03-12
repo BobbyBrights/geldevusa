@@ -33,9 +33,6 @@
 
 }
 
-
-
-
 #global_fixtures_grid_gdwp1_text
 {
     font-family: "gel_tablet_gothic", "Trebuchet MS", sans-serif;
@@ -43,5 +40,7 @@
     font-size: 16px;
     position: absolute;
     bottom: 13px;
-    left: 100px;
+    left: 0px;
+    width: 287px;
+    text-align: center;
 }
