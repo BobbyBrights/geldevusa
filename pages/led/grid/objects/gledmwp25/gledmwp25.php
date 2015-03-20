@@ -9,7 +9,7 @@
         <img src="/pages/led/grid/objects/gledmwp25/img/product.png"
              id="led_grid_gledmwp25_product" alt="led_grid_gledmwp25_product">
 
-        <span id="led_grid_gledmwp25_text"> Standard Wall Pack: 75 Watt </span>
+        <span id="led_grid_gledmwp25_text"> Mini Wall Pack: 25 Watt </span>
     </div>
 </a>
 
