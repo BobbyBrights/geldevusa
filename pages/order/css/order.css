@@ -28,6 +28,56 @@ textarea:focus
     line-height: 200%;
 }
 
+#order_content_container
+{
+    position: absolute;
+    bottom: 0;
+}
+
+
+#order_text_header
+{
+    position: absolute;
+    top: 30px;
+    color: #575757;
+    font-size: 50px;
+    text-align: center;
+    width: 1304px;
+
+}
+
+#order_world_map
+{
+    position: absolute;
+    left: -200px;
+    top: -140px;
+}
+
+#order_domestic_phone
+{
+    position: absolute;
+    top: 850px;
+    left: 90px;
+
+}
+
+#order_text_shadow
+{
+    position: absolute;
+    top: 100px;
+    left: 115px;
+
+}
+
+#order_international_phone
+{
+    position: absolute;
+    top: 850px;
+    right: 90px;
+
+}
+
+
 #order_content
 {
     position: absolute;
@@ -154,7 +204,7 @@ textarea:focus
 #offices_lower_container
 {
     position: absolute;
-    bottom: 0;
+    top: 950px;
     /* border: 1px solid green; */
     width: 100%;
     height: 470px;

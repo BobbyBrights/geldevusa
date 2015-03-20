@@ -5,23 +5,23 @@
     <div id="resources_body_container_1">
 
         <a href="#/resources/ctektroubleshooting">
-        <div class="resources_item resource_support_documents">
-            <div class="resources_item_header_text_container">
-                <span class="resources_item_header_text"> CeramaTek Troubleshooting Guide</span>
-            </div>
-            <div class="resource_item_overview_text_container">
+            <div class="resources_item resource_support_documents">
+                <div class="resources_item_header_text_container">
+                    <span class="resources_item_header_text"> CeramaTek Troubleshooting Guide</span>
+                </div>
+                <div class="resource_item_overview_text_container">
                   <span class="resource_item_overview_text">
                     This guide will walk you through our most basic troubleshooting steps.  If you have futher questions, don't
                     hesitate to call.
                 </span>
-            </div>
-            <div class="resource_item_link_container">
+                </div>
+                <div class="resource_item_link_container">
                     <span class="resource_item_link">#/resources/ctektroubleshooting</span>
 
+                </div>
+                <img src="/pages/resources/img/body/documents/documents.png" class="resource_item_icon" alt="resource_icon">
+                <img src="/pages/resources/img/body/dots.png" class="resources_item_dots" alt="resources_dots">
             </div>
-            <img src="/pages/resources/img/body/documents/documents.png" class="resource_item_icon" alt="resource_icon">
-            <img src="/pages/resources/img/body/dots.png" class="resources_item_dots" alt="resources_dots">
-        </div>
         </a>
 
 

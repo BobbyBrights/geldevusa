@@ -131,3 +131,10 @@
     right: 21px;
     top: 10px;
 }
+
+.global_fixtures_indepth_grid_view
+{
+    position: absolute;
+    top: 9px;
+    left: 10px;
+}

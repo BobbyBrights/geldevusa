@@ -6,8 +6,8 @@
 
 <div id="led_grid_container">
 
-    <div id="led_grid_floodlights_container">
-        <span class="led_grid_header_text" id="led_grid_flood_light_text">
+    <div id="led_grid_highbays_container">
+        <span class="led_grid_header_text" id="led_grid_high_bay_text">
             High Bay
         </span>
         <div id="led_grid_gel40wfl1_wrapper">
@@ -29,13 +29,14 @@
         </div>
     </div>
 
+
     <div id="led_grid_wallpacks_container">
         <img src="/pages/led/grid/img/divider.png" class="led_grid_divider" alt="led_grid_divider_1">
 
 
 
          <span class="led_grid_header_text" id="led_grid_wall_pack_text">
-            Interior
+            Wall Packs
         </span>
         <div id="led_grid_gel150wp1_wrapper">
             <?php include ( S_ROOT . '/pages/led/grid/objects/gel150wp1/gel150wp1.php'); ?>
@@ -46,7 +47,6 @@
             <?php include ( S_ROOT . '/pages/led/grid/objects/gel150wp2/gel150wp2.php'); ?>
         </div>
 
-
         <div id="led_grid_gel100wp1_wrapper">
             <?php include ( S_ROOT . '/pages/led/grid/objects/gel100wp1/gel100wp1.php'); ?>
         </div>
@@ -55,18 +55,24 @@
             <?php include ( S_ROOT . '/pages/led/grid/objects/gel100wp2/gel100wp2.php'); ?>
         </div>
 
+        <div id="led_grid_gledmwp18_wrapper">
+            <?php include ( S_ROOT . '/pages/led/grid/objects/gledmwp18/gledmwp18.php'); ?>
+        </div>
 
+        <div id="led_grid_gledmwp25_wrapper">
+            <?php include ( S_ROOT . '/pages/led/grid/objects/gledmwp25/gledmwp25.php'); ?>
+        </div>
     </div>
 
 
 
-    <div id="led_grid_area_lighting_container">
+    <div id="led_grid_canopy_container">
         <img src="/pages/led/grid/img/divider.png" class="led_grid_divider" alt="led_grid_divider">
 
 
 
-         <span class="led_grid_header_text" id="led_grid_wall_pack_text">
-            Exterior
+         <span class="led_grid_header_text" id="led_grid_canopy_text">
+            Canopy Lighting
         </span>
         <div id="led_grid_gel150al1_wrapper">
             <?php include ( S_ROOT . '/pages/led/grid/objects/gel150al1/gel150al1.php'); ?>

@@ -3,7 +3,134 @@
     position: absolute;
     right: 0;
     width: 863px;
-    height: 1607px;
+    height: 990px;
     background-color: white;
-    display:none;
+}
+
+
+#cs_oc_infiniti_top_container
+{
+    position: absolute;
+    top: 0;
+    width: 863px;
+    height: 589px;
+}
+
+
+#cs_oc_infiniti_prison_big_01
+{
+    position: absolute;
+    top: 0;
+    width: 885px;
+}
+
+
+#cs_oc_infiniti_top_container_lower_pictures
+{
+    position: absolute;
+
+}
+
+#cs_oc_infiniti_bottom_container
+{
+    position: absolute;
+    left: 14px;
+    top: 591px;
+    width: 833px;
+    height: 977px;
+    /* border: 1px solid red; */
+}
+
+#cs_oc_infiniti_bottom_container_article_header2
+{
+    width: 830px;
+    height: 55px;
+    position: absolute;
+    top: 300px;
+
+}
+
+#cs_oc_infiniti_bottom_container_article_header
+{
+    width: 830px;
+    height: 55px;
+    position: absolute;
+
+}
+
+
+
+#cs_oc_infiniti_bottom_container_article_header_lower
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #99a1a4;
+    font-size: 18px;
+
+
+
+}
+
+
+#cs_oc_infiniti_bottom_container_article_p1
+{
+    position: absolute;
+    text-align: justify;
+    line-height: 25px;
+    top: 76px;
+    height: 175px;
+    width: 100%;
+    /* border: 1px solid red; */
+
+}
+
+
+#cs_oc_infiniti_bottom_container_article_p2
+{
+    position: absolute;
+    text-align: justify;
+    line-height: 25px;
+    top: 336px;
+    height: 60px;
+    width: 100%;
+    /* border: 1px solid red; */
+
+}
+
+#cs_oc_infiniti_bottom_container_quote_box_container
+{
+    position: absolute;
+    bottom: 509px;
+    height: 120px;
+    width: 100%;
+    /* border: 1px solid red; */
+}
+
+#cs_oc_infiniti_bottom_quote_box
+{
+    position: absolute;
+    top: 35px;
+    left: 135px
+}
+
+#cs_oc_infiniti_bottom_container_quote_box_text_container
+{
+
+    position: absolute;
+    line-height: 25px;
+    top: 30px;
+    left: 182px;
+    width: 650px;
+    height: 60px;
+    text-align: justify;
+    /* border: 1px solid red; */
+
+}
+
+#cs_oc_infiniti_bottom_container_quote_box_text
+{
+    font-size: 18px;
+    color: #99a1a4;
+
 }

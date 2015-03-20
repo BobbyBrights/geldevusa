@@ -11,12 +11,11 @@
             <span style="font-weight: bold">The 90W</span> CeramaTek&reg; Retrofit Kit
         </span>
         <span class="ceramatek_grid_90W_rollover_text" id="ceramatek_grid_90W_rollover_top_paragraph_text">
-            The 90W CeramaTek retrofit kit is ideal for use in settings such as university and business campuses,
-            general area lighting, security lighting, roadway lighting, parks, tunnels, municipalities,
-            parking garages, and more.
+            The 90 Watt CeramaTek® retrofit is ideal for use in settings such as university and business campuses, general
+            area lighting, roadway lighting, parks, tunnels, municipalities, parking garages, and more.
         </span>
         <span class="ceramatek_grid_90W_rollover_text" id="ceramatek_grid_90W_rollover_top_header_lower_text">
-            <span style="font-weight: bold">90W REPLACES:</span> 175W - 275W MH OR HPS
+            <span style="font-weight: bold">90W REPLACES:</span> Up to 250 Watt MH or HPS
         </span>
          <span class="ceramatek_grid_90W_rollover_text" id="ceramatek_grid_90W_rollover_top_paragraph_lower_text">
             The Green Guide: Find your ideal retrofit solution using our handy guide. The highlighted green section

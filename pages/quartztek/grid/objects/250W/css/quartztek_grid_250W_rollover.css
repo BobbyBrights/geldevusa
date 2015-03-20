@@ -58,6 +58,7 @@
 #quartztek_grid_250W_rollover_top_paragraph_text
 {
     position: absolute;
+    line-height: 17px;
     font-size: 14px;
     color: #99a1a4;
     width: 100%;

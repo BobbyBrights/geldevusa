@@ -1,3 +1,4 @@
+
 #global_fixtures_grid_gdwp4_rollover_wrapper
 {
     position: absolute;
@@ -11,11 +12,14 @@
 }
 
 
-
-#global_fixtures_grid_gdwp4_container
+a:hover #global_fixtures_grid_gdwp4_container
 {
     width: 288px;
     height: 316px;
+    -moz-box-shadow: 1px 1px 5px #c6c6c6;
+    -webkit-box-shadow: 1px 1px 5px #c6c6c6;
+    box-shadow: 1px 1px 5px #c6c6c6;
+
 }
 
 #global_fixtures_grid_gdwp4_bg
@@ -28,13 +32,10 @@
 #global_fixtures_grid_gdwp4_product
 {
     position: absolute;
-    left: 40px;
+    left: 50px;
     bottom: 50px;
 
 }
-
-
-
 
 #global_fixtures_grid_gdwp4_text
 {
@@ -43,5 +44,7 @@
     font-size: 16px;
     position: absolute;
     bottom: 13px;
-    left: 100px;
+    left: 0px;
+    width: 287px;
+    text-align: center;
 }

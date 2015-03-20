@@ -1,23 +1,15 @@
 <link rel="stylesheet" property="stylesheet" type="text/css" href="/pages/global_fixtures/indepth/css/global_fixtures_indepth.css" >
-
+<?php define('S_ROOT', $_SERVER['DOCUMENT_ROOT']); ?>
 
 <div id="global_fixtures_indepth_top_menu_bar">
 
-    <img src="/pages/global_fixtures/indepth/img/wattage_selector.png"
-         id="global_fixtures_indepth_wattage_selector" alt="global_fixtures_indepth_wattage_selector">
+    <?php include ( S_ROOT . '/pages/global_fixtures/indepth/wallpacks_menu.php'); ?>
+    <?php include ( S_ROOT . '/pages/global_fixtures/indepth/area_sport_menu.php'); ?>
+    <?php include ( S_ROOT . '/pages/global_fixtures/indepth/flood_lights_menu.php'); ?>
+    <?php include ( S_ROOT . '/pages/global_fixtures/indepth/canopy_menu.php'); ?>
+    <?php include ( S_ROOT . '/pages/global_fixtures/indepth/roadway_menu.php'); ?>
+    <?php include ( S_ROOT . '/pages/global_fixtures/indepth/highbay_menu.php'); ?>
 
-    <div id="global_fixtures_indepth_top_wattage_bar_text">
-        <a href="#/global_fixtures/wallpacks">
-            <span class="global_fixtures_indepth_top_menu_bar_text" id="global_fixtures_indepth_top_menu_bar_wallpacks">  WALLPACKS </span>
-        </a>
-        <a href="#/global_fixtures/floodlights">
-            <span class="global_fixtures_indepth_top_menu_bar_text" id="global_fixtures_indepth_top_menu_bar_floodlights">  FLOODLIGHTS  </span>
-        </a>
-
-        <a href="#/global_fixtures/area_lighting">
-            <span class="global_fixtures_indepth_top_menu_bar_text" id="global_fixtures_indepth_top_menu_bar_area_lighting">  AREA LIGHTING  </span>
-        </a>
-    </div>
 
     <div id="global_fixtures_indepth_top_menu_right_bar">
         <img src="/pages/global_fixtures/indepth/img/place_order.png"
@@ -47,3 +39,5 @@
         </a>
     </div>
 </div>
+
+<script> $(function(){ script_aload("/pages/global_fixtures/indepth/js/global_fixtures_indepth.js"); }) </script>

@@ -57,7 +57,7 @@
                     - UL / CUL Listed<br>
                     - Suitable for we locations (IP65)<br>
                     - Covered by a 5-Year Limited Warranty <br><br><br>
-                        
+
                  </span>
         </div>
 

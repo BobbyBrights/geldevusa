@@ -2,7 +2,11 @@
 function show_products_sub_menu(callback)
 {
     var sub_menu = $("#header_sub_menu_container");
-
+    if (sub_menu === null)
+    {
+        console.log("sub_menu div does not exist!");
+        callback();
+    }
     if (sub_menu.height() < 5) {
         sub_menu.animate({
             height: 83
@@ -24,7 +28,11 @@ function show_products_sub_menu(callback)
 function hide_products_sub_menu(callback)
 {
     var sub_menu = $('#header_sub_menu_container');
-
+    if (sub_menu === null)
+    {
+        console.log("sub_menu div does not exist!");
+        callback();
+    }
     if (sub_menu.height() > 5)
     {
 
@@ -59,6 +67,11 @@ function scroll_to_top()
 function show_products_banner(callback)
 {
     var container = $('#index_products_banner_wrapper');
+    if (container === null)
+    {
+        console.log("index_products_banner_wrapper does not exist!");
+        callback();
+    }
     var myhash = location.hash.replace(/^#/, '');
     var bookmark = myhash.substring(myhash.indexOf("/") + 1);
     var split = bookmark.split("/");
@@ -94,7 +107,11 @@ function show_products_banner(callback)
 function hide_products_banner(callback)
 {
     var container = $('#index_products_banner_wrapper');
-
+    if (container === null)
+    {
+        console.log("index_products_banner_wrapper does not exist!");
+        callback();
+    }
     if ($(container).height() > 5)
     {
         $(container).animate({
@@ -115,7 +132,17 @@ function change_index_outer_height(height, callback)
 {
     var index_outer = document.getElementById('index_outer_body_wrapper');
     var background_lower = document.getElementById('background_lower_image_container');
-    var hidden_height = height - 2800;
+    if (index_outer === null)
+    {
+        console.log("div index_outer does not exist!");
+        callback();
+    }
+    if (background_lower === null)
+    {
+        console.log("div background_lower does not exist!");
+        callback();
+    }
+    var hidden_height = height - 1304;
 
     $(index_outer).animate({
         height: height
@@ -132,7 +159,11 @@ function change_index_outer_height(height, callback)
 function change_index_inner_position(position, callback)
 {
     var index_outer = document.getElementById('index_body_wrapper');
-
+    if (index_outer === null)
+    {
+        console.log("index_body_wrapper does not exist!");
+        callback();
+    }
     $(index_outer).animate({
         top: position
     }, 500, function(){
@@ -145,14 +176,19 @@ function change_index_inner_position(position, callback)
 
 
 
-function show_persistent_menu(file, callback)
+function show_persistent_menu(page_info, callback)
 {
     var menu_wrapper = document.getElementById('index_persistent_menu_wrapper');
+    if (menu_wrapper === null)
+    {
+        console.log("index_persistent_menu_wrapper does not exist!");
+        callback();
+    }
     if ( $(menu_wrapper).height() < 5)
     {
         $(menu_wrapper).fadeOut(250, function() {
-            $("#index_persistent_menu_wrapper").css("top", "-250");
-            $(menu_wrapper).load(file, function() {
+            $("#index_persistent_menu_wrapper").css("top", page_info.persistent_menu_position);
+            $(menu_wrapper).load(page_info.persistent_menu_file, function() {
                 $(menu_wrapper).animate({
                     height: 36
                 }, 300, function() {
@@ -164,11 +200,11 @@ function show_persistent_menu(file, callback)
             });
         });
     }
-    if ( $(menu_wrapper).height() > 40)
+    if ( $(menu_wrapper).height() > 30)
     {
         $(menu_wrapper).fadeOut(250, function() {
-            $("#index_persistent_menu_wrapper").css("top", "-250");
-            $(menu_wrapper).load(file, function() {
+            $("#index_persistent_menu_wrapper").css("top", page_info.persistent_menu_position);
+            $(menu_wrapper).load(page_info.persistent_menu_file, function() {
                 $(menu_wrapper).animate({
                     height: 36
                 }, 300, function() {
@@ -191,6 +227,11 @@ function show_persistent_menu(file, callback)
 function hide_persistent_menu(callback)
 {
     var menu_wrapper = document.getElementById('index_persistent_menu_wrapper');
+    if (menu_wrapper === null)
+    {
+        console.log("index_persistent_menu_wrapper does not exist!");
+        callback();
+    }
     if ( $(menu_wrapper).height() > 5)
     {
         $(menu_wrapper).fadeOut(250, function() {

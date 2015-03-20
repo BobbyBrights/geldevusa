@@ -18,6 +18,22 @@
         <div id="global_fixtures_glwp2_wrapper">
             <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/glwp2/glwp2.php'); ?>
         </div>
+
+        <div id="global_fixtures_glwp3_wrapper">
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/glwp3/glwp3.php'); ?>
+        </div>
+
+        <div id="global_fixtures_gdwp4_wrapper">
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gdwp4/gdwp4.php'); ?>
+        </div>
+
+        <div id="global_fixtures_gudl7_wrapper">
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gudl7/gudl7.php'); ?>
+        </div>
+
+        <div id="global_fixtures_gwml_wrapper">
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gwml/gwml.php'); ?>
+        </div>
     </div>
 
 
@@ -67,6 +83,10 @@
         <div id="global_fixtures_gams_wrapper">
             <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gams/gams.php'); ?>
         </div>
+
+        <div id="global_fixtures_garl3_wrapper">
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/garl3/garl3.php'); ?>
+        </div>
     </div>
 
 
@@ -79,9 +99,6 @@
             Canopy Lighting
         </span>
 
-        <div id="global_fixtures_gcrdl1_wrapper">
-            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gcrdl1/gcrdl1.php'); ?>
-        </div>
         <div id="global_fixtures_gpgrc_wrapper">
             <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gpgrc/gpgrc.php'); ?>
         </div>
@@ -114,8 +131,11 @@
             High Bay Lighting
         </span>
 
-        <div id="global_fixtures_gal_wrapper">
-            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gal/gal.php'); ?>
+        <div id="global_fixtures_gal16_wrapper">
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gal16/gal16.php'); ?>
+        </div>
+        <div id="global_fixtures_gal22_wrapper">
+            <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/gal22/gal22.php'); ?>
         </div>
         <div id="global_fixtures_glbw16_wrapper">
             <?php include ( S_ROOT . '/pages/global_fixtures/grid/objects/glbw16/glbw16.php'); ?>

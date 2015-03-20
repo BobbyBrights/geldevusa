@@ -1,21 +1,10 @@
-#led_grid_gel100wp1_rollover_wrapper
-{
-    position: absolute;
-    width: 511px;
-    height: 474px;
-    top: 40px;
-    left: -512px;
-    z-index: 1;
-    display: none;
-
-}
-
-
-
-#led_grid_gel100wp1_container
+a:hover #led_grid_gel100wp1_container
 {
     width: 288px;
     height: 316px;
+    -moz-box-shadow: 1px 1px 5px #c6c6c6;
+    -webkit-box-shadow: 1px 1px 5px #c6c6c6;
+    box-shadow: 1px 1px 5px #c6c6c6;
 }
 
 #led_grid_gel100wp1_bg
@@ -28,13 +17,10 @@
 #led_grid_gel100wp1_product
 {
     position: absolute;
-    left: 50px;
-    bottom: 88px;
+    left: 17px;
+    bottom: 50px;
 
 }
-
-
-
 
 #led_grid_gel100wp1_text
 {
@@ -43,5 +29,7 @@
     font-size: 16px;
     position: absolute;
     bottom: 13px;
-    left: 100px;
+    left: 0px;
+    width: 287px;
+    text-align: center;
 }

@@ -61,7 +61,7 @@ function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oa
 function display_header_tweets(
     // Function parameters.
     $twitter_user_id,
-    $cache_file          = './php/header_tweets/tweets.txt',  // Change this to the path of your cache file. (Default : ./tweets.txt)
+    $cache_file          = '/php/header_tweets/tweets.txt',  // Change this to the path of your cache file. (Default : ./tweets.txt)
     $tweets_to_display   = 1,               // Number of tweets you would like to display. (Default : 5)
     $ignore_replies      = true,           // Ignore replies from the timeline. (Default : false)
     $include_rts         = false,           // Include retweets. (Default : false)

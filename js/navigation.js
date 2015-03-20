@@ -142,13 +142,14 @@ function Service_Root(bookmark, callback)
         "change_bg": 0,
         "scroll_on_load": 0,
         "scroll_to_div": "",
-        "index_outer_height": 2800,
-        "index_inner_position": -250
+        "index_outer_height": 1304,
+        "index_inner_position": -250,
+        "persistent_menu_position": 25
 
 
     };
 
-
+    $("#index_body_wrapper").css("overflow", "hidden");
     for (var i = 0; i < 1; i++)
     {
         switch (service_array[i])
@@ -160,7 +161,10 @@ function Service_Root(bookmark, callback)
                 page_info.persistent_menu_div = "#ceramatek_indepth_top_menu_bar";
                 page_info.persistent_menu_file = "/pages/ceramatek/indepth/ceramatek_indepth.php";
                 if (service_array.length > 1)
+                {
+                    page_info.index_outer_height = 2000;
                     process_product_subdomain("ceramatek", page_info, service_array);
+                }
                 break;
 
 
@@ -170,8 +174,12 @@ function Service_Root(bookmark, callback)
                 page_info.products_banner_hide = 1;
                 page_info.persistent_menu_div = "#quartztek_indepth_top_menu_bar";
                 page_info.persistent_menu_file = "/pages/quartztek/indepth/quartztek_indepth.php";
+                page_info.index_outer_height = 1500;
                 if (service_array.length > 1)
+                {
+                    page_info.index_outer_height = 2000;
                     process_product_subdomain("quartztek", page_info, service_array);
+                }
                 break;
 
 
@@ -181,9 +189,12 @@ function Service_Root(bookmark, callback)
                 page_info.products_banner_hide = 1;
                 page_info.persistent_menu_div = "#led_indepth_top_menu_bar";
                 page_info.persistent_menu_file = "/pages/led/indepth/led_indepth.php";
-
+                page_info.index_outer_height = 2000;
                 if (service_array.length > 1)
+                {
+                    page_info.index_outer_height = 2000;
                     process_product_subdomain("led", page_info, service_array);
+                }
                 break;
 
 
@@ -193,10 +204,13 @@ function Service_Root(bookmark, callback)
                 page_info.products_banner_hide = 1;
                 page_info.persistent_menu_div = "#global_fixtures_indepth_top_menu_bar";
                 page_info.persistent_menu_file = "/pages/global_fixtures/indepth/global_fixtures_indepth.php";
-                page_info.index_outer_height = 4000;
-
+                page_info.index_outer_height = 3250;
+                $("#index_body_wrapper").css("overflow", "visible");
                 if (service_array.length > 1)
+                {
+                    page_info.index_outer_height = 1340;
                     process_product_subdomain("global_fixtures", page_info, service_array);
+                }
                 break;
 
 
@@ -207,7 +221,10 @@ function Service_Root(bookmark, callback)
                 page_info.persistent_menu_div = "#resources_menu_header";
                 page_info.persistent_menu_file = "/pages/resources/resources_menu.php";
                 page_info.persistent_menu = 1;
+                page_info.index_inner_position = 0;
+                page_info.persistent_menu_position = 272;
                 page_info.url[0] = "/pages/resources/resources.php";
+                page_info.index_outer_height = 1200;
                 break;
 
 
@@ -218,6 +235,8 @@ function Service_Root(bookmark, callback)
                 page_info.products_banner_hide = 1;
                 page_info.change_bg = 1;
                 page_info.background_file = "/pages/global_link/global_link_bg.php";
+                page_info.index_inner_position = -250;
+                page_info.index_outer_height = 1700;
                 break;
 
 
@@ -227,46 +246,64 @@ function Service_Root(bookmark, callback)
                 page_info.products_banner_hide = 1;
                 break;
 
+            case "broadcast":
+                page_info.url[0] = "/pages/broadcast/broadcast.php";
+                page_info.sub_menu_show = 1;
+                page_info.products_banner_hide = 1;
+                break;
+
+
 
             case "products":
 
                 page_info.url[0] = "/pages/products_grid/products_grid.php";
                 page_info.products_banner_hide = 1;
-                page_info.index_inner_position = -300;
+                page_info.index_inner_position = -320;
                 page_info.sub_menu_show = 0;
                 break;
 
 
             case "home":
                 page_info.url[0] = "/pages/home/home.php";
-                page_info.change_index_height = 0;
+                page_info.index_inner_position = 0;
+                page_info.index_outer_height = 2500;
                 break;
 
             case "debug":
                 page_info.products_banner_hide = 1;
                 page_info.url[0] = "/pages/debug/debug.php";
+                page_info.index_inner_position = 0;
                 break;
 
 
             case "about_us":
                 page_info.header_file = "/pages/about_us/about_us_header.php";
                 page_info.url[0] = "/pages/about_us/about_us.php";
+                page_info.index_inner_position = 0;
+                page_info.index_outer_height = 1500;
                 break;
 
             case "contact_us":
                 page_info.header_file = "/pages/contact_us/contact_us_header.php";
                 page_info.url[0] = "/pages/contact_us/contact_us.php";
+                page_info.index_inner_position = 0;
+                page_info.index_outer_height = 1500;
                 break;
 
 
             case "case_studies":
                 page_info.url[0] = "/pages/case_studies/case_studies.php";
+                page_info.index_inner_position = 0;
+                page_info.index_outer_height = 1900;
                 break;
 
 
 
             case "order":
                 page_info.url[0] = "/pages/order/order.php";
+                page_info.index_inner_position = 0;
+                $("#index_body_wrapper").css("overflow", "visible");
+                page_info.index_outer_height = 2000;
                 break;
 
 
@@ -280,6 +317,7 @@ function Service_Root(bookmark, callback)
 
     if (page_info.url[0] === "/pages/resources/resources.php")
     {
+
         $.getScript("/pages/resources/js/resources.js", function(){
             handle_resource_page(page_info, function() {
                 if (callback)

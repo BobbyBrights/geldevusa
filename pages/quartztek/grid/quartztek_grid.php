@@ -3,18 +3,9 @@
 <?php define('S_ROOT', $_SERVER['DOCUMENT_ROOT']); ?>
 
 <span id="quartztek_grid_header_text">
-    QuarzTek EXT&reg; Retrofit Kits
+    QuarzTek&reg; Retrofit Kits
 </span>
-
-
-
-
 <div id="quartztek_grid_container">
-
-    <span id="quartztek_grid_retrofit_header">
-        QuartzTek&reg; Retrofit Kits
-    </span>
-
 
     <div id="quartztek_grid_750W_wrapper">
         <?php include ( S_ROOT . '/pages/quartztek/grid/objects/750W/quartztek_grid_750W.php'); ?>
@@ -25,7 +16,6 @@
     </div>
 
     <img src="/pages/quartztek/grid/img/divider.png" id="quartztek_grid_divider" alt="quartztek_grid_divider">
-
 
     <div id="quartztek_grid_100W_wrapper">
         <?php include ( S_ROOT . '/pages/quartztek/grid/objects/100W/quartztek_grid_100W.php'); ?>
@@ -54,5 +44,9 @@
    <div id="quartztek_grid_575W_wrapper">
        <?php include ( S_ROOT . '/pages/quartztek/grid/objects/575W/quartztek_grid_575W.php'); ?>
    </div>
+
+    <span id="quartztek_grid_retrofit_header">
+        QuartzTek EXT&reg; Retrofit Kits
+    </span>
 
 </div>

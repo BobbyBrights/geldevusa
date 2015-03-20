@@ -12,10 +12,14 @@
 }
 
 
-#global_fixtures_grid_gdwp1_container
+a:hover #global_fixtures_grid_gdwp1_container
 {
     width: 288px;
     height: 316px;
+    -moz-box-shadow: 1px 1px 5px #c6c6c6;
+    -webkit-box-shadow: 1px 1px 5px #c6c6c6;
+    box-shadow: 1px 1px 5px #c6c6c6;
+
 }
 
 #global_fixtures_grid_gdwp1_bg

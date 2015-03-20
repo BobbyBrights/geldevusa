@@ -1,14 +1,88 @@
+#gl_top_overview_container
+{
+    position: absolute;
+    height: 326px;
+    width: 1237px;
+    top: 0;
+    left: 0;
+}
+
+.gl_top_overview_text
+{
+    font-size:24px;
+    color: #5c6264;
+}
+
+#gl_top_overview_fixture_text
+{
+    position: absolute;
+    left: 75px;
+}
+
+#gl_top_overview_controller_text
+{
+    position: absolute;
+    left: 500px;
+}
+
+#gl_top_overview_computer_text
+{
+    position: absolute;
+    right: 0;
+}
+
+#gl_top_overview_fixture
+{
+    position: absolute;
+    top: 75px;
+    left: 75px;
+    z-index: 3;
+}
+
+#gl_top_overview_hub
+{
+    position: absolute;
+    top: 60px;
+    left: 530px;
+    z-index: 3;
+}
+
+#gl_top_overview_computer
+{
+    position: absolute;
+    top: 70px;
+    right: 0;
+    z-index: 3;
+}
+
+#gl_top_overview_connecting_line
+{
+    position: absolute;
+    top: 160px;
+    left: 140px;
+    z-index: 2;
+}
+
+#gl_top_overview_gradient
+{
+    position: absolute;
+    top: -51px;
+    left: 0;
+    z-index: 1;
+}
+
 #gl_background_rollovers_container
 {
     position: absolute;
     width: 1304px;
     height: 1026px;
+    top: 194px;
 }
 
 .gl_info_header_text_right
 {
     font-size: 30px;
-    color: #2f3337;
+    color: #5c6264;
     width: 539px;
     height: 40px;
     position: absolute;
@@ -19,13 +93,12 @@
 
 .gl_info_paragraph_text_right
 {
-    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
     position: absolute;
     top: 90px;
     left: 70px;
     width: 540px;
     height: 90px;
-    color: #747a7d;
+    color: #5c6264;
     font-size: 18px;
     text-align: justify;
     line-height: 115%;
@@ -36,7 +109,7 @@
 .gl_info_header_text_left
 {
     font-size: 30px;
-    color: #2f3337;
+    color: #5c6264;
     width: 539px;
     height: 40px;
     position: absolute;
@@ -46,25 +119,17 @@
 
 .gl_info_paragraph_text_left
 {
-    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
     position: absolute;
     top: 90px;
     left: 35px;
     width: 540px;
     height: 90px;
-    color: #747a7d;
+    color: #5c6264;
     font-size: 18px;
     text-align: justify;
     line-height: 115%;
 }
 
-#gl_top_overview_container
-{
-    width: 1304px;
-    height: 526px;
-    position: absolute;
-    top: 0;
-}
 
 #gl_background_park_dot
 {
@@ -136,7 +201,20 @@
     display: none;
 }
 
+#global_link_gld_wallhaven
+{
+    position: absolute;
+    right: 25px;
+    top: 25px;
+}
 
+
+
+#global_link_gld_logo
+{
+    position: absolute;
+    top: 39px;
+}
 
 
 
@@ -267,10 +345,11 @@
 #gl_overview_box_container
 {
     position: absolute;
-    top: 960px;
+    top: 1060px;
     left: 0;
     width: 1304px;
     height: 476px;
+    z-index: 3;
 
 }
 
@@ -299,31 +378,61 @@
     left: 25px;
 }
 
-#global_link_cbc_header_text_container
+.global_link_cbc_header_text_container
 {
     position: absolute;
-    width: 540px;
+    width: 750px;
     height: 50px;
-    right: 190px;
+    right: 100px;
     top: 62px;
-    color: #747a7d;
+    color: #5c6264;
     font-size: 48px;
+    text-align: center;
 }
 
 
-#global_link_overview_box_divider
+#global_link_gld_box_node
+{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+
+#global_link_gld_box_hub
+{
+    position: absolute;
+    top: 25px;
+    right: 25px;
+}
+
+
+#gl_link_gld_text
+{
+    position: absolute;
+    left: 40px;
+    width: 634px;
+    top: 170px;
+}
+
+
+.global_link_overview_box_divider
 {
     position: absolute;
     top: 122px;
     right: 25px;
 }
 
-
-#gl_overview_box_text_container
+#gl_overview_box_sc_dividers
 {
-    color: #747a7d;
+    left: 30px;
+}
+
+.gl_overview_box_text_container
+{
+    color: #5c6264;
     font-size: 18px;
     text-align: justify;
+    line-height: 25px;
     position: absolute;
     top: 150px;
     right: 68px;
@@ -331,10 +440,24 @@
     height: 186px;
 }
 
+#gl_overview_box_sc_text_container
+{
+    position: absolute;
+    left: 65px;
+    width: 800px;
+    top: 150px;
+}
+
+#gl_overview_box_sc_header_text
+{
+    position: absolute;
+    left: 50px;
+
+}
+
 
 #gl_overview_box_links_container
 {
-    font-family: "gel_tablet_gothic_light", "Trebuchet MS",  sans-serif;
     color: #5c6264;
     font-size: 20px;
     position: absolute;
@@ -363,7 +486,7 @@
 
 .gl_overview_box_link:hover
 {
-    color: #ff7f00;
+    color: #5c6264;
     text-decoration: underline;
 }
 

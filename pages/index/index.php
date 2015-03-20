@@ -19,32 +19,39 @@
 <body>
 
 
-    <div id="index_header_wrapper"> <?php include ( S_ROOT . '/pages/index/objects/header/header.php'); ?> </div>
+<div id="index_header_wrapper"> <?php include ( S_ROOT . '/pages/index/objects/header/header.php'); ?> </div>
 
-    <div id="index_products_banner_absolute_wrapper">
-        <div id="index_products_banner_wrapper">  </div>
+<div id="index_products_banner_absolute_wrapper">
+
+
+    <div id="index_products_banner_wrapper">
+
     </div>
-    <div id="index_outer_body_big_container">
-        <div id="index_outer_body_wrapper">
-            <div id="index_persistent_menu_wrapper"></div>
-
-            <div id="index_inner_body_wrapper"></div>
-            <div id="index_body_wrapper"></div>
-            <div id="index_footer_wrapper">
-            </div>
-        </div>
-        <div id="background_lower_image_container"> </div>
-        <div id="index_footer_hidden_wrapper">
-            <?php include ( S_ROOT . '/pages/index/objects/footer/footer.php'); ?>
-        </div>
+</div>
+<div id="index_outer_body_big_container">
+    <div id="index_persistent_menu_container">
+        <div id="index_persistent_menu_wrapper"></div>
     </div>
 
+    <div id="index_outer_body_wrapper">
 
-    <div id="index_background_wrapper">
-        <div id="index_hidden_background_wrapper">
-            <?php include ( S_ROOT . '/pages/index/objects/background/background.php'); ?>
+        <div id="index_inner_body_wrapper"></div>
+        <div id="index_body_wrapper"></div>
+        <div id="index_footer_wrapper">
         </div>
     </div>
+    <div id="background_lower_image_container"> </div>
+    <div id="index_footer_hidden_wrapper">
+        <?php include ( S_ROOT . '/pages/index/objects/footer/footer.php'); ?>
+    </div>
+</div>
+
+
+<div id="index_background_wrapper">
+    <div id="index_hidden_background_wrapper">
+        <?php include ( S_ROOT . '/pages/index/objects/background/background.php'); ?>
+    </div>
+</div>
 
 
 

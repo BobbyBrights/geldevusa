@@ -5,7 +5,7 @@
     width: 1304px;
     /* height: 36px; */
     height: 36px;
-    top: 70px;
+    top: 55px;
     left: 0;
     z-index: 2;
 }
@@ -138,8 +138,8 @@
 #ceramatek_indepth_top_menu_bar_place_order
 {
     position: absolute;
-    top: 11px;
-    left: 25px;
+    top: 10px;
+    left: 22px;
 
 }
 
@@ -147,9 +147,8 @@
 #ceramatek_indepth_top_menu_bar_spec_sheet
 {
     position: absolute;
-    top: 11px;
-    color: white;
-    left: 280px;
+    top: 10px;
+    left: 278px;
 }
 
 #ceramatek_indepth_top_menu_bar_spec_sheet:hover
@@ -160,6 +159,6 @@
 #ceramatek_indepth_top_menu_bar_install_instructions
 {
     position: absolute;
-    right: 28px;
-    top: 11px;
+    right: 30px;
+    top: 10px;
 }

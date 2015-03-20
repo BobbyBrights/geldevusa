@@ -11,12 +11,12 @@
             <span style="font-weight: bold">The 60W</span> CeramaTek&reg; Retrofit Kit
         </span>
         <span class="ceramatek_grid_60W_rollover_text" id="ceramatek_grid_60W_rollover_top_paragraph_text">
-            The 60W CeramaTek retrofit kit is ideal for use in settings such as university and business campuses,
-            general area lighting, security lighting, roadway lighting, parks, tunnels, municipalities,
-            parking garages, and more.
+            The 60 Watt CeramaTek® retrofit is ideal for use in settings such as university and business campuses, parking
+            garages, general area lighting, security lighting, parks, interior / exterior spotlit lighting, alcoves,
+            passageways, and much more. 
         </span>
         <span class="ceramatek_grid_60W_rollover_text" id="ceramatek_grid_60W_rollover_top_header_lower_text">
-            <span style="font-weight: bold">60W REPLACES:</span> 175W - 275W MH OR HPS
+            <span style="font-weight: bold">60W REPLACES:</span> Up to 200 Watt MH or HPS
         </span>
          <span class="ceramatek_grid_60W_rollover_text" id="ceramatek_grid_60W_rollover_top_paragraph_lower_text">
             The Green Guide: Find your ideal retrofit solution using our handy guide. The highlighted green section

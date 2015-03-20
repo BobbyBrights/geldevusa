@@ -8,15 +8,15 @@
 
     <div id="quartztek_grid_100W_rollover_top_container">
         <span class="quartztek_grid_100W_rollover_text" id="quartztek_grid_100W_rollover_top_header_text">
-            <span style="font-weight: bold">The 100W</span> quartztek&reg; Retrofit Kit
+            <span style="font-weight: bold">The 100W</span> QuartzTek EXT&reg; Retrofit Kit
         </span>
         <span class="quartztek_grid_100W_rollover_text" id="quartztek_grid_100W_rollover_top_paragraph_text">
-            The 100W quartztek retrofit kit is ideal for use in settings such as university and business campuses,
-            general area lighting, security lighting, roadway lighting, parks, tunnels, municipalities,
-            parking garages, and more.
+            The 100 Watt QuartzTek EXT® retrofit kit is ideal for use in settings where extended life is important,
+            including university and business campuses, general area lighting, security lighting, parks, interior /
+            exterior spotlit lighting, alcoves, passageways, and more
         </span>
         <span class="quartztek_grid_100W_rollover_text" id="quartztek_grid_100W_rollover_top_header_lower_text">
-            <span style="font-weight: bold">100W REPLACES:</span> 175W - 275W MH OR HPS
+            <span style="font-weight: bold">100W REPLACES:</span> Up to 250 Watt MH or HPS
         </span>
          <span class="quartztek_grid_100W_rollover_text" id="quartztek_grid_100W_rollover_top_paragraph_lower_text">
             The Green Guide: Find your ideal retrofit solution using our handy guide. The highlighted green section

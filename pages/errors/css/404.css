@@ -2,6 +2,8 @@
 {
     width: 1304px;
     height: 1200px;
+    position: absolute;
+    top: 175px;
 
 }
 
@@ -13,7 +15,7 @@
     font-size: 48px;
     color: #5c6264;
     position: absolute;
-    top: 0;
+    top: 150px;
     left: 535px;
 }
 
@@ -29,11 +31,10 @@
 
 #error_list_header
 {
-    font-family: "gel_tablet_gothic", "Trebuchet MS", sans-serif;
     font-size: 24px;
     color: #5c6264;
     position: absolute;
-    top: 125px;
+    top: 200px;
     left: 440px;
 }
 
@@ -44,17 +45,16 @@
     font-size: 24px;
     color: #5c6264;
     position: absolute;
-    top: 200px;
+    top: 250px;
     left: 540px;
 
 }
 
 #error_instructions
 {
-    font-family: "gel_tablet_gothic", "Trebuchet MS", sans-serif;
     font-size: 24px;
     color: #5c6264;
     position: absolute;
-    top: 300px;
+    top: 350px;
     left: 466px;
 }

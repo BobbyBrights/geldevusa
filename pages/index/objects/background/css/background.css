@@ -4,7 +4,7 @@
     position: absolute;
     width: 2560px;
     overflow: hidden;
-    height: 3804px;
+    height: 1956px;
 }
 
 
@@ -12,8 +12,10 @@
 #background_gradient
 {
     position: absolute;
-    bottom: 368px;
+    top: 0;
     z-index: -3;
+    height: 1990px;
+    width: 100%;
 }
 
 

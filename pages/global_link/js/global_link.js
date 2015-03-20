@@ -10,7 +10,7 @@ $(background_dot).mouseenter(function(){
 
     $('.gl_background_color').not($(background)).fadeOut(300, function(){
         $('.gl_info_box').not($(info_container)).fadeOut(300, function(){
-            $('.gl_background_dot').not($(mydot)).fadeOut(300);
+            $('.gl_background_dot').not($(mydot)).css("opacity", ".3");
             $('.gl_info_box').not($(info_container)).css("z-index", "-1");
             $(info_container).css("z-index", "2");
             $(background).fadeIn(150, function(){
@@ -26,7 +26,54 @@ $(background_dot).mouseleave(function() {
     var dot = $(this).attr('id');
     $('.gl_background_color').fadeOut(300, function(){
         $('.gl_info_box').fadeOut(300, function(){
-            $('.gl_background_dot').not($(dot)).fadeIn(300);
+            $('.gl_background_dot').not($(dot)).css("opacity", "1");
         });
     });
+});
+
+
+
+
+$("#gl_overview_box_gld_link").click(function(){
+    $("#gl_overview_box_content").fadeOut(500, function(){
+        $("#gl_overview_box_content").load("/pages/global_link/global_link_defined.php", function(){
+            $("#gl_overview_box_content").fadeIn(500);
+        })
+    })
+});
+
+
+$("#gl_overview_box_nodes_link").click(function(){
+    $("#gl_overview_box_content").fadeOut(500, function(){
+        $("#gl_overview_box_content").load("/pages/global_link/wireless_nodes.php", function(){
+            $("#gl_overview_box_content").fadeIn(500);
+        })
+    })
+});
+
+
+$("#gl_overview_box_sc_link").click(function(){
+    $("#gl_overview_box_content").fadeOut(500, function(){
+        $("#gl_overview_box_content").load("/pages/global_link/site_controllers.php", function(){
+            $("#gl_overview_box_content").fadeIn(500);
+        })
+    })
+});
+
+
+$("#gl_overview_cbc_link").click(function(){
+    $("#gl_overview_box_content").fadeOut(500, function(){
+        $("#gl_overview_box_content").load("/pages/global_link/cloud_based_control.php", function(){
+            $("#gl_overview_box_content").fadeIn(500);
+        })
+    })
+});
+
+
+$("#gl_overview_box_gs_link").click(function(){
+    $("#gl_overview_box_content").fadeOut(500, function(){
+        $("#gl_overview_box_content").load("/pages/global_link/global_link_defined.php", function(){
+            $("#gl_overview_box_content").fadeIn(500);
+        })
+    })
 });

@@ -25,10 +25,10 @@
 #featured_product_right_container
 {
     position: absolute;
-
+    line-height: 20px;
     color: white;
     font-size: 16px;
-    top: 20px;
+    top: 15px;
     right: 0;
     /* border: 1px solid white; */
     height: 135px;

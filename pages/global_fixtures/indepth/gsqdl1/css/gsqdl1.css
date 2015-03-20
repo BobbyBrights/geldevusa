@@ -1,0 +1,386 @@
+.global_fixtures_gsqdl1_header_text
+{
+
+    color: #5c6264;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: 5px;
+}
+
+.global_fixtures_gsqdl1_table_header_text
+{
+
+    color: #ffffff;
+    font-size: 18px;
+    position: absolute;
+
+}
+
+.global_fixtures_gsqdl1_table_text
+{
+
+    color: #5c6264;
+    font-size: 14px;
+    text-align: right;
+}
+
+
+
+.global_fixtures_gsqdl1_tech_specs_header
+{
+
+    color: #5c6264;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.global_fixtures_gsqdl1_tech_specs_paragraph
+{
+    position: absolute;
+    color: #5c6264;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 18px;
+    top: 0px;
+    left: 0;
+}
+
+
+
+
+#global_fixtures_gsqdl1_side_bar
+{
+    position: absolute;
+    top: 140px;
+    height: 1841px;
+    width: 508px;
+    /* border: 1px solid red; */
+}
+
+
+#global_fixtures_gsqdl1_side_bar_product
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+
+}
+
+
+#global_fixtures_gsqdl1_lamp_wire_diagram_header
+{
+    top: 365px;
+}
+
+
+#global_fixtures_gsqdl1_side_bar_lamp_wire_diagram
+{
+    position: absolute;
+    left: 0;
+    top: 404px;
+
+}
+
+
+
+
+#global_fixtures_gsqdl1_right_container
+{
+    position: absolute;
+    right: 0;
+    top: 140px;
+    width: 770px;
+    height: 1588px;
+}
+
+#global_fixtures_gsqdl1_right_lamp_char_bg
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_1
+{
+    position: absolute;
+    top: 46px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_2
+{
+    position: absolute;
+    top: 80px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_3
+{
+
+    position: absolute;
+    top: 112px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_4
+{
+    position: absolute;
+    top: 144px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_5
+{
+    position: absolute;
+    top: 177px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_6
+{
+    position: absolute;
+    top: 209px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_7
+{
+    position: absolute;
+    top: 242px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_8
+{
+    position: absolute;
+    top: 275px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_9
+{
+    position: absolute;
+    top: 309px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_10
+{
+    position: absolute;
+    top: 340px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_11
+{
+    position: absolute;
+    top:375px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_12
+{
+    position: absolute;
+    top: 408px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_13
+{
+    position: absolute;
+    top: 440px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_14
+{
+    position: absolute;
+    top: 475px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+.global_fixtures_gsqdl1_lamp_characteristics_table_15
+{
+    position: absolute;
+    top: 508px;
+    left: 14px;
+    width: 746px;
+    height: 20px;
+}
+
+
+.global_fixtures_gsqdl1_table_header_container
+{
+    position: absolute;
+    top: 9px;
+    width: 721px;
+    left: 14px;
+    height: 20px;
+    z-index: 2;
+
+}
+
+.global_fixtures_gsqdl1_caracteristics_header_1
+{
+    position: absolute;
+    left: 340px;
+}
+
+.global_fixtures_gsqdl1_caracteristics_header_2
+{
+    position: absolute;
+    right: 225px;
+}
+
+.global_fixtures_gsqdl1_caracteristics_header_3
+{
+    position: absolute;
+    right: 185px;
+
+}
+
+.global_fixtures_gsqdl1_caracteristics_header_4
+{
+    position: absolute;
+    right: 0;
+}
+
+.global_fixtures_gsqdl1_table_col_1
+{
+    position: absolute;
+    left: 0;
+    width: 320px;
+    height: 18px;
+    text-align: left;
+    z-index: 2;
+    /* border: 1px solid red; */
+
+}
+.global_fixtures_gsqdl1_table_col_2
+{
+    position: absolute;
+    left: 320px;
+    width: 100px;
+    height: 18px;
+    z-index: 2;
+    /* border: 1px solid red; */
+
+}
+
+.global_fixtures_gsqdl1_table_col_3
+{
+    position: absolute;
+    width: 100px;
+    height: 18px;
+    right: 215px;
+    z-index: 2;
+    /* border: 1px solid red; */
+
+}
+
+.global_fixtures_gsqdl1_table_col_4
+{
+    position: absolute;
+    right: 107px;
+    width: 100px;
+    height: 18px;
+    z-index: 2;
+    /* border: 1px solid red; */
+
+}
+
+.global_fixtures_gsqdl1_table_col_5
+{
+    position: absolute;
+    right: 0;
+    width: 470px;
+    height: 18px;
+    z-index: 2;
+    /* border: 1px solid red; */
+}
+
+
+#leg_gsqdl1_right_tech_specs_container
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1022px;
+    z-index: 3;
+}
+
+#global_fixtures_gsqdl1_right_lamp_tech_specs_bg
+{
+    position: absolute;
+    top: 0px;
+    left: 0;
+}
+
+
+
+
+#global_fixtures_gsqdl1_tech_specs_left_container
+{
+    position: absolute;
+    bottom: 530px;
+    left: 15px;
+    width: 740px;
+    height: 1000px;
+}
+
+
+#global_fixtures_gsqdl1_tech_specs_p1
+{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 40px;
+}
+
+.global_fixtures_gsqdl1_replacement_container
+{
+    position: absolute;
+    bottom: 431px;
+    width: 721px;
+    left: 0px;
+    height: 20px;
+    z-index: 2;
+
+}

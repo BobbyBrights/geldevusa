@@ -1,0 +1,36 @@
+# GLOBAL ENERGY & LIGHTING BROADCAST WHITELIST
+# -----------------------------------------------------------------------------------------------------------------
+# Description: Specifies clients that receive exclusive access to broadcasts; anyone not specified is denied access
+# Usage: <clientName>, <format:streamName>
+# Example: energy-partner, mp4:product-line-for-2013
+# Notes: Ensure there is a blank line at the end of this document, or the last entry will not be whitelisted!
+
+test, mp4:gelbroadcast
+fisher, mp4:gelbroadcast
+all, mp4:gelbroadcast
+electric, mp4:gelbroadcast
+calkins, mp4:gelbroadcast
+harvey, mp4:gelbroadcast
+altech, mp4:gelbroadcast
+bixby, mp4:gelbroadcast
+abston, mp4:gelbroadcast
+advanced, mp4:gelbroadcast
+meade, mp4:gelbroadcast
+union, mp4:gelbroadcast
+deca, mp4:gelbroadcast
+weyerhaeuser, mp4:gelbroadcast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

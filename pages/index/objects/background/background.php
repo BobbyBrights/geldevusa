@@ -4,8 +4,6 @@
 <div id="background_main_image_container">
 
     <img id="background_gradient" src="/pages/index/objects/background/img/gradient_change.png" alt="">
-    <img id="background_gradient_coverup" src="/pages/index/objects/background/img/coverup.png" alt="">
-
     <div id="background_image_container"> </div>
 </div>
 

@@ -7,7 +7,7 @@
     font-weight:bold;
 }
 
-#led_grid_flood_light_text
+#led_grid_high_bay_text
 {
     position:absolute;
     font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
@@ -20,11 +20,11 @@
     top: 0;
     left: 0;
     width: 1304px;
-    height: 1284px;
+    height: 1800px;
 
 }
 
-#led_grid_floodlights_container
+#led_grid_highbays_container
 {
     position: absolute;
     top: 29px;
@@ -77,7 +77,7 @@
     left: 0;
     top: 447px;
     width: 1304px;
-    height: 392px;
+    height: 754px;
 
 }
 
@@ -100,7 +100,7 @@
 #led_grid_gel150wp1_wrapper
 {
     position:absolute;
-    bottom: 0;
+    top: 70px;
     left: 0;
     width: 288px;
     height: 316px;
@@ -109,7 +109,7 @@
 #led_grid_gel50wp2_wrapper
 {
     position:absolute;
-    bottom: 0;
+    top: 70px;
     left: 337px;
     width: 288px;
     height: 316px;
@@ -118,7 +118,7 @@
 #led_grid_gel100wp1_wrapper
 {
     position:absolute;
-    bottom: 0;
+    top: 70px;
     right: 337px;
     width: 288px;
     height: 316px;
@@ -127,20 +127,46 @@
 #led_grid_gel100wp2_wrapper
 {
     position:absolute;
-    bottom: 0;
+    top: 70px;
     right: 0;
     width: 288px;
     height: 316px;
 }
 
+#led_grid_gledmwp18_wrapper
+{
+    position:absolute;
+    bottom: 0px;
+    left: 0;
+    width: 288px;
+    height: 316px;
+}
 
-#led_grid_area_lighting_container
+#led_grid_gledmwp25_wrapper
+{
+    position:absolute;
+    bottom: 0px;
+    left: 337px;
+    width: 288px;
+    height: 316px;
+}
+
+
+#led_grid_canopy_container
 {
     position: absolute;
-    bottom: 0;
+    bottom: 150px;
     left: 0;
     width: 1304px;
     height: 392px;
+}
+
+#led_grid_canopy_text
+{
+    position:absolute;
+    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
+    left: 0;
+    top: 25px;
 }
 
 

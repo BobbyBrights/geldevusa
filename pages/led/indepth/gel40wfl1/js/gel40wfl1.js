@@ -5,5 +5,4 @@ $(function(){
     $("#led_indepth_spec_sheet_link").attr("href", "#/led/gel40wfl1/specs");
     $("#led_indepth_install_instructions_link").attr("href", "#/led/gel40wfl1/instructions");
     $("#led_indepth_top_menu_highbay").fadeIn(500);
-
 });

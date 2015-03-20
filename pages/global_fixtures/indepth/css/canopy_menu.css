@@ -1,0 +1,89 @@
+#global_fixtures_indepth_top_menu_canopy
+{
+    position: absolute;
+    width: 509px;
+    height: 36px;
+    display: none;
+}
+
+
+
+
+#global_fixtures_indepth_top_wattage_bar_text_canopy
+{
+    position: absolute;
+    top: 8px;
+    left: 35px;
+    width: 455px;
+    height: 16px;
+
+}
+
+
+
+#global_fixtures_indepth_top_menu_bar_canopy_grid_view
+{
+    position: absolute;
+    left: 0;
+    top: 2px;
+}
+
+
+#global_fixtures_menu_canopy_divider_1
+{
+    position: absolute;
+    left: 110px;
+    top: 3px;
+}
+
+
+#global_fixtures_indepth_top_menu_bar_canopy_120w
+{
+    position: absolute;
+    left: 75px;
+    top: 3px;
+}
+
+#global_fixtures_menu_canopy_divider_2
+{
+    position: absolute;
+    left: 155px;
+    top: 5px;
+}
+
+#global_fixtures_indepth_top_menu_bar_canopy_150w
+{
+    position: absolute;
+    left: 125px;
+    top: 3px;
+}
+
+#global_fixtures_menu_canopy_divider_3
+{
+    position: absolute;
+    left: 205px;
+    top: 5px;
+}
+
+
+#global_fixtures_indepth_top_menu_bar_canopy_240w
+{
+    position: absolute;
+    left: 177px;
+    top: 3px;
+}
+
+#global_fixtures_menu_canopy_divider_4
+{
+    position: absolute;
+    left: 260px;
+    top: 5px;
+}
+
+
+#global_fixtures_indepth_top_menu_bar_canopy_300w
+{
+    position: absolute;
+    left: 232px;
+    top: 3px;
+}

@@ -11,12 +11,11 @@
             <span style="font-weight: bold">The 1000W</span> QuartzTek&reg; Retrofit Kit
         </span>
         <span class="quartztek_grid_1000W_rollover_text" id="quartztek_grid_1000W_rollover_top_paragraph_text">
-            The 1000W QuartzTek retrofit kit is ideal for use in settings such as university and business campuses,
-            general area lighting, security lighting, roadway lighting, parks, tunnels, municipalities,
-            parking garages, and more.
+            The 1000 Watt QuartzTek® retrofit kit is ideal for use in settings such as sport fields, arenas, high mast,
+            roadways, highways, parks, municipalities, car & RV lots, interior industrial, manufacturing, and more
         </span>
         <span class="quartztek_grid_1000W_rollover_text" id="quartztek_grid_1000W_rollover_top_header_lower_text">
-            <span style="font-weight: bold">1000W REPLACES:</span> 175W - 275W MH OR HPS
+            <span style="font-weight: bold">1000W REPLACES:</span> Up to 1750 Watt MH or HPS
         </span>
          <span class="quartztek_grid_1000W_rollover_text" id="quartztek_grid_1000W_rollover_top_paragraph_lower_text">
             The Green Guide: Find your ideal retrofit solution using our handy guide. The highlighted green section

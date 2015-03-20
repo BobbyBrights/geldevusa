@@ -1,25 +1,6 @@
 function handle_resource_page(page_info, callback)
 {
-    var index_body = document.getElementById('index_body_wrapper');
-    var menu_wrapper = document.getElementById('index_persistent_menu_wrapper');
-    change_index_inner_position(20);
 
-    if ( $(menu_wrapper).height() < 40)
-    {
-        $(menu_wrapper).fadeOut(250, function() {
-            $("#index_persistent_menu_wrapper").css("top", "0");
-            $(menu_wrapper).load(page_info.persistent_menu_file, function() {
-                $(menu_wrapper).animate({
-                    height: 56
-                }, 300, function() {
-                    $(menu_wrapper).fadeIn(500, function() {
-                        if(callback)
-                            callback();
-                    })
-                });
-            });
-        });
-    }
     replace_header_image(page_info.header_file);
     if (page_info.url.length > 1)
     {
@@ -39,36 +20,28 @@ function handle_resource_page(page_info, callback)
                     });
                 }
                 else {
+                    show_persistent_menu(page_info);
                     load_page(page_info, function () {
                         handle_resource_sort(page_info.url[1], function () {
                             callback();
                         });
                     });
                 }
-            break;
+                break;
 
             default:
                 page_info.url[0] = "/pages/resources/pdf/" + page_info.url[1] + ".pdf";
                 handle_pdf(page_info, function(){
 
                 });
-            break;
+                break;
         }
     }
     else
     {
-        $(index_body).fadeOut(500, function ()
-        {
-            display_background("/pages/index/objects/background/background_image.php", function () {
-                hide_products_sub_menu();
-                show_products_banner();
-                load_page(page_info, function () {
-                    $(index_body).fadeIn(500, function () {
-                        callback();
-                    });
-                });
-            });
-        });
+        display_page(page_info, function(){
+            callback();
+        })
     }
 }
 
@@ -146,7 +119,7 @@ function handle_resource_sort(call, callback) {
     if (call === "page3") {
         $("#resources_body_container_1").animate(
             {
-                "margin-left": "-1903px"
+                "margin-left": "-1953px"
             }, 500, function() {
                 if (callback)
                     callback();

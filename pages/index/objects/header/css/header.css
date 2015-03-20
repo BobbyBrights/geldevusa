@@ -62,7 +62,7 @@
 #header_social_bg
 {
     position: absolute;
-    top: 0;
+    top: 0px;
     width: 78%;
     height: 100%;
 }
@@ -161,7 +161,6 @@
 #header_top_bar_left_text_container
 {
     position: absolute;
-    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
     left: 31px;
     top: 15px;
     width: 206px;
@@ -221,7 +220,6 @@
     position: absolute;
     right: 13px;
     top: 5px;
-    font-family: "gel_tablet_gothic_light", 'Trebuchet MS',  sans-serif;
     color: #99a1a4;
     font-size: 14px;
     font-weight: bold;
@@ -236,7 +234,6 @@
     /* border: 1px solid blue; */
     width: 730px;
     height: 15px;
-    font-family: "gel_tablet_gothic_light", "Trebuchet MS", sans-serif;
     font-size: 13px;
     top: 14px;
     color: #bfc9cc;
@@ -303,7 +300,6 @@
     width: 510px;
     height: 20px;
     /* border: 1px solid blue; */
-    font-family: "gel_tablet_gothic_light", "Trebuchet MS",  sans-serif;
     font-size: 18px;
     color: #2f3337;
     text-decoration: none;
@@ -419,18 +415,6 @@
     z-index: 2;
 }
 
-
-#header_front_image_container
-{
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    height: 372px;
-    top: 0;
-    width: 1304px;
-}
-
-
 #header_front_image_wrapper
 {
     position: absolute;
@@ -447,23 +431,11 @@
 
 }
 
-#header_background_text_wrapper
-{
-    position: absolute;
-    left: 45px;
-    top: 115px;
-    width: 410px;
-    height: 200px;
-    z-index: 3;
-}
-
-
 #header_energy_text
 {
     position: absolute;
     top: 0;
     left: 0;
-    font-family: "gel_tablet_gothic_thin", "Trebuchet MS",  sans-serif;
     font-size: 60px;
     color: white;
 }
@@ -653,10 +625,10 @@
 #header_sub_menu_content
 {
     position: absolute;
-    height: 71px;
+    height: 51px;
     width: 1304px;
-    z-index: 3;
-    top: 1px;
+    z-index: 4;
+    top: 14px;
 }
 
 
@@ -665,30 +637,14 @@
 {
     position: absolute;
     left: 25px;
-    top: 15px;
-}
-
-
-#header_sub_menu_led_link
-{
-    z-index: 5;
-
-}
-
-#header_sub_menu_led_container
-{
-    width: 258px;
-    height: 71px;
-    position: absolute;
-    left: 0;
-    z-index: 4;
+    top: 5px;
 }
 
 #header_sub_menu_rollover_led
 {
     position: absolute;
     left: 2px;
-    bottom: 0;
+    bottom: -8px;
     z-index: -1;
     display: none;
 
@@ -699,14 +655,13 @@
 {
     position: absolute;
     left: 295px;
-    top: 10px;
 }
 
 #header_sub_menu_rollover_ceramatek
 {
     position: absolute;
     left: 260px;
-    bottom: 0;
+    bottom: -8px;
     z-index: -1;
     display: none;
 
@@ -717,14 +672,13 @@
 {
     position: absolute;
     left: 535px;
-    top: 10px;
 }
 
 #header_sub_menu_rollover_quartztek
 {
     position: absolute;
     left: 520px;
-    bottom: 0;
+    bottom: -8px;
     z-index: -1;
     display: none;
 
@@ -735,7 +689,6 @@
 {
     position: absolute;
     right: 295px;
-    top: 10px;
 
 }
 
@@ -743,7 +696,7 @@
 {
     position: absolute;
     right: 268px;
-    bottom: 0;
+    bottom: -8px;
     z-index: -1;
     display: none;
 }
@@ -754,14 +707,14 @@
 {
     position: absolute;
     right: 35px;
-    top: 10px;
+    top: 0;
 }
 
 #header_sub_menu_rollover_global_fixtures
 {
     position: absolute;
     right: 0;
-    bottom: 0;
+    bottom: -8px;
     z-index: -1;
     width: 268px;
     height: 71px;

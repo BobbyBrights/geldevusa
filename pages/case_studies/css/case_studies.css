@@ -26,49 +26,12 @@
 
 }
 
-#case_studies_hidden_container_0
+#case_studies_container
 {
     position: absolute;
     width: 1308px;
     height: 1607px;
     right: 0;
     top: 0;
-    display: none;
-    /* border: 1px solid red; */
-}
-
-
-#case_studies_hidden_container_1
-{
-    position: absolute;
-    width: 1308px;
-    height: 1607px;
-    right: 0;
-    top: 0;
-    display: none;
-    /* border: 1px solid red; */
-}
-
-
-#case_studies_hidden_container_2
-{
-    position: absolute;
-    width: 1308px;
-    height: 1607px;
-    right: 0;
-    top: 0;
-    display: none;
-    /* border: 1px solid red; */
-}
-
-
-#case_studies_hidden_container_3
-{
-    position: absolute;
-    width: 1308px;
-    height: 1607px;
-    right: 0;
-    top: 0;
-
     /* border: 1px solid red; */
 }

@@ -1,20 +1,10 @@
-#led_grid_gel80wfl1_rollover_wrapper
-{
-    position: absolute;
-    width: 511px;
-    height: 474px;
-    top: 40px;
-    left: -512px;
-    z-index: 1;
-    display: none;
-
-}
-
-
-#led_grid_gel80wfl1_container
+a:hover #led_grid_gel80wfl1_container
 {
     width: 288px;
     height: 316px;
+    -moz-box-shadow: 1px 1px 5px #c6c6c6;
+    -webkit-box-shadow: 1px 1px 5px #c6c6c6;
+    box-shadow: 1px 1px 5px #c6c6c6;
 }
 
 #led_grid_gel80wfl1_bg
@@ -32,9 +22,6 @@
 
 }
 
-
-
-
 #led_grid_gel80wfl1_text
 {
     font-family: "gel_tablet_gothic", "Trebuchet MS", sans-serif;
@@ -42,5 +29,7 @@
     font-size: 16px;
     position: absolute;
     bottom: 13px;
-    left: 100px;
+    left: 0px;
+    width: 287px;
+    text-align: center;
 }

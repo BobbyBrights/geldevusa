@@ -1,4 +1,4 @@
-.global_fixtures_gcrdl1_header_text
+.global_fixtures_G_header_text
 {
 
     color: #5c6264;
@@ -8,7 +8,7 @@
     left: 5px;
 }
 
-.global_fixtures_gcrdl1_table_header_text
+.global_fixtures_G_table_header_text
 {
 
     color: #ffffff;
@@ -17,7 +17,7 @@
 
 }
 
-.global_fixtures_gcrdl1_table_text
+.global_fixtures_G_table_text
 {
 
     color: #5c6264;
@@ -27,7 +27,7 @@
 
 
 
-.global_fixtures_gcrdl1_tech_specs_header
+.global_fixtures_G_tech_specs_header
 {
 
     color: #5c6264;
@@ -38,21 +38,21 @@
     left: 0;
 }
 
-.global_fixtures_gel40fl1_tech_specs_paragraph
+.global_fixtures_G_tech_specs_paragraph
 {
     position: absolute;
-    font-family: "gel_tablet_gothic", "Trebuchet MS", sans-serif;
     color: #5c6264;
-    font-size: 13px;
-    text-align: left;
-    top: 20px;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 18px;
+    top: 0px;
     left: 0;
 }
 
 
 
 
-#global_fixtures_gcrdl1_side_bar
+#global_fixtures_G_side_bar
 {
     position: absolute;
     top: 140px;
@@ -62,7 +62,7 @@
 }
 
 
-#global_fixtures_gcrdl1_side_bar_product
+#global_fixtures_G_side_bar_product
 {
     position: absolute;
     left: 0;
@@ -71,13 +71,13 @@
 }
 
 
-#global_fixtures_gcrdl1_lamp_wire_diagram_header
+#global_fixtures_G_lamp_wire_diagram_header
 {
     top: 365px;
 }
 
 
-#global_fixtures_gcrdl1_side_bar_lamp_wire_diagram
+#global_fixtures_G_side_bar_lamp_wire_diagram
 {
     position: absolute;
     left: 0;
@@ -88,7 +88,7 @@
 
 
 
-#global_fixtures_gcrdl1_right_container
+#global_fixtures_G_right_container
 {
     position: absolute;
     right: 0;
@@ -97,14 +97,14 @@
     height: 1588px;
 }
 
-#global_fixtures_gcrdl1_right_lamp_char_bg
+#global_fixtures_G_right_lamp_char_bg
 {
     position: absolute;
     top: 0;
     left: 0;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_1
+.global_fixtures_G_lamp_characteristics_table_1
 {
     position: absolute;
     top: 46px;
@@ -114,7 +114,7 @@
 }
 
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_2
+.global_fixtures_G_lamp_characteristics_table_2
 {
     position: absolute;
     top: 80px;
@@ -124,7 +124,7 @@
 }
 
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_3
+.global_fixtures_G_lamp_characteristics_table_3
 {
 
     position: absolute;
@@ -135,7 +135,7 @@
 
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_4
+.global_fixtures_G_lamp_characteristics_table_4
 {
     position: absolute;
     top: 144px;
@@ -144,7 +144,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_5
+.global_fixtures_G_lamp_characteristics_table_5
 {
     position: absolute;
     top: 177px;
@@ -153,7 +153,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_6
+.global_fixtures_G_lamp_characteristics_table_6
 {
     position: absolute;
     top: 209px;
@@ -162,7 +162,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_7
+.global_fixtures_G_lamp_characteristics_table_7
 {
     position: absolute;
     top: 242px;
@@ -171,7 +171,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_8
+.global_fixtures_G_lamp_characteristics_table_8
 {
     position: absolute;
     top: 275px;
@@ -180,7 +180,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_9
+.global_fixtures_G_lamp_characteristics_table_9
 {
     position: absolute;
     top: 309px;
@@ -189,7 +189,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_10
+.global_fixtures_G_lamp_characteristics_table_10
 {
     position: absolute;
     top: 340px;
@@ -200,7 +200,7 @@
 
 
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_11
+.global_fixtures_G_lamp_characteristics_table_11
 {
     position: absolute;
     top:375px;
@@ -209,7 +209,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_12
+.global_fixtures_G_lamp_characteristics_table_12
 {
     position: absolute;
     top: 408px;
@@ -218,7 +218,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_13
+.global_fixtures_G_lamp_characteristics_table_13
 {
     position: absolute;
     top: 440px;
@@ -227,7 +227,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_14
+.global_fixtures_G_lamp_characteristics_table_14
 {
     position: absolute;
     top: 475px;
@@ -236,7 +236,7 @@
     height: 20px;
 }
 
-.global_fixtures_gcrdl1_lamp_characteristics_table_15
+.global_fixtures_G_lamp_characteristics_table_15
 {
     position: absolute;
     top: 508px;
@@ -246,7 +246,7 @@
 }
 
 
-.global_fixtures_gcrdl1_table_header_container
+.global_fixtures_G_table_header_container
 {
     position: absolute;
     top: 9px;
@@ -257,32 +257,32 @@
 
 }
 
-.global_fixtures_gcrdl1_caracteristics_header_1
+.global_fixtures_G_caracteristics_header_1
 {
     position: absolute;
     left: 340px;
 }
 
-.global_fixtures_gcrdl1_caracteristics_header_2
+.global_fixtures_G_caracteristics_header_2
 {
     position: absolute;
     right: 225px;
 }
 
-.global_fixtures_gcrdl1_caracteristics_header_3
+.global_fixtures_G_caracteristics_header_3
 {
     position: absolute;
     right: 185px;
 
 }
 
-.global_fixtures_gcrdl1_caracteristics_header_4
+.global_fixtures_G_caracteristics_header_4
 {
     position: absolute;
     right: 0;
 }
 
-.global_fixtures_gcrdl1_table_col_1
+.global_fixtures_G_table_col_1
 {
     position: absolute;
     left: 0;
@@ -293,7 +293,7 @@
     /* border: 1px solid red; */
 
 }
-.global_fixtures_gcrdl1_table_col_2
+.global_fixtures_G_table_col_2
 {
     position: absolute;
     left: 320px;
@@ -304,7 +304,7 @@
 
 }
 
-.global_fixtures_gcrdl1_table_col_3
+.global_fixtures_G_table_col_3
 {
     position: absolute;
     width: 100px;
@@ -315,7 +315,7 @@
 
 }
 
-.global_fixtures_gcrdl1_table_col_4
+.global_fixtures_G_table_col_4
 {
     position: absolute;
     right: 107px;
@@ -326,7 +326,7 @@
 
 }
 
-.global_fixtures_gcrdl1_table_col_5
+.global_fixtures_G_table_col_5
 {
     position: absolute;
     right: 0;
@@ -336,17 +336,8 @@
     /* border: 1px solid red; */
 }
 
-#global_fixtures_gcrdl1_right_lamp_char_container
-{
-    width: 770px;
-    height: 366px;
-    position: absolute;
-    top: 0;
-    /* border: 1px solid red; */
 
-}
-
-#leg_gcrdl1_right_tech_specs_container
+#leg_G_right_tech_specs_container
 {
     position: absolute;
     bottom: 0;
@@ -355,251 +346,41 @@
     z-index: 3;
 }
 
-#global_fixtures_gcrdl1_right_lamp_tech_specs_bg
+#global_fixtures_G_right_lamp_tech_specs_bg
 {
     position: absolute;
-    bottom: 0;
+    top: 0px;
     left: 0;
 }
 
 
 
 
-#global_fixtures_gcrdl1_tech_specs_left_container
+#global_fixtures_G_tech_specs_left_container
 {
     position: absolute;
-    top: 10px;
+    bottom: 530px;
     left: 15px;
-    width: 350px;
-    height: 988px;
+    width: 740px;
+    height: 1000px;
 }
 
 
-#global_fixtures_gcrdl1_tech_specs_right_container
-{
-    position: absolute;
-    top: 10px;
-    right: 15px;
-    width: 350px;
-    height: 988px;
-}
-
-
-#global_fixtures_gcrdl1_tech_specs_p1
- {
-    position: absolute;
-    top: 0;
-    width: 100%;
-    height: 40px;
- }
-
-
-#global_fixtures_gcrdl1_tech_specs_p2
-{
-    position: absolute;
-    top: 57px;
-    width: 100%;
-    height: 55px;
-}
-
-
-#global_fixtures_gcrdl1_tech_specs_p3
-{
-    position: absolute;
-    top: 130px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p4
-{
-    position: absolute;
-    top: 185px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p5
-{
-    position: absolute;
-    top: 239px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p6
-{
-    position: absolute;
-    top: 294px;
-    width: 100%;
-    height: 55px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p7
-{
-    position: absolute;
-    top: 369px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p8
-{
-    position: absolute;
-    top: 422px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p9
-{
-    position: absolute;
-    top: 476px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p10
-{
-    position: absolute;
-    top: 532px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p11
-{
-    position: absolute;
-    top: 587px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p12
-{
-    position: absolute;
-    top: 641px;
-    width: 100%;
-    height: 40px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p13
-{
-    position: absolute;
-    top: 697px;
-    width: 100%;
-    height: 55px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p14
-{
-    position: absolute;
-    top: 770px;
-    width: 100%;
-    height: 55px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p15
+#global_fixtures_G_tech_specs_p1
 {
     position: absolute;
     top: 0;
-    right: 0;
     width: 100%;
-    height: 70px;
+    height: 40px;
 }
 
-#global_fixtures_gcrdl1_tech_specs_p16
+.global_fixtures_G_replacement_container
 {
     position: absolute;
-    top: 92px;
-    width: 100%;
-    height: 70px;
-}
+    bottom: 431px;
+    width: 721px;
+    left: 0px;
+    height: 20px;
+    z-index: 2;
 
-#global_fixtures_gcrdl1_tech_specs_p17
-{
-    position: absolute;
-    top: 162px;
-    width: 100%;
-    height: 50px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p18
-{
-    position: absolute;
-    top: 220px;
-    width: 100%;
-    height: 50px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p19
-{
-    position: absolute;
-    top: 273px;
-    width: 100%;
-    height: 50px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p20
-{
-    position: absolute;
-    top: 330px;
-    width: 100%;
-    height: 70px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p21
-{
-    position: absolute;
-    top: 416px;
-    width: 100%;
-    height: 50px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p22
-{
-    position: absolute;
-    top: 473px;
-    width: 100%;
-    height: 85px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p23
-{
-    position: absolute;
-    top: 580px;
-    width: 100%;
-    height: 49px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p24
-{
-    position: absolute;
-    top: 650px;
-    width: 100%;
-    height: 105px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p25
-{
-    position: absolute;
-    top: 772px;
-    width: 100%;
-    height: 65px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p26
-{
-    position: absolute;
-    top: 861px;
-    width: 100%;
-    height: 35px;
-}
-
-#global_fixtures_gcrdl1_tech_specs_p27
-{
-    position: absolute;
-    top: 917px;
-    width: 100%;
-    height: 70px;
 }

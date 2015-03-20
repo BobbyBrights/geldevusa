@@ -3,7 +3,7 @@
 
 
 <div id="error_container">
-        <span id="error_not_found">Not Found</span>
+        <span id="error_not_found" style="font-family:gel_tablet_gothic" style="font-weight:bold">Not Found</span>
 
 
     <span id="error_sorry_message">Sorry! The page you are trying to view cannot be found or does not exist.</span>

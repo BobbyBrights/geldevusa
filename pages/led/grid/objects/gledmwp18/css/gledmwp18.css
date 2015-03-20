@@ -1,0 +1,35 @@
+a:hover #led_grid_gledmwp18_container
+{
+    width: 288px;
+    height: 316px;
+    -moz-box-shadow: 1px 1px 5px #c6c6c6;
+    -webkit-box-shadow: 1px 1px 5px #c6c6c6;
+    box-shadow: 1px 1px 5px #c6c6c6;
+}
+
+#led_grid_gledmwp18_bg
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#led_grid_gledmwp18_product
+{
+    position: absolute;
+    left: 17px;
+    bottom: 50px;
+
+}
+
+#led_grid_gledmwp18_text
+{
+    font-family: "gel_tablet_gothic", "Trebuchet MS", sans-serif;
+    color: #99a1a4;
+    font-size: 16px;
+    position: absolute;
+    bottom: 13px;
+    left: 0px;
+    width: 287px;
+    text-align: center;
+}
